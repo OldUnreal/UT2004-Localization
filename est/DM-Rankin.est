@@ -1,0 +1,30 @@
+[LevelInfo0]
+; EN: Title="Rankin"
+Title="Rankin"
+
+[LevelSummary]
+; EN: Title="Rankin"
+Title="Rankin"
+; EN: Description="A medium sized map set in an old industrial building, in the middle of a heavy thunderstorm."
+Description="Un mapa de tamaño medio en un antiguo edificio industrial, en el centro de una gran tormenta."
+
+[Volume0]
+; EN: LocationName="Factory Area 2"
+LocationName="Zona de Fábrica 2"
+
+[Volume1]
+; EN: LocationName="Factory Area 1"
+LocationName="Zona de Fábrica 1"
+
+[Volume2]
+; EN: LocationName="Flak Room"
+LocationName="Sala de Antiaéreo"
+
+[Volume3]
+; EN: LocationName="Amp Area"
+LocationName="Zona de Daño Doble"
+
+[Volume4]
+; EN: LocationName="Basement"
+LocationName="Sótano"
+

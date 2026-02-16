@@ -1,0 +1,34 @@
+[LevelInfo0]
+Title="Ascendancy"
+
+[LevelSummary]
+Title="Ascendancy"
+Description="Battle over Tarydium crystal mines on the Second Moon of Kaldor Prime."
+
+[Volume0]
+LocationName="Red Base"
+
+[Volume1]
+LocationName="Blue Base"
+
+[Volume2]
+LocationName="Northwest Wing (6)"
+
+[Volume3]
+LocationName="Blue Prime Base (4)"
+
+[Volume4]
+LocationName="Center Base (5)"
+
+[Volume5]
+LocationName="Hub (1)"
+
+[Volume6]
+LocationName="Southeast Wing (2)"
+
+[Volume7]
+LocationName="Red Prime Base (3)"
+
+[ZoneInfo0]
+LocationName="Outdoors"
+

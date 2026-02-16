@@ -1,0 +1,79 @@
+[LevelInfo0]
+Title="Island Hop"
+
+[LevelSummary]
+Title="Island Hop"
+Description="This volcanic archipelago served once as a gateway in the human wars of the 21st century. Transformed for tournament use, a series of bridges now connects the islands. These bridges, though excellent use for ground based vehicles, do not provide a direct path to battle. Mantas will be the primary choice for transportation."
+
+[Volume0]
+LocationName="Southwest Island"
+
+[Volume1]
+LocationName="Southwest Island"
+
+[Volume10]
+LocationName="Red Base"
+
+[Volume11]
+LocationName="West Island"
+
+[Volume12]
+LocationName="Northwest Island"
+
+[Volume13]
+LocationName="Northwest Node (1)"
+
+[Volume14]
+LocationName="Northwest Island"
+
+[Volume15]
+LocationName="Northeast Island"
+
+[Volume16]
+LocationName="Northeast Island"
+
+[Volume17]
+LocationName="Northeast Island"
+
+[Volume18]
+LocationName="Blue Prime Node (4)"
+
+[Volume19]
+LocationName="East Island"
+
+[Volume2]
+LocationName="Southwest Island"
+
+[Volume20]
+LocationName="Small Northeast Island"
+
+[Volume21]
+LocationName="Blue Base"
+
+[Volume22]
+LocationName="East Island"
+
+[Volume23]
+LocationName="Southeast Island"
+
+[Volume24]
+LocationName="Southeast Node (3)"
+
+[Volume25]
+LocationName="Southeast Island"
+
+[Volume26]
+LocationName="Volcano"
+
+[Volume3]
+LocationName="Red Prime Node (2)"
+
+[Volume5]
+LocationName="West Island"
+
+[Volume9]
+LocationName="Small Southwest Island"
+
+[ZoneInfo1]
+LocationName="Outside"
+

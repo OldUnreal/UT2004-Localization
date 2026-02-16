@@ -1,0 +1,84 @@
+[LevelInfo0]
+; EN: Title="Compressed"
+Title="Comprimido"
+
+[LevelSummary]
+; EN: Title="Compressed"
+Title="Comprimido"
+
+[ZoneInfo0]
+; EN: LocationName="Top North Hall"
+LocationName="Sala Superior Norte"
+
+[ZoneInfo11]
+; EN: LocationName="Flak Hall"
+LocationName="Sala de Antiaéreo"
+
+[ZoneInfo12]
+; EN: LocationName="Flak Hall"
+LocationName="Sala de Antiaéreo"
+
+[ZoneInfo13]
+; EN: LocationName="Link Hall"
+LocationName="Sala de Enlazadora"
+
+[ZoneInfo14]
+; EN: LocationName="Link Hall"
+LocationName="Sala de Enlazadora"
+
+[ZoneInfo16]
+; EN: LocationName="Lower Shield hall"
+LocationName="Salón del escudo inferior"
+
+[ZoneInfo17]
+; EN: LocationName="Lower Shield hall"
+LocationName="Salón del escudo inferior"
+
+[ZoneInfo19]
+; EN: LocationName="Top North Hall"
+LocationName="Sala Superior Norte"
+
+[ZoneInfo2]
+; EN: LocationName="Left Annex"
+LocationName="Anexo izquierdo"
+
+[ZoneInfo20]
+; EN: LocationName="Flak elevator"
+LocationName="Ascensor de Antiaéreo"
+
+[ZoneInfo21]
+; EN: LocationName="Double Damage Corridor"
+LocationName="Corredor de Doble Daño"
+
+[ZoneInfo23]
+; EN: LocationName="Double Damage Corridor"
+LocationName="Corredor de Doble Daño"
+
+[ZoneInfo3]
+; EN: LocationName="Top South Hall"
+LocationName="Sala Superior Sur"
+
+[ZoneInfo4]
+; EN: LocationName="Top South Hall"
+LocationName="Sala Superior Sur"
+
+[ZoneInfo5]
+; EN: LocationName="Top South Hall"
+LocationName="Sala Superior Sur"
+
+[ZoneInfo6]
+; EN: LocationName="Lower Shield hall"
+LocationName="Salón del escudo inferior"
+
+[ZoneInfo7]
+; EN: LocationName="Top North Hall"
+LocationName="Sala Superior Norte"
+
+[ZoneInfo8]
+; EN: LocationName="Link Elevator"
+LocationName="Ascensor de Enlazadora"
+
+[ZoneInfo9]
+; EN: LocationName="Right Annex"
+LocationName="Anexo derecho"
+

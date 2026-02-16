@@ -1,0 +1,70 @@
+[LevelInfo0]
+; EN: Title="Dria"
+Title="Dria"
+
+[LevelSummary]
+; EN: Title="Dria"
+Title="Dria"
+; EN: Description="Set among the crumbling ruins of the last Nali fortress, these icefields were the final stand of the Nali against the Skaarj. Driving their Stone Giants before them, the Skaarj lay siege to the city for three weeks, at last breaking down the perimeter wall and wiping out all within for their effrontery. Now an arena of Onslaught, the vast range of this location will test the teamwork and focus of the very best."
+Description="Situada entre las runias de el último de los furtes Nali, estos campos de hielo fueron escenario de la batalla final entre los Nali y los Skaarj. Dirigiendo sus enormes piedras delante de ellos, los Skaarj acosaron la ciudad durante tres semanasa, rompiendo al final el muro defensivo y borrando de la escena todo la infanteria enemiga. Ahora arena de Acometida, la extensa plenitud de su territorio pondrá a prueba el esfuerzo en equipo y el concentramiento de los mejores."
+
+[Volume10]
+; EN: LocationName="North Bridge Tower"
+LocationName="Torre del Puente Norte"
+
+[Volume11]
+; EN: LocationName="South Bridge Tower"
+LocationName="Torre del Puente Sur"
+
+[Volume14]
+; EN: LocationName="North Node (6)"
+LocationName="Nodo Norte (6)"
+
+[Volume15]
+; EN: LocationName="Northwest Node (5)"
+LocationName="Nodo NorOeste (5)"
+
+[Volume16]
+; EN: LocationName="Red Base"
+LocationName="Base Roja"
+
+[Volume17]
+; EN: LocationName="Blue Base"
+LocationName="Base Azul"
+
+[Volume2]
+; EN: LocationName="Midwest Node (8)"
+LocationName="Nodo del Medio Oeste (8)"
+
+[Volume3]
+; EN: LocationName="Southeast Node (2)"
+LocationName="Nodo Sureste (2)"
+
+[Volume4]
+; EN: LocationName="Northeast Node (4)"
+LocationName="Nodo Nordeste (4)"
+
+[Volume5]
+; EN: LocationName="South Node (1)"
+LocationName="Nodo Sur (1)"
+
+[Volume6]
+; EN: LocationName="Southwest Node (7)"
+LocationName="Nodo Suroeste (7)"
+
+[Volume7]
+; EN: LocationName="Mideast Node (3)"
+LocationName="Nodo del Medio Este (3)"
+
+[Volume8]
+; EN: LocationName="North Bridge"
+LocationName="Puente Norte"
+
+[Volume9]
+; EN: LocationName="South Bridge"
+LocationName="Puente Sur"
+
+[ZoneInfo0]
+; EN: LocationName="Outside"
+LocationName="Exterior"
+

@@ -1,0 +1,90 @@
+[LevelInfo0]
+Title="Chrome"
+
+[LevelSummary]
+Title="Chrome"
+
+[ZoneInfo0]
+LocationName="Blue West Generator"
+
+[ZoneInfo1]
+LocationName="Blue Base"
+
+[ZoneInfo10]
+LocationName="Red East Spawn"
+
+[ZoneInfo11]
+LocationName="Blue West Entry"
+
+[ZoneInfo12]
+LocationName="Middle - Blue Side"
+
+[ZoneInfo13]
+LocationName="Middle - Red Side"
+
+[ZoneInfo14]
+LocationName="Middle - Red Side"
+
+[ZoneInfo15]
+LocationName="Red West Generator"
+
+[ZoneInfo16]
+LocationName="Red East Entry"
+
+[ZoneInfo17]
+LocationName="Red East Entry"
+
+[ZoneInfo18]
+LocationName="Red West Entry"
+
+[ZoneInfo2]
+LocationName="Red Base"
+
+[ZoneInfo20]
+LocationName="Blue East Spawn"
+
+[ZoneInfo21]
+LocationName="Blue West Spawn"
+
+[ZoneInfo22]
+LocationName="Middle - East Corridor"
+
+[ZoneInfo23]
+LocationName="Red East Generator"
+
+[ZoneInfo24]
+LocationName="Middle - Blue Side"
+
+[ZoneInfo25]
+LocationName="Blue West Entry"
+
+[ZoneInfo26]
+LocationName="Blue East Entry"
+
+[ZoneInfo27]
+LocationName="Middle - Blue Side"
+
+[ZoneInfo28]
+LocationName="Middle - East Corridor"
+
+[ZoneInfo3]
+LocationName="Blue East Generator"
+
+[ZoneInfo4]
+LocationName="Red West Entry"
+
+[ZoneInfo5]
+LocationName="Blue East Entry"
+
+[ZoneInfo6]
+LocationName="Middle - Red Side"
+
+[ZoneInfo7]
+LocationName="Middle - Blue Side"
+
+[ZoneInfo8]
+LocationName="Red West Spawn"
+
+[ZoneInfo9]
+LocationName="Middle - West Corridor"
+

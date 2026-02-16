@@ -1,0 +1,190 @@
+[Counter0]
+CompleteMessage="Secret activated!"
+
+[LevelInfo0]
+Title="Frostbite"
+
+[LevelSummary]
+Title="Frostbite"
+Description="Don't be deceived by the apparent simplicity found in this frozen waste. Although it's among the smallest arenas for Onslaught, Frostbite is defined by frenetic pace and pitched battles."
+
+[MessageTrigger0]
+Message="Peter Respondek"
+
+[MessageTrigger1]
+Message="Rogelio Olguin"
+
+[MessageTrigger10]
+Message="Phil Cole"
+
+[MessageTrigger11]
+Message="Nate Overman"
+
+[MessageTrigger2]
+Message="Jeff Geis"
+
+[MessageTrigger3]
+Message="David Sirmons"
+
+[MessageTrigger4]
+Message="Matt Oelfke"
+
+[MessageTrigger5]
+Message="Stuart Fitzsimmons"
+
+[MessageTrigger6]
+Message="Ron Prestenback"
+
+[MessageTrigger7]
+Message="Ben Beckwith"
+
+[MessageTrigger8]
+Message="Laurent Delayen"
+
+[MessageTrigger9]
+Message="Dave Hagewood"
+
+[PhysicsVolume51]
+LocationName="Secret Underground Hiding Place"
+
+[Volume0]
+LocationName="Blue Tower"
+
+[Volume1]
+LocationName="Red Base"
+
+[Volume10]
+LocationName="Red Power Core"
+
+[Volume11]
+LocationName="Red Power Core"
+
+[Volume12]
+LocationName="Center Node (3)"
+
+[Volume13]
+LocationName="Red Entrance"
+
+[Volume14]
+LocationName="Center Node (3)"
+
+[Volume15]
+LocationName="Center Node (3)"
+
+[Volume16]
+LocationName="Red Tower"
+
+[Volume17]
+LocationName="Center Node (3)"
+
+[Volume18]
+LocationName="Southeast Valley"
+
+[Volume19]
+LocationName="Southwest Lake"
+
+[Volume2]
+LocationName="Blue Tower"
+
+[Volume20]
+LocationName="Northwest Lake"
+
+[Volume21]
+LocationName="Northeast Valley"
+
+[Volume22]
+LocationName="Central Lake"
+
+[Volume23]
+LocationName="Northern Canyon"
+
+[Volume24]
+LocationName="Southern Canyon"
+
+[Volume25]
+LocationName="Southeast Node (1)"
+
+[Volume26]
+LocationName="Northeast Node (2)"
+
+[Volume27]
+LocationName="Central Mountain"
+
+[Volume29]
+LocationName="Central Mountain"
+
+[Volume3]
+LocationName="Center Node (3)"
+
+[Volume30]
+LocationName="North"
+
+[Volume31]
+LocationName="South"
+
+[Volume4]
+LocationName="Red Tower"
+
+[Volume5]
+LocationName="Blue Base"
+
+[Volume6]
+LocationName="Blue Power Core"
+
+[Volume7]
+LocationName="Blue Power Core"
+
+[Volume8]
+LocationName="Center Node (3)"
+
+[Volume9]
+LocationName="Blue Entrance"
+
+[ZoneInfo0]
+LocationName="Blue Entrance"
+
+[ZoneInfo1]
+LocationName="Blue Tower"
+
+[ZoneInfo10]
+LocationName="Center Node (3)"
+
+[ZoneInfo11]
+LocationName="Center Node (3)"
+
+[ZoneInfo12]
+LocationName="Red Tower"
+
+[ZoneInfo13]
+LocationName="Red Base"
+
+[ZoneInfo14]
+LocationName="Secret Hideout"
+
+[ZoneInfo15]
+LocationName="Easter Egg Area"
+
+[ZoneInfo2]
+LocationName="Red Tower"
+
+[ZoneInfo3]
+LocationName="Outside"
+
+[ZoneInfo4]
+LocationName="Red Tower"
+
+[ZoneInfo5]
+LocationName="Blue Tower"
+
+[ZoneInfo6]
+LocationName="Center Node (3)"
+
+[ZoneInfo7]
+LocationName="Red Tower"
+
+[ZoneInfo8]
+LocationName="Center Node (3)"
+
+[ZoneInfo9]
+LocationName="Center Node (3)"
+

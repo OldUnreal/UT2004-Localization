@@ -1,0 +1,73 @@
+[LevelInfo0]
+Title="Arctic Stronghold"
+
+[LevelSummary]
+Title="Arctic Stronghold"
+Description="Stationed at 24,000 feet and veiled behind blinding fog and constant snow, Arctic Stronghold provided the perfect place to conduct unsanctioned military experiments for use against the Skaarj. Restructured for Onslaught, this arena allows several paths to your enemy, and countless paths to death for the foolish or unwary."
+
+[Volume0]
+LocationName="Red Base"
+
+[Volume1]
+LocationName="Red Base"
+
+[Volume10]
+LocationName="Blue Base"
+
+[Volume11]
+LocationName="Blue Base"
+
+[Volume12]
+LocationName="Blue Base"
+
+[Volume13]
+LocationName="Below East Bridge"
+
+[Volume14]
+LocationName="Blue Base"
+
+[Volume15]
+LocationName="North Node (4)"
+
+[Volume16]
+LocationName="East Node (2)"
+
+[Volume17]
+LocationName="Central Node (5)"
+
+[Volume18]
+LocationName="South Node (1)"
+
+[Volume19]
+LocationName="West Node (3)"
+
+[Volume2]
+LocationName="Red Base"
+
+[Volume20]
+LocationName="Bridge"
+
+[Volume3]
+LocationName="Red Base"
+
+[Volume4]
+LocationName="Red Base"
+
+[Volume5]
+LocationName="Red Base"
+
+[Volume6]
+LocationName="Red Base"
+
+[Volume7]
+LocationName="Blue Base"
+
+[Volume8]
+LocationName="Blue Base"
+
+[Volume9]
+LocationName="Blue Base"
+
+[ZoneInfo0]
+LocationName="Outside"
+

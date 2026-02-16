@@ -1,0 +1,54 @@
+[LevelInfo0]
+; EN: Title="Goliath"
+Title="Goliat"
+
+[LevelSummary]
+; EN: Title="Goliath"
+Title="Goliat"
+; EN: Description="High above Calaban VII, Goliath class orbital power stations provide the thriving colonies below with both power and protection.  Virtually immune to small arms fire, the platforms have become popular staging arenas for the tournaments.  Occasional radiation leakage has resulted in arenas that are not only entertaining, but self-cleaning too."
+Description="En las alturas de Calaban VII, las estaciones orbitales de clase Goliath proporcionan energía y protección a las prósperas colonias de la superficie. Al ser virtualmente inmunes a los disparos de las armas convencionales, estas plataformas se han convertido en populares escenarios de los torneos. Las ocasionales fugas de radiación hacen que estos estadios no solo sean entretenidos, sino también autolimpiables."
+
+[Volume0]
+; EN: LocationName="Secret Rooftop Platform"
+LocationName="Plataforma Secreta del Techo"
+
+[Volume1]
+; EN: LocationName="Sneaky Lowgrav Quadjump Spot"
+LocationName="Punto de Salto Cuádruple de Baja Gravedad"
+
+[ZoneInfo0]
+; EN: LocationName="Shock Rifle Room"
+LocationName="Sala de Rifle de Choque"
+
+[ZoneInfo1]
+; EN: LocationName="Udamage Spawn Hall"
+LocationName="Cámara de Reaparición de Doble Daño"
+
+[ZoneInfo2]
+; EN: LocationName="Minigun Room"
+LocationName="Sala de Ametralladora"
+
+[ZoneInfo3]
+; EN: LocationName="Health Vial Spawn Hall"
+LocationName="Cámara de Reparición de Frasco de Salud"
+
+[ZoneInfo4]
+; EN: LocationName="Lightning Gun Big Room"
+LocationName="Sala Grande Arma Eléctrica"
+
+[ZoneInfo5]
+; EN: LocationName="Super Shield Spawn Hall"
+LocationName="Sala de Reaparición de Superescudo"
+
+[ZoneInfo6]
+; EN: LocationName="Lightning Gun Big Room"
+LocationName="Sala Grande Arma Eléctrica"
+
+[ZoneInfo7]
+; EN: LocationName="Lower Mid Halls"
+LocationName="Cámaras Inferiores Intermedias"
+
+[ZoneInfo8]
+; EN: LocationName="Upper Mid Halls"
+LocationName="Cámaras Superiores Intermedias"
+

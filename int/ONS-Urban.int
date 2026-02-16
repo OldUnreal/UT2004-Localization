@@ -1,0 +1,148 @@
+[LevelInfo0]
+Title="Urban"
+
+[LevelSummary]
+Title="Urban"
+Description="Once the pinnacle of modernized civilization, this dense urban center has since fallen victim to crime, corruption, and civil war. Now mostly vacant, it has become a haven for underground criminal activity and lawlessness. LMC organizers jumped at the opportunity to own this prime piece of real estate. Instead of leveling the area and constructing a new arena, they decided to let the combatants do the demolition work themselves."
+
+[Volume0]
+LocationName="Blue Base"
+
+[Volume2]
+LocationName="Center Node (5)"
+
+[Volume3]
+LocationName="Blue Prime Node (3)"
+
+[Volume4]
+LocationName="Blue Subway Node (2)"
+
+[Volume5]
+LocationName="Blue Leviathan Node (7)"
+
+[Volume6]
+LocationName="Red Base"
+
+[Volume7]
+LocationName="Red Prime Node (4)"
+
+[Volume8]
+LocationName="Red Subway Node (1)"
+
+[Volume9]
+LocationName="Red Leviathan Node (6)"
+
+[ZoneInfo0]
+LocationName="Sewers"
+
+[ZoneInfo10]
+LocationName="Caudle Ave. (West)"
+
+[ZoneInfo11]
+LocationName="Eastern Ruins"
+
+[ZoneInfo12]
+LocationName="Caudle Ave. (East)"
+
+[ZoneInfo13]
+LocationName="Caudle Ave. (East)"
+
+[ZoneInfo14]
+LocationName="Blezinski Blvd."
+
+[ZoneInfo15]
+LocationName="Blue Base Entrance"
+
+[ZoneInfo16]
+LocationName="Blue Base Entrance"
+
+[ZoneInfo17]
+LocationName="Blue Base Entrance"
+
+[ZoneInfo18]
+LocationName="Blue Base Entrance"
+
+[ZoneInfo2]
+LocationName="Blue Leviathan Courtyard"
+
+[ZoneInfo20]
+LocationName="Blezinski Blvd. (East)"
+
+[ZoneInfo21]
+LocationName="Western Ruins"
+
+[ZoneInfo22]
+LocationName="Blezinski Blvd. (West)"
+
+[ZoneInfo23]
+LocationName="Blezinski Blvd. (West)"
+
+[ZoneInfo24]
+LocationName="Red Leviathan Courtyard"
+
+[ZoneInfo25]
+LocationName="Red Subway Entrance"
+
+[ZoneInfo26]
+LocationName="Blue Subway"
+
+[ZoneInfo27]
+LocationName="Blue Subway"
+
+[ZoneInfo28]
+LocationName="Blue Forward Base"
+
+[ZoneInfo29]
+LocationName="Blue Power Core"
+
+[ZoneInfo3]
+LocationName="Raptor Launchpad"
+
+[ZoneInfo30]
+LocationName="Northwest Dropoff"
+
+[ZoneInfo31]
+LocationName="Southwest Dropoff"
+
+[ZoneInfo32]
+LocationName="Red Subway"
+
+[ZoneInfo33]
+LocationName="Red Subway"
+
+[ZoneInfo34]
+LocationName="Red Forward Base"
+
+[ZoneInfo35]
+LocationName="Red Power Core"
+
+[ZoneInfo36]
+LocationName="Southeast Dropoff"
+
+[ZoneInfo37]
+LocationName="Northeast Dropoff"
+
+[ZoneInfo38]
+LocationName="Sewers"
+
+[ZoneInfo4]
+LocationName="Caudle Ave."
+
+[ZoneInfo40]
+LocationName="Sewers"
+
+[ZoneInfo5]
+LocationName="Red Base Entrance"
+
+[ZoneInfo6]
+LocationName="Red Base Entrance"
+
+[ZoneInfo7]
+LocationName="Red Base Entrance"
+
+[ZoneInfo8]
+LocationName="Red Base Entrance"
+
+[ZoneInfo9]
+LocationName="Blue Subway Entrance"
+
