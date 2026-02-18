@@ -1346,7 +1346,7 @@ MapInfoName.Caption="Encuentro No Seleccionado"
 
 [Tab_SPLadderTeam]
 ; EN: BRLabel.Caption="BOMBING RUN"
-BRLabel.Caption="CARRERA DE BOMBARDEO"
+BRLabel.Caption="CARR. DE BOMBARDEO"
 ; EN: CTFLabel.Caption="CAPTURE THE FLAG"
 CTFLabel.Caption="CAPTURAR LA BANDERA"
 ; EN: DOMLabel.Caption="DOMINATION"
