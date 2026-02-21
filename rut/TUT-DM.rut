@@ -1,0 +1,16 @@
+[LevelInfo0]
+; EN: Title="Deathmatch Tutorial"
+Title="Tutorial de Partida a Muerte"
+
+[LevelSummary]
+; EN: Title="Deathmatch Tutorial"
+Title="Tutorial de Partida a Muerte"
+
+[Trigger0]
+; EN: Message="0wnage"
+Message="¡Excelente!"
+
+[Trigger1]
+; EN: Message="0wnage"
+Message="¡Excelente!"
+

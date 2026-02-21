@@ -1,0 +1,52 @@
+[LevelInfo0]
+; EN: Title="Leviathan"
+Title="Leviatán"
+
+[LevelSummary]
+; EN: Title="Leviathan"
+Title="Leviatán"
+
+[ZoneInfo0]
+; EN: LocationName="North-East Upper Hallway"
+LocationName="Pasadizo Superior Noreste"
+
+[ZoneInfo1]
+; EN: LocationName="Main Room"
+LocationName="Sala Principal"
+
+[ZoneInfo10]
+; EN: LocationName="North-East Hallway"
+LocationName="Pasadizo Noreste"
+
+[ZoneInfo2]
+; EN: LocationName="North-West Upper Hallway"
+LocationName="Pasadizo Superior Noroeste"
+
+[ZoneInfo3]
+; EN: LocationName="North-West Hallway"
+LocationName="Pasadizo Noroeste"
+
+[ZoneInfo4]
+; EN: LocationName="Western Chamber"
+LocationName="Cámara Oeste"
+
+[ZoneInfo5]
+; EN: LocationName="South-West Hallway"
+LocationName="Pasadizo Suroeste"
+
+[ZoneInfo6]
+; EN: LocationName="South-West Upper Hallway"
+LocationName="Pasadizo Superior Suroeste"
+
+[ZoneInfo7]
+; EN: LocationName="South-East Upper Hallway"
+LocationName="Pasadizo Superior Sureste"
+
+[ZoneInfo8]
+; EN: LocationName="South-East Hallway"
+LocationName="Pasadizo Sureste"
+
+[ZoneInfo9]
+; EN: LocationName="Eastern Chamber"
+LocationName="Cámara Este"
+

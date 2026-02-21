@@ -1,0 +1,58 @@
+[LevelInfo0]
+; EN: Title="Squader"
+Title="Squader"
+
+[LevelSummary]
+; EN: Title="Squader"
+Title="Squader"
+; EN: Description="Once a section of a hidden military research facility, this cold structure now hosts some of the premiere 1 on 1 duels from the Tournament. The pressure is on.....how will you handle the spotlight?"
+Description="En tiempos parte de un complejo secreto de investigación militar, esta fría estructura acoge ahora algunos de los 1 contra 1 del Torneo. La presión es abrumadora... ¿podrás soportar los focos?"
+
+[ZoneInfo0]
+; EN: LocationName="Super Shield Area"
+LocationName="Zona de Superescudo"
+
+[ZoneInfo10]
+; EN: LocationName="UDamage Halls"
+LocationName="Salas de Daño Doble"
+
+[ZoneInfo11]
+; EN: LocationName="UDamage Halls"
+LocationName="Salas de Daño Doble"
+
+[ZoneInfo12]
+; EN: LocationName="Super Shield Area"
+LocationName="Zona de Superescudo"
+
+[ZoneInfo2]
+; EN: LocationName="Minigun Lift"
+LocationName="Ascensor de Ametralladora"
+
+[ZoneInfo3]
+; EN: LocationName="Flak Hall"
+LocationName="Cámara de Antiaéreo"
+
+[ZoneInfo4]
+; EN: LocationName="Flak Hall"
+LocationName="Cámara de Antiaéreo"
+
+[ZoneInfo5]
+; EN: LocationName="Double Health"
+LocationName="Doble Salud"
+
+[ZoneInfo6]
+; EN: LocationName="Bio Rifle Corner"
+LocationName="Esquina del Bio Rifle"
+
+[ZoneInfo7]
+; EN: LocationName="Large Window Area"
+LocationName="Zona de Gran Ventana"
+
+[ZoneInfo8]
+; EN: LocationName="Large Window Area"
+LocationName="Zona de Gran Ventana"
+
+[ZoneInfo9]
+; EN: LocationName="UDamage Halls"
+LocationName="Salas de Daño Doble"
+

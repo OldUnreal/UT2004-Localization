@@ -1,0 +1,58 @@
+[LevelInfo0]
+; EN: Title="Mixer"
+Title="Mezclador"
+
+[LevelSummary]
+; EN: Title="Mixer"
+Title="Mezclador"
+; EN: Description="Gunsmoke and death aren't the only things you'll smell here."
+Description="Aquí solo olerás muerte y el humo de las armas."
+
+[ZoneInfo0]
+; EN: LocationName="Pipe"
+LocationName="Tubería"
+
+[ZoneInfo1]
+; EN: LocationName="Shield Chamber"
+LocationName="Cámara de Escudo"
+
+[ZoneInfo10]
+; EN: LocationName="Minigun"
+LocationName="Ametralladora"
+
+[ZoneInfo11]
+; EN: LocationName="Rocket Launcher"
+LocationName="Lanzacohetes"
+
+[ZoneInfo12]
+; EN: LocationName="Double Damage"
+LocationName="Doble Daño"
+
+[ZoneInfo13]
+; EN: LocationName="Lift"
+LocationName="Ascensor"
+
+[ZoneInfo14]
+; EN: LocationName="Lift"
+LocationName="Ascensor"
+
+[ZoneInfo3]
+; EN: LocationName="Pipes"
+LocationName="Tuberías"
+
+[ZoneInfo5]
+; EN: LocationName="Lightning Gun"
+LocationName="Arma Eléctrica"
+
+[ZoneInfo6]
+; EN: LocationName="Link Gun"
+LocationName="Arma Enlazadora"
+
+[ZoneInfo7]
+; EN: LocationName="Basement"
+LocationName="Sótano"
+
+[ZoneInfo9]
+; EN: LocationName="Shock Rifle"
+LocationName="Rifle de Choque"
+

@@ -1,0 +1,80 @@
+[LevelInfo0]
+; EN: Title="Double Domination Tutorial"
+Title="Tutorial de Dominación Doble"
+
+[LevelSummary]
+; EN: Title="Double Domination Tutorial"
+Title="Tutorial de Dominación Doble"
+
+[PhysicsVolume0]
+; EN: LocationName="Blue Spawn"
+LocationName="Reaparición Azules"
+
+[PhysicsVolume1]
+; EN: LocationName="Red Spawn"
+LocationName="Reaparición Rojos"
+
+[ZoneInfo0]
+; EN: LocationName="Inside Center"
+LocationName="Centro Interior"
+
+[ZoneInfo1]
+; EN: LocationName="Back Hallway B"
+LocationName="Pasadizo Trasero B"
+
+[ZoneInfo14]
+; EN: LocationName="Outside"
+LocationName="Exterior"
+
+[ZoneInfo15]
+; EN: LocationName="Inside Center"
+LocationName="Centro Interior"
+
+[ZoneInfo16]
+; EN: LocationName="Spawn Blue"
+LocationName="Reaparición Azules"
+
+[ZoneInfo17]
+; EN: LocationName="Front Hallway A"
+LocationName="Pasadizo Frontal A"
+
+[ZoneInfo18]
+; EN: LocationName="Front Hallway A"
+LocationName="Pasadizo Frontal A"
+
+[ZoneInfo19]
+; EN: LocationName="Room A"
+LocationName="Sala A"
+
+[ZoneInfo20]
+; EN: LocationName="Back Hallway A"
+LocationName="Pasadizo Trasero A"
+
+[ZoneInfo3]
+; EN: LocationName="Inside Center"
+LocationName="Centro Interior"
+
+[ZoneInfo4]
+; EN: LocationName="Inside Center"
+LocationName="Centro Interior"
+
+[ZoneInfo5]
+; EN: LocationName="Inside Center"
+LocationName="Centro Interior"
+
+[ZoneInfo6]
+; EN: LocationName="Front Hallway B"
+LocationName="Pasadizo Frontal B"
+
+[ZoneInfo7]
+; EN: LocationName="Spawn Red"
+LocationName="Reaparición Rojos"
+
+[ZoneInfo8]
+; EN: LocationName="Front Hallway B"
+LocationName="Pasadizo Frontal B"
+
+[ZoneInfo9]
+; EN: LocationName="Room B"
+LocationName="Sala B"
+

@@ -1,0 +1,198 @@
+[LevelInfo0]
+; EN: Title="Urban"
+Title="Urbano"
+
+[LevelSummary]
+; EN: Title="Urban"
+Title="Urbano"
+; EN: Description="Once the pinnacle of modernized civilization, this dense urban center has since fallen victim to crime, corruption, and civil war. Now mostly vacant, it has become a haven for underground criminal activity and lawlessness. LMC organizers jumped at the opportunity to own this prime piece of real estate. Instead of leveling the area and constructing a new arena, they decided to let the combatants do the demolition work themselves."
+Description="Este denso centro urbano, que alguna vez fuera el pináculo de la civilización modernizada, ha sido víctima del crimen, la corrupción y la guerra civil. Ahora casi vacío, se ha convertido en un refugio para la actividad criminal clandestina y la anarquía. Los organizadores de Liandri aprovecharon la oportunidad de ser propietarios de esta excelente propiedad inmobiliaria. En lugar de nivelar el área y construir una nueva arena, decidieron dejar que los combatientes hicieran el trabajo de demolición ellos mismos."
+
+[Volume0]
+; EN: LocationName="Blue Base"
+LocationName="Base Azul"
+
+[Volume2]
+; EN: LocationName="Center Node (5)"
+LocationName="Nodo Central (5)"
+
+[Volume3]
+; EN: LocationName="Blue Prime Node (3)"
+LocationName="Nodo Principal Azul (3)"
+
+[Volume4]
+; EN: LocationName="Blue Subway Node (2)"
+LocationName="Nodo Metro Azul (2)"
+
+[Volume5]
+; EN: LocationName="Blue Leviathan Node (7)"
+LocationName="Nodo Leviatán Azul (7)"
+
+[Volume6]
+; EN: LocationName="Red Base"
+LocationName="Base Roja"
+
+[Volume7]
+; EN: LocationName="Red Prime Node (4)"
+LocationName="Nodo Principal Rojo (4)"
+
+[Volume8]
+; EN: LocationName="Red Subway Node (1)"
+LocationName="Nodo Metro Rojo (1)"
+
+[Volume9]
+; EN: LocationName="Red Leviathan Node (6)"
+LocationName="Nodo Leviatán Rojo (6)"
+
+[ZoneInfo0]
+; EN: LocationName="Sewers"
+LocationName="Fosas Sépticas"
+
+[ZoneInfo10]
+; EN: LocationName="Caudle Ave. (West)"
+LocationName="Ave. Caudle (Oeste)"
+
+[ZoneInfo11]
+; EN: LocationName="Eastern Ruins"
+LocationName="Ruinas del Este"
+
+[ZoneInfo12]
+; EN: LocationName="Caudle Ave. (East)"
+LocationName="Ave. Caudle (Este)"
+
+[ZoneInfo13]
+; EN: LocationName="Caudle Ave. (East)"
+LocationName="Ave. Caudle (Este)"
+
+[ZoneInfo14]
+; EN: LocationName="Blezinski Blvd."
+LocationName="Blvd. Blezinski"
+
+[ZoneInfo15]
+; EN: LocationName="Blue Base Entrance"
+LocationName="Entrada a Base Azul"
+
+[ZoneInfo16]
+; EN: LocationName="Blue Base Entrance"
+LocationName="Entrada a Base Azul"
+
+[ZoneInfo17]
+; EN: LocationName="Blue Base Entrance"
+LocationName="Entrada a Base Azul"
+
+[ZoneInfo18]
+; EN: LocationName="Blue Base Entrance"
+LocationName="Entrada a Base Azul"
+
+[ZoneInfo2]
+; EN: LocationName="Blue Leviathan Courtyard"
+LocationName="Patio de Leviatán Azul"
+
+[ZoneInfo20]
+; EN: LocationName="Blezinski Blvd. (East)"
+LocationName="Blvd. Blezinski (Este)"
+
+[ZoneInfo21]
+; EN: LocationName="Western Ruins"
+LocationName="Ruinas del Oeste"
+
+[ZoneInfo22]
+; EN: LocationName="Blezinski Blvd. (West)"
+LocationName="Blvd. Blezinski (Oeste)"
+
+[ZoneInfo23]
+; EN: LocationName="Blezinski Blvd. (West)"
+LocationName="Blvd. Blezinski (Oeste)"
+
+[ZoneInfo24]
+; EN: LocationName="Red Leviathan Courtyard"
+LocationName="Patio de Leviatán Rojo"
+
+[ZoneInfo25]
+; EN: LocationName="Red Subway Entrance"
+LocationName="Entrada a Metro Roja"
+
+[ZoneInfo26]
+; EN: LocationName="Blue Subway"
+LocationName="Metro Azul"
+
+[ZoneInfo27]
+; EN: LocationName="Blue Subway"
+LocationName="Metro Azul"
+
+[ZoneInfo28]
+; EN: LocationName="Blue Forward Base"
+LocationName="Base Delantera Azul"
+
+[ZoneInfo29]
+; EN: LocationName="Blue Power Core"
+LocationName="Núcleo Azul"
+
+[ZoneInfo3]
+; EN: LocationName="Raptor Launchpad"
+LocationName="Plat. Despegue Raptors"
+
+[ZoneInfo30]
+; EN: LocationName="Northwest Dropoff"
+LocationName="Caída NorOeste"
+
+[ZoneInfo31]
+; EN: LocationName="Southwest Dropoff"
+LocationName="Caída SudOeste"
+
+[ZoneInfo32]
+; EN: LocationName="Red Subway"
+LocationName="Metro Rojo"
+
+[ZoneInfo33]
+; EN: LocationName="Red Subway"
+LocationName="Metro Rojo"
+
+[ZoneInfo34]
+; EN: LocationName="Red Forward Base"
+LocationName="Base Delantera Roja"
+
+[ZoneInfo35]
+; EN: LocationName="Red Power Core"
+LocationName="Núcleo Rojo"
+
+[ZoneInfo36]
+; EN: LocationName="Southeast Dropoff"
+LocationName="Caída Sudeste"
+
+[ZoneInfo37]
+; EN: LocationName="Northeast Dropoff"
+LocationName="Caída Nordeste"
+
+[ZoneInfo38]
+; EN: LocationName="Sewers"
+LocationName="Fosas Sépticas"
+
+[ZoneInfo4]
+; EN: LocationName="Caudle Ave."
+LocationName="Ave. Caudle"
+
+[ZoneInfo40]
+; EN: LocationName="Sewers"
+LocationName="Fosas Sépticas"
+
+[ZoneInfo5]
+; EN: LocationName="Red Base Entrance"
+LocationName="Entrada a Base Roja"
+
+[ZoneInfo6]
+; EN: LocationName="Red Base Entrance"
+LocationName="Entrada a Base Roja"
+
+[ZoneInfo7]
+; EN: LocationName="Red Base Entrance"
+LocationName="Entrada a Base Roja"
+
+[ZoneInfo8]
+; EN: LocationName="Red Base Entrance"
+LocationName="Entrada a Base Roja"
+
+[ZoneInfo9]
+; EN: LocationName="Blue Subway Entrance"
+LocationName="Entrada a Metro Azul"
+

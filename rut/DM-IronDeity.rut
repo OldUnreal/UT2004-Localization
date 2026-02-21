@@ -1,0 +1,58 @@
+[LevelInfo0]
+; EN: Title="Iron Deity"
+Title="Deidad de Hierro"
+
+[LevelSummary]
+; EN: Title="Iron Deity"
+Title="Deidad de Hierro"
+; EN: Description="This large and imposing arena plays best with two medium sized teams of combatants. Try to not get caught running through the tight fan room and be sure to control the Double Damage. Lastly, keep your eyes peeled for the hidden Redeemer!"
+Description="Este estadio grande e imponente es más apropiado para dos equipos de combatientes de tamaño medio. Procura que no te pillen corriendo por la estrecha sala del ventilador y asegúrate de controlar el Doble Daño. Por último, ¡estate atento al Redentor oculto!"
+
+[ZoneInfo0]
+; EN: LocationName="Near Lightning Gun"
+LocationName="Cerca del Arma Eléctrica"
+
+[ZoneInfo1]
+; EN: LocationName="Lower Ramp"
+LocationName="Rampa Inferior"
+
+[ZoneInfo10]
+; EN: LocationName="Low FPS room"
+LocationName="Sala de Bajo FPS"
+
+[ZoneInfo11]
+; EN: LocationName="Near Double Damage"
+LocationName="Cerca del Doble Daño"
+
+[ZoneInfo12]
+; EN: LocationName="Closet"
+LocationName="Armario"
+
+[ZoneInfo2]
+; EN: LocationName="Near Link Gun"
+LocationName="Cerca del Arma Enlazadora"
+
+[ZoneInfo3]
+; EN: LocationName="Minigun"
+LocationName="Ametralladora"
+
+[ZoneInfo4]
+; EN: LocationName="Double Damage"
+LocationName="Doble Daño"
+
+[ZoneInfo5]
+; EN: LocationName="Flak Room"
+LocationName="Sala de Antiaéreo"
+
+[ZoneInfo7]
+; EN: LocationName="Bathroom"
+LocationName="Cuarto de Baño"
+
+[ZoneInfo8]
+; EN: LocationName="Closet"
+LocationName="Armario"
+
+[ZoneInfo9]
+; EN: LocationName="Near Shock Rifle"
+LocationName="Cerca del Rifle de Choque"
+

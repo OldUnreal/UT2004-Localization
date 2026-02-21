@@ -1,0 +1,20 @@
+[LevelInfo0]
+; EN: Title="Training Day"
+Title="Día de Entrenamiento"
+
+[LevelSummary]
+; EN: Title="Training Day"
+Title="Día de Entrenamiento"
+
+[ZoneInfo12]
+; EN: LocationName="Central Hallway"
+LocationName="Pasadizo Central"
+
+[ZoneInfo13]
+; EN: LocationName="Northeast Loop"
+LocationName="Sección Nordeste"
+
+[ZoneInfo74]
+; EN: LocationName="Southwest Loop"
+LocationName="Sección SudOeste"
+

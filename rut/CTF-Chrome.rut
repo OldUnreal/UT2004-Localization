@@ -1,0 +1,120 @@
+[LevelInfo0]
+; EN: Title="Chrome"
+Title="Cromo"
+
+[LevelSummary]
+; EN: Title="Chrome"
+Title="Cromo"
+
+[ZoneInfo0]
+; EN: LocationName="Blue West Generator"
+LocationName="Base Azul - Generador Oeste"
+
+[ZoneInfo1]
+; EN: LocationName="Blue Base"
+LocationName="Base Azul"
+
+[ZoneInfo10]
+; EN: LocationName="Red East Spawn"
+LocationName="Base Roja - Vestíbulo Este"
+
+[ZoneInfo11]
+; EN: LocationName="Blue West Entry"
+LocationName="Base Azul - Entrada Oeste"
+
+[ZoneInfo12]
+; EN: LocationName="Middle - Blue Side"
+LocationName="Medio - Lado Azul"
+
+[ZoneInfo13]
+; EN: LocationName="Middle - Red Side"
+LocationName="Medio - Lado Rojo"
+
+[ZoneInfo14]
+; EN: LocationName="Middle - Red Side"
+LocationName="Medio - Lado Rojo"
+
+[ZoneInfo15]
+; EN: LocationName="Red West Generator"
+LocationName="Base Roja - Generador Oeste"
+
+[ZoneInfo16]
+; EN: LocationName="Red East Entry"
+LocationName="Base Roja - Entrada Este"
+
+[ZoneInfo17]
+; EN: LocationName="Red East Entry"
+LocationName="Base Roja - Entrada Este"
+
+[ZoneInfo18]
+; EN: LocationName="Red West Entry"
+LocationName="Base Roja - Entrada Oeste"
+
+[ZoneInfo2]
+; EN: LocationName="Red Base"
+LocationName="Base Roja"
+
+[ZoneInfo20]
+; EN: LocationName="Blue East Spawn"
+LocationName="Base Azul - Vestíbulo Este"
+
+[ZoneInfo21]
+; EN: LocationName="Blue West Spawn"
+LocationName="Base Azul - Vestíbulo Oeste"
+
+[ZoneInfo22]
+; EN: LocationName="Middle - East Corridor"
+LocationName="Medio - Corredor Este"
+
+[ZoneInfo23]
+; EN: LocationName="Red East Generator"
+LocationName="Base Roja - Generador Este"
+
+[ZoneInfo24]
+; EN: LocationName="Middle - Blue Side"
+LocationName="Medio - Lado Azul"
+
+[ZoneInfo25]
+; EN: LocationName="Blue West Entry"
+LocationName="Base Azul - Entrada Oeste"
+
+[ZoneInfo26]
+; EN: LocationName="Blue East Entry"
+LocationName="Base Azul - Entrada Este"
+
+[ZoneInfo27]
+; EN: LocationName="Middle - Blue Side"
+LocationName="Medio - Lado Azul"
+
+[ZoneInfo28]
+; EN: LocationName="Middle - East Corridor"
+LocationName="Medio - Corredor Este"
+
+[ZoneInfo3]
+; EN: LocationName="Blue East Generator"
+LocationName="Base Azul - Generador Este"
+
+[ZoneInfo4]
+; EN: LocationName="Red West Entry"
+LocationName="Base Roja - Entrada Oeste"
+
+[ZoneInfo5]
+; EN: LocationName="Blue East Entry"
+LocationName="Base Azul - Entrada Este"
+
+[ZoneInfo6]
+; EN: LocationName="Middle - Red Side"
+LocationName="Medio - Lado Rojo"
+
+[ZoneInfo7]
+; EN: LocationName="Middle - Blue Side"
+LocationName="Medio - Lado Azul"
+
+[ZoneInfo8]
+; EN: LocationName="Red West Spawn"
+LocationName="Base Roja - Vestíbulo Oeste"
+
+[ZoneInfo9]
+; EN: LocationName="Middle - West Corridor"
+LocationName="Medio - Corredor Oeste"
+

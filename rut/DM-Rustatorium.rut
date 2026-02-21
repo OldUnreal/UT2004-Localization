@@ -1,0 +1,14 @@
+[LevelInfo0]
+; EN: Title="Rustatorium"
+Title="Rustatorio"
+
+[LevelSummary]
+; EN: Title="Rustatorium"
+Title="Rustatorio"
+; EN: Description="The graveyard of civilization's dreams, this bleak and blasted place has claimed more lives than can be imagined.  Will you be next, or will you rise from the Rustatorium victorious?"
+Description="Este lugar desolado y maldito es el cementerio de los sueños de la civilización, y se ha cobrado más víctimas de las imaginables. ¿Serás una de ellas, o emergerás victorioso del Rustatorium?"
+
+[ZoneInfo0]
+; EN: LocationName="Outside"
+LocationName="Exterior"
+
