@@ -1,0 +1,66 @@
+[LevelInfo0]
+; EN: Title="HyperBlast2"
+Title="HyperBlast 2"
+
+[LevelSummary]
+; EN: Title="HyperBlast2"
+Title="HyperBlast 2"
+; EN: Description="Thanks to Magnetic Anti-Vacuum Resonance technology, combatants are able to battle outside of Xan's 'HyperBlast' arena ship for an extended period of time. Use extreme caution though, one mistake and you'll find yourself floating in space."
+Description="Gracias a la tecnología de resonancia magnética antivacío, los combatientes pueden luchar en el espacio exterior, fuera de la nave 'HyperBlast' de Xan, durante mucho tiempo. Ten muchísimo cuidado ya que, si das un paso en falso, podrías acabar suspendido en el espacio."
+
+[ZoneInfo0]
+; EN: LocationName="lower ventricle "
+LocationName="Ventrículo Inferior"
+
+[ZoneInfo1]
+; EN: LocationName="port side ramp"
+LocationName="Rampa Lateral de Babor"
+
+[ZoneInfo10]
+; EN: LocationName="upper atrium"
+LocationName="Atrio Superior"
+
+[ZoneInfo11]
+; EN: LocationName="port side interior"
+LocationName="Interior Lateral de Babor"
+
+[ZoneInfo12]
+; EN: LocationName="exterior"
+LocationName="Exterior"
+
+[ZoneInfo13]
+; EN: LocationName="starboard moon hallway"
+LocationName="Corredor Lunar de Estribor"
+
+[ZoneInfo14]
+; EN: LocationName="aft room"
+LocationName="Sala de Popa"
+
+[ZoneInfo2]
+; EN: LocationName="starboard side ramp"
+LocationName="Rampa Lateral de Estribor"
+
+[ZoneInfo4]
+; EN: LocationName="upper ventricle "
+LocationName="Ventrículo Superior"
+
+[ZoneInfo5]
+; EN: LocationName="lower atrium"
+LocationName="Atrio Inferior"
+
+[ZoneInfo6]
+; EN: LocationName="starboard side interior"
+LocationName="Interior Lateral de Estribor"
+
+[ZoneInfo7]
+; EN: LocationName="port moon hallway"
+LocationName="Corredor Lunar de Babor"
+
+[ZoneInfo8]
+; EN: LocationName="starboard side wing"
+LocationName="Ala Lateral de Estribor"
+
+[ZoneInfo9]
+; EN: LocationName="port side wing"
+LocationName="Ala Lateral de Babor"
+

@@ -1,0 +1,46 @@
+[LevelInfo0]
+; EN: Title="Morpheus3"
+Title="Morfeo 3"
+
+[LevelSummary]
+; EN: Title="Morpheus3"
+Title="Morfeo 3"
+; EN: Description="LMC knew they had found an excellent arena at the very top of a newly constructed Galaxyscraper Superstructure. Thanks to the modern miracle of super tensile solids, these three buildings reach a staggering 12 miles high at their pinnacle. The thin atmosphere and reduced influence of Earth's gravity provide an interesting test of the Tournament athlete's ability to adapt and conquer in extreme environments."
+Description="La Corporación Minera Liandri supo que había dado con un magnífico campo de batalla tras divisar la parte superior de un colosal rascacielos galáctico recientemente construida. Este moderno milagro arquitectónico, formado por tres edificios de material sólido extensible, alcanza la increíble altura de casi 2.000 metros. La fina atmósfera y el flujo reducido de la gravedad de la Tierra ponen a prueba la capacidad de adaptación de los atletas en campos de batalla que presentan condiciones extremas."
+
+[MessageTextureClient4]
+; EN: ScrollingMessage="%lp leads the match with %lf frags"
+ScrollingMessage="%lp encabeza la clasificación con %lf bajas"
+
+[PhysicsVolume1]
+; EN: LocationName="12 Miles High"
+LocationName="12 Millas de Altura"
+
+[ZoneInfo0]
+; EN: LocationName="YELLOW Tower Interior"
+LocationName="Interior de la Torre AMARILLA"
+
+[ZoneInfo1]
+; EN: LocationName="BLUE Tower Interior"
+LocationName="Interior de la Torre AZUL"
+
+[ZoneInfo2]
+; EN: LocationName="12 Miles High"
+LocationName="12 Millas de Altura"
+
+[ZoneInfo3]
+; EN: LocationName="BLUE Tower Interior"
+LocationName="Interior de la Torre AZUL"
+
+[ZoneInfo4]
+; EN: LocationName="YELLOW Tower Interior"
+LocationName="Interior de la Torre AMARILLA"
+
+[ZoneInfo5]
+; EN: LocationName="RED Tower Interior"
+LocationName="Interior de la Torre ROJA"
+
+[ZoneInfo6]
+; EN: LocationName="RED Tower Interior"
+LocationName="Interior de la Torre ROJA"
+

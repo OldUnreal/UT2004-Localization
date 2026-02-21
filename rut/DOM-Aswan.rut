@@ -1,0 +1,46 @@
+[LevelInfo0]
+; EN: Title="Aswan"
+Title="Aswan"
+
+[LevelSummary]
+; EN: Title="Aswan"
+Title="Aswan"
+; EN: Description="Deep in the heart of the Ocean of Dunes, a small oasis of civilization welcomes the weary traveler. Any who step through the gates of the Temple of Aswan are welcome, though none may leave without taking part in the trials. The Anubans have used the trials as a means to test their prospective competitors for hundreds of years. Success means fame and glory, failure means the scavengers pick the meat from your bones. Are you really that thirsty?"
+Description="En el corazón del Océano de Dunas, un pequeño oasis de civilización dá la bienvenida a los cansados viajeros. Todos los que cruzan las puertas del templo de Aswan son bienvenidos, aunque nadie puede marcharse sin pasar por las pruebas. Los Anubans han usado las pruebas para evaluar a sus potenciales competidores durante cientos de años. El éxito supone fama y gloria, mientras que el fracaso te convierte en pasto para los carroñeros. ¿De verdad tienes tanta sed?"
+
+[ZoneInfo0]
+; EN: LocationName="Middle"
+LocationName="Medio"
+
+[ZoneInfo1]
+; EN: LocationName="B Back Room"
+LocationName="Sala Trasera B"
+
+[ZoneInfo2]
+; EN: LocationName="A Back Room"
+LocationName="Sala Trasera A"
+
+[ZoneInfo3]
+; EN: LocationName="A Flak Cannon"
+LocationName="Cañón Antiaéreo A"
+
+[ZoneInfo4]
+; EN: LocationName="A Rocket Launcher"
+LocationName="Lanzacohetes A"
+
+[ZoneInfo5]
+; EN: LocationName="B Flak Cannon"
+LocationName="Cañón Antiaéreo B"
+
+[ZoneInfo6]
+; EN: LocationName="B Rocket Launcher"
+LocationName="Lanzacohetes B"
+
+[ZoneInfo7]
+; EN: LocationName="Blue Spawn"
+LocationName="Sala de Reaparición Azul"
+
+[ZoneInfo8]
+; EN: LocationName="Red Spawn"
+LocationName="Sala de Reaparición Roja"
+

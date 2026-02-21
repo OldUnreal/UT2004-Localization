@@ -1,0 +1,42 @@
+[LevelInfo0]
+; EN: Title="Crash"
+Title="Choque"
+
+[LevelSummary]
+; EN: Title="Crash"
+Title="Choque"
+; EN: Description="A long time ago, in a galaxy far away a man with a pain filled heart built this complex to fight his own tournament and to meditate about his battles in the past. The Legend doesn't say if he ever found his freedom, but it seems that screams of endless sorrow from the old walls try to give an answer..."
+Description="Hace mucho tiempo, en una galaxia muy lejana, un hombre con el corazón lleno de dolor construyó este complejo para luchar su propio torneo y meditar sobre las batallas de su pasado. La leyenda no dice si encontró su libertad, pero parece que los gritos de tristeza infinita de los viejos muros intentan dar una respuesta..."
+
+[ZoneInfo0]
+; EN: LocationName="Mover Corridor"
+LocationName="Corredor de Plataforma"
+
+[ZoneInfo1]
+; EN: LocationName="Bio Rifle Room"
+LocationName="Sala de Bio Rifle"
+
+[ZoneInfo2]
+; EN: LocationName="Shock Rifle Corridor"
+LocationName="Corredor del Rifle de Choque"
+
+[ZoneInfo3]
+; EN: LocationName="Small Armor Room"
+LocationName="Sala de Armadura Pequeña"
+
+[ZoneInfo4]
+; EN: LocationName="MiniGun Room"
+LocationName="Sala de Ametralladora"
+
+[ZoneInfo5]
+; EN: LocationName="Double Damage Room"
+LocationName="Sala de Doble Daño"
+
+[ZoneInfo6]
+; EN: LocationName="Lower Corridor"
+LocationName="Corredor Inferior"
+
+[ZoneInfo7]
+; EN: LocationName="Flak Room"
+LocationName="Sala de Antiaéreo"
+

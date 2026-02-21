@@ -1,0 +1,102 @@
+[LevelInfo0]
+; EN: Title="Face Classic"
+Title="Mundos Enfrentados Versión Clásica"
+
+[LevelInfo13]
+; EN: Title="Face Classic"
+Title="Mundos Enfrentados Versión Clásica"
+
+[LevelSummary]
+; EN: Title="Face Classic"
+Title="Mundos Enfrentados Versión Clásica"
+; EN: Description="This island-asteroid and its two towers have proven to be a perfect setting for Tournament CTF matches, so face your enemy and let the games begin!"
+Description="Esta isla asteroide y sus dos torres han demostrado ser un lugar perfecto para combates del Torneo, ¡así que enfréntate a tu enemigo y que comiencen los juegos!"
+
+[Volume0]
+; EN: LocationName="Blue Base Lower Sniper Loft"
+LocationName="Nido de Francotirador Inferior Azul"
+
+[Volume1]
+; EN: LocationName="Blue Base Top Sniper Ledge"
+LocationName="Cornisa de Francotirador Superior Azul"
+
+[Volume2]
+; EN: LocationName="Red Base Top Sniper Ledge"
+LocationName="Cornisa de Francotirador Superior Roja"
+
+[Volume3]
+; EN: LocationName="Red Base Lower Sniper Loft"
+LocationName="Nido de Francotirador Inferior Rojo"
+
+[Volume4]
+; EN: LocationName="Central Open Ground"
+LocationName="Campo Abierto Central"
+
+[ZoneInfo0]
+; EN: LocationName="Red Base Lower Level"
+LocationName="Nivel Inferior de Base Roja"
+
+[ZoneInfo1]
+; EN: LocationName="Red Base Top Sniper Ledge"
+LocationName="Cornisa de Francotirador Superior Roja"
+
+[ZoneInfo10]
+; EN: LocationName="Blue Side Open Ground"
+LocationName="Terreno Abierto Azul"
+
+[ZoneInfo18]
+; EN: LocationName="Blue Base Lower Level"
+LocationName="Nivel Inferior de Base Azul"
+
+[ZoneInfo19]
+; EN: LocationName="Blue Base Top Sniper Ledge"
+LocationName="Cornisa de Francotirador Superior Azul"
+
+[ZoneInfo2]
+; EN: LocationName="Red Base Lower Sniper Loft"
+LocationName="Nido de Francotirador Inferior Rojo"
+
+[ZoneInfo20]
+; EN: LocationName="Blue Base Lower Sniper Loft"
+LocationName="Nido de Francotirador Inferior Azul"
+
+[ZoneInfo21]
+; EN: LocationName="Blue Base Redeemer Loft"
+LocationName="Desván de Redentor Azul"
+
+[ZoneInfo22]
+; EN: LocationName="Blue Base Entrance"
+LocationName="Entrada a Base Azul"
+
+[ZoneInfo24]
+; EN: LocationName="Blue Base Lower Level"
+LocationName="Nivel Inferior de Base Azul"
+
+[ZoneInfo25]
+; EN: LocationName="Blue Base Lower Level"
+LocationName="Nivel Inferior de Base Azul"
+
+[ZoneInfo3]
+; EN: LocationName="Red Base Redeemer Loft"
+LocationName="Desván de Redentor Rojo"
+
+[ZoneInfo4]
+; EN: LocationName="Red Base Entrance"
+LocationName="Entrada a Base Roja"
+
+[ZoneInfo6]
+; EN: LocationName="Red Base Lower Level"
+LocationName="Nivel Inferior de Base Roja"
+
+[ZoneInfo7]
+; EN: LocationName="Red Base Lower Level"
+LocationName="Nivel Inferior de Base Roja"
+
+[ZoneInfo8]
+; EN: LocationName="Red Base Lower Level"
+LocationName="Nivel Inferior de Base Roja"
+
+[ZoneInfo9]
+; EN: LocationName="Red Side Open Ground"
+LocationName="Terreno Abierto Rojo"
+

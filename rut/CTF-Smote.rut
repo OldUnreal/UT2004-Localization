@@ -1,0 +1,226 @@
+[LavaVolume10]
+; EN: LocationName="In Lava!"
+LocationName="¡En lava!"
+
+[LavaVolume12]
+; EN: LocationName="In Lava!"
+LocationName="¡En lava!"
+
+[LavaVolume13]
+; EN: LocationName="In Lava!"
+LocationName="¡En lava!"
+
+[LavaVolume15]
+; EN: LocationName="In Lava!"
+LocationName="¡En lava!"
+
+[LavaVolume16]
+; EN: LocationName="In Lava!"
+LocationName="¡En lava!"
+
+[LavaVolume2]
+; EN: LocationName="In Lava!"
+LocationName="¡En lava!"
+
+[LavaVolume23]
+; EN: LocationName="In Lava!"
+LocationName="¡En lava!"
+
+[LavaVolume24]
+; EN: LocationName="In Lava!"
+LocationName="¡En lava!"
+
+[LavaVolume25]
+; EN: LocationName="In Lava!"
+LocationName="¡En lava!"
+
+[LavaVolume26]
+; EN: LocationName="In Lava!"
+LocationName="¡En lava!"
+
+[LavaVolume5]
+; EN: LocationName="In Lava!"
+LocationName="¡En lava!"
+
+[LavaVolume7]
+; EN: LocationName="In Lava!"
+LocationName="¡En lava!"
+
+[LavaVolume9]
+; EN: LocationName="In Lava!"
+LocationName="¡En lava!"
+
+[LevelInfo0]
+; EN: Title="Smote"
+Title="Smote"
+
+[LevelSummary]
+; EN: Title="Smote"
+Title="Smote"
+; EN: Description="The earth trembles beneath your feet, and the sky rains fire and ash down on you from above. The path to victory is as treacherous and deadly as the enemies you face on the battlefield, and less forgiving."
+Description="La tierra tiembla bajo tus pies y del cielo llueven fuego y cenizas. El camino hasta la victoria es traicionero y mortal, como los enemigos que encontrarás en el campo de batalla... y menos misericordioso."
+
+[Volume10]
+; EN: LocationName="Red Base Main Paths"
+LocationName="Caminos Principales de Base Roja"
+
+[Volume11]
+; EN: LocationName="Red Base Higher Paths"
+LocationName="Caminos Superiores de Base Roja"
+
+[Volume12]
+; EN: LocationName="Red Base Main Paths"
+LocationName="Caminos Principales de Base Roja"
+
+[Volume13]
+; EN: LocationName="Blue Base Higher Paths"
+LocationName="Caminos Superiores de Base Azul"
+
+[Volume14]
+; EN: LocationName="Blue Base Main Paths"
+LocationName="Caminos Principales de Base Azul"
+
+[Volume16]
+; EN: LocationName="Blue Base Fortifications"
+LocationName="Fortificaciones de Base Azul"
+
+[Volume17]
+; EN: LocationName="Blue Base Main Paths"
+LocationName="Caminos Principales de Base Azul"
+
+[Volume20]
+; EN: LocationName="Side of Volcano"
+LocationName="Lado del Volcán"
+
+[Volume21]
+; EN: LocationName="Blue Base Lower Paths"
+LocationName="Caminos Inferiores de Base Azul"
+
+[Volume22]
+; EN: LocationName="Blue Base Lower Paths"
+LocationName="Caminos Inferiores de Base Azul"
+
+[Volume23]
+; EN: LocationName="Volcano Caverns"
+LocationName="Cavernas Volcánicas"
+
+[Volume5]
+; EN: LocationName="Red Base Lower Paths"
+LocationName="Caminos Inferiores de Base Roja"
+
+[Volume6]
+; EN: LocationName="Red Base Lower Paths"
+LocationName="Caminos Inferiores de Base Roja"
+
+[Volume7]
+; EN: LocationName="Red Base Lower Paths"
+LocationName="Caminos Inferiores de Base Roja"
+
+[Volume8]
+; EN: LocationName="Blue Base Lower Paths"
+LocationName="Caminos Inferiores de Base Azul"
+
+[Volume9]
+; EN: LocationName="Red Base Fortifications"
+LocationName="Fortificaciones de Base Roja"
+
+[ZoneInfo0]
+; EN: LocationName="Red Base Cellar Entrance"
+LocationName="Entrada a Sótano de Base Roja"
+
+[ZoneInfo1]
+; EN: LocationName="Out of Bounds!"
+LocationName="¡Fuera de los Límites!"
+
+[ZoneInfo11]
+; EN: LocationName="Blue Base Main Entrance"
+LocationName="Entrada Principal de Base Azul"
+
+[ZoneInfo12]
+; EN: LocationName="Blue Base Cellar Entrance"
+LocationName="Entrada a Sótano de Base Azul"
+
+[ZoneInfo13]
+; EN: LocationName="Blue Flag Room"
+LocationName="Sala de Bandera Azul"
+
+[ZoneInfo14]
+; EN: LocationName="Volcano Caverns"
+LocationName="Cavernas Volcánicas"
+
+[ZoneInfo15]
+; EN: LocationName="Volcano Caverns"
+LocationName="Cavernas Volcánicas"
+
+[ZoneInfo16]
+; EN: LocationName="Blue Base Main Entrance"
+LocationName="Entrada Principal de Base Azul"
+
+[ZoneInfo17]
+; EN: LocationName="Blue Base Cellar Access"
+LocationName="Acceso a Sótano de Base Azul"
+
+[ZoneInfo18]
+; EN: LocationName="Red Base Main Entrance"
+LocationName="Entrada Principal de Base Roja"
+
+[ZoneInfo19]
+; EN: LocationName="Red Base Cellar Access"
+LocationName="Acceso a Sótano de Base Roja"
+
+[ZoneInfo2]
+; EN: LocationName="Red Base Cellar"
+LocationName="Sótano de Base Roja"
+
+[ZoneInfo20]
+; EN: LocationName="Red Flag Room"
+LocationName="Sala de Bandera Roja"
+
+[ZoneInfo21]
+; EN: LocationName="Blue Base Tower"
+LocationName="Torre de Base Azul"
+
+[ZoneInfo22]
+; EN: LocationName="Red Base Tower"
+LocationName="Torre de Base Roja"
+
+[ZoneInfo23]
+; EN: LocationName="Blue Base Cellar"
+LocationName="Sótano de Base Azul"
+
+[ZoneInfo24]
+; EN: LocationName="Blue Base Cellar Entrance"
+LocationName="Entrada a Sótano de Base Azul"
+
+[ZoneInfo25]
+; EN: LocationName="Blue Base Cellar"
+LocationName="Sótano de Base Azul"
+
+[ZoneInfo26]
+; EN: LocationName="Blue Base Cellar"
+LocationName="Sótano de Base Azul"
+
+[ZoneInfo3]
+; EN: LocationName="Red Base Cellar"
+LocationName="Sótano de Base Roja"
+
+[ZoneInfo4]
+; EN: LocationName="Red Base Cellar"
+LocationName="Sótano de Base Roja"
+
+[ZoneInfo5]
+; EN: LocationName="Red Base Cellar Entrance"
+LocationName="Entrada a Sótano de Base Roja"
+
+[ZoneInfo6]
+; EN: LocationName="Red Base Main Entrance"
+LocationName="Entrada Principal de Base Roja"
+
+[ZoneInfo8]
+; EN: LocationName="Red Base Tower Entrance"
+LocationName="Entrada a Torre de Base Roja"
+
+[ZoneInfo9]
+; EN: LocationName="Blue Base Tower Entrance"
+LocationName="Entrada a Torre de Base Azul"
+

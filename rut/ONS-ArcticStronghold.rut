@@ -1,0 +1,98 @@
+[LevelInfo0]
+; EN: Title="Arctic Stronghold"
+Title="Fortaleza Ártica"
+
+[LevelSummary]
+; EN: Title="Arctic Stronghold"
+Title="Fortaleza Ártica"
+; EN: Description="Stationed at 24,000 feet and veiled behind blinding fog and constant snow, Arctic Stronghold provided the perfect place to conduct unsanctioned military experiments for use against the Skaarj. Restructured for Onslaught, this arena allows several paths to your enemy, and countless paths to death for the foolish or unwary."
+Description="Situada a 24.000 pies y oculta por una niebla cegadora y constantes nevadas, la fortaleza ártica proporcionaba un lugar perfecto para llevar a cabo experimentos militares ilegales para su uso contra los Skaarj. Tras reestructurarlo para Acometida, este estadio ofrece diversas alternativas a tu enemigo, e incontables maneras de morir para los tontos o incautos."
+
+[Volume0]
+; EN: LocationName="Red Base"
+LocationName="Base Roja"
+
+[Volume1]
+; EN: LocationName="Red Base"
+LocationName="Base Roja"
+
+[Volume10]
+; EN: LocationName="Blue Base"
+LocationName="Base Azul"
+
+[Volume11]
+; EN: LocationName="Blue Base"
+LocationName="Base Azul"
+
+[Volume12]
+; EN: LocationName="Blue Base"
+LocationName="Base Azul"
+
+[Volume13]
+; EN: LocationName="Below East Bridge"
+LocationName="Debajo del Puente Este"
+
+[Volume14]
+; EN: LocationName="Blue Base"
+LocationName="Base Azul"
+
+[Volume15]
+; EN: LocationName="North Node (4)"
+LocationName="Nodo Norte (4)"
+
+[Volume16]
+; EN: LocationName="East Node (2)"
+LocationName="Nodo Este (2)"
+
+[Volume17]
+; EN: LocationName="Central Node (5)"
+LocationName="Nodo Central (5)"
+
+[Volume18]
+; EN: LocationName="South Node (1)"
+LocationName="Nodo Sur (1)"
+
+[Volume19]
+; EN: LocationName="West Node (3)"
+LocationName="Nodo Oeste (3)"
+
+[Volume2]
+; EN: LocationName="Red Base"
+LocationName="Base Roja"
+
+[Volume20]
+; EN: LocationName="Bridge"
+LocationName="Puente"
+
+[Volume3]
+; EN: LocationName="Red Base"
+LocationName="Base Roja"
+
+[Volume4]
+; EN: LocationName="Red Base"
+LocationName="Base Roja"
+
+[Volume5]
+; EN: LocationName="Red Base"
+LocationName="Base Roja"
+
+[Volume6]
+; EN: LocationName="Red Base"
+LocationName="Base Roja"
+
+[Volume7]
+; EN: LocationName="Blue Base"
+LocationName="Base Azul"
+
+[Volume8]
+; EN: LocationName="Blue Base"
+LocationName="Base Azul"
+
+[Volume9]
+; EN: LocationName="Blue Base"
+LocationName="Base Azul"
+
+[ZoneInfo0]
+; EN: LocationName="Outside"
+LocationName="Exterior"
+

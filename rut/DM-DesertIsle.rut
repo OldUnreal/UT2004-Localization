@@ -1,0 +1,30 @@
+[LevelInfo0]
+; EN: Title="Desert Isle"
+Title="Isla Desierta"
+
+[LevelSummary]
+; EN: Title="Desert Isle"
+Title="Isla Desierta"
+; EN: Description="Under a searing sun, one little stream means life itself to this island of green in an ocean of sand. What will be left when its waters run red?"
+Description="Bajo el sol abrasador, un pequeño arroyo supone la vida misma en esta isla verde del océano de arena. ¿Qué quedará cuando sus aguas se tiñan de rojo?"
+
+[Volume0]
+; EN: LocationName="River End"
+LocationName="Final del Río"
+
+[Volume1]
+; EN: LocationName="The Hill"
+LocationName="La Colina"
+
+[Volume2]
+; EN: LocationName="River Start"
+LocationName="Inicio del Río"
+
+[Volume3]
+; EN: LocationName="River Middle"
+LocationName="Mitad del Río"
+
+[ZoneInfo0]
+; EN: LocationName="=Desert="
+LocationName="=Desierto="
+

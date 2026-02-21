@@ -1,0 +1,42 @@
+[LevelInfo0]
+; EN: Title="Severance"
+Title="Ruptura"
+
+[LevelSummary]
+; EN: Title="Severance"
+Title="Ruptura"
+; EN: Description="Eons past, the inhabitants of these forgotten ruins summoned a being of elemental darkness, which they imprisoned and lulled to sleep with the blood of countless sacrifices. In the stillness between battles, one can sometimes hear the voice of this titan, roused from sleep, awaiting your blood."
+Description="Hace eones, los habitantes de estas ruinas olvidadas invocaron a una criatura de oscuridad elemental, a la que aprisionaron y adormecieron con la sangre de incontables sacrificios. En la quietud entre batalla y batalla, a veces puede oírse la voz de este titán que, despertado de su sueño, aguarda tu sangre."
+
+[Volume10]
+; EN: LocationName="Red Base"
+LocationName="Base Roja"
+
+[Volume3]
+; EN: LocationName="Blue Prime Node (4)"
+LocationName="Nodo Principal Azul (4)"
+
+[Volume4]
+; EN: LocationName="Northwest Node (3)"
+LocationName="Nodo Noroeste (3)"
+
+[Volume5]
+; EN: LocationName="Center Node (1)"
+LocationName="Nodo Central (1)"
+
+[Volume6]
+; EN: LocationName="Southeast Node (2)"
+LocationName="Nodo Sudoeste (2)"
+
+[Volume7]
+; EN: LocationName="Red Prime Node (5)"
+LocationName="Nodo Principal Rojo (5)"
+
+[Volume9]
+; EN: LocationName="Blue Base"
+LocationName="Base Azul"
+
+[ZoneInfo0]
+; EN: LocationName="Outside"
+LocationName="Exterior"
+

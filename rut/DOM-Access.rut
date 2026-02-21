@@ -1,0 +1,62 @@
+[LevelInfo0]
+; EN: Title="Access"
+Title="Acceso"
+
+[LevelSummary]
+; EN: Title="Access"
+Title="Acceso"
+; EN: Description="Seal off the Domination point of your choice by controlling the Access button in the middle of the arena."
+Description="Quita el sello al punto de dominación que prefieras controlando el botón de acceso del centro del estadio."
+
+[ZoneInfo0]
+; EN: LocationName="Switch Room"
+LocationName="Sala de Interruptor"
+
+[ZoneInfo1]
+; EN: LocationName="Blue Spawn Halls"
+LocationName="Cámaras de Reaparición Azules"
+
+[ZoneInfo10]
+; EN: LocationName="Switch Room"
+LocationName="Sala de Interruptor"
+
+[ZoneInfo11]
+; EN: LocationName="Point A Room"
+LocationName="Sala Punto A"
+
+[ZoneInfo12]
+; EN: LocationName="Point B Room"
+LocationName="Sala Punto B"
+
+[ZoneInfo2]
+; EN: LocationName="Red Spawn Halls"
+LocationName="Cámaras de Reaparición Rojas"
+
+[ZoneInfo3]
+; EN: LocationName="Red Spawn Halls"
+LocationName="Cámaras de Reaparición Rojas"
+
+[ZoneInfo4]
+; EN: LocationName="Blue Spawn Halls"
+LocationName="Cámaras de Reaparición Azules"
+
+[ZoneInfo5]
+; EN: LocationName="Blue Spawn Halls"
+LocationName="Cámaras de Reaparición Azules"
+
+[ZoneInfo6]
+; EN: LocationName="Red Spawn Halls"
+LocationName="Cámaras de Reaparición Rojas"
+
+[ZoneInfo7]
+; EN: LocationName="Switch Room"
+LocationName="Sala de Interruptor"
+
+[ZoneInfo8]
+; EN: LocationName="Switch Room"
+LocationName="Sala de Interruptor"
+
+[ZoneInfo9]
+; EN: LocationName="Switch Room"
+LocationName="Sala de Interruptor"
+

@@ -1,0 +1,64 @@
+[LevelInfo0]
+; EN: Title="Plunge"
+Title="Inmersión"
+
+[LevelSummary]
+; EN: Title="Plunge"
+Title="Inmersión"
+
+[PhysicsVolume0]
+; EN: LocationName="8 Miles High"
+LocationName="A 8 Millas De Altura"
+
+[ZoneInfo1]
+; EN: LocationName="Outside"
+LocationName="Exterior"
+
+[ZoneInfo2]
+; EN: LocationName="Green Tower Corridor"
+LocationName="Corredor de Torre Verde"
+
+[ZoneInfo4]
+; EN: LocationName="Pink Tower - Bottom"
+LocationName="Fondo de Torre Rosa"
+
+[ZoneInfo6]
+; EN: LocationName="Green Tower Corridor"
+LocationName="Corredor de Torre Verde"
+
+[ZoneInfo7]
+; EN: LocationName="Green Tower Corridor"
+LocationName="Corredor de Torre Verde"
+
+[ZoneInfo8]
+; EN: LocationName="Green Tower Corridor"
+LocationName="Corredor de Torre Verde"
+
+[ZoneInfo13]
+; EN: LocationName="Yellow Tower Corridor"
+LocationName="Corredor de Torre Amarilla"
+
+[ZoneInfo21]
+; EN: LocationName="Yellow Tower Corridor"
+LocationName="Corredor de Torre Amarilla"
+
+[ZoneInfo22]
+; EN: LocationName="Yellow Tower Corridor"
+LocationName="Corredor de Torre Amarilla"
+
+[ZoneInfo23]
+; EN: LocationName="Yellow Tower Corridor"
+LocationName="Corredor de Torre Amarilla"
+
+[ZoneInfo24]
+; EN: LocationName="Yellow Tower Corridor"
+LocationName="Corredor de Torre Amarilla"
+
+[ZoneInfo25]
+; EN: LocationName="Yellow Tower Boiler"
+LocationName="Caldera de Torre Amarilla"
+
+[ZoneInfo27]
+; EN: LocationName="Yellow Tower Spawn"
+LocationName="Yellow Tower Spawn"
+

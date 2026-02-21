@@ -1,0 +1,32 @@
+[LevelInfo0]
+; EN: Title="Sepukku Gorge"
+Title="Garganta de Sepukku"
+
+[LevelSummary]
+; EN: Title="Sepukku Gorge"
+Title="Garganta de Sepukku"
+
+[Volume0]
+; EN: LocationName="Near Point B"
+LocationName="Junto al Punto B"
+
+[Volume1]
+; EN: LocationName="Near Point A"
+LocationName="Junto al Punto A"
+
+[Volume2]
+; EN: LocationName="On The Bridges"
+LocationName="Sobre el puente"
+
+[Volume3]
+; EN: LocationName="Red Cave"
+LocationName="Cueva Rojos"
+
+[Volume4]
+; EN: LocationName="Blue Cave"
+LocationName="Cueva Azules"
+
+[ZoneInfo0]
+; EN: LocationName="Outside"
+LocationName="Exterior"
+

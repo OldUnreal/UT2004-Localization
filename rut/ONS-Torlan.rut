@@ -1,0 +1,64 @@
+[LevelInfo0]
+Title="Torlan"
+
+[LevelSummary]
+Title="Torlan"
+; EN: Description="Set on the dried outskirts of a lush jungle continent, two factions clash in fierce combat for control of a major communications tower and its adjacent power supply. With the dam holding back the waters from the nearby jungle, the dried out riverbed running across the battlefield allows for an easy attack route into enemy territory and could provide a decisive victor with ownership of the enormous Comm-tower as the reward."
+Description="Ubicado en las afueras secas de un continente de selva exuberante, dos facciones se enfrentan en un feroz combate por el control de una importante torre de comunicaciones y su suministro de energía adyacente. Con la presa reteniendo las aguas de la jungla cercana, el lecho seco del río que atraviesa el campo de batalla permite una ruta de ataque fácil hacia el territorio enemigo y podría proporcionar un vencedor decisivo con la propiedad de la enorme torre de comunicaciones como recompensa."
+
+[Volume0]
+; EN: LocationName="Blue Base"
+LocationName="Base Azul"
+
+[Volume1]
+; EN: LocationName="Central Canyon"
+LocationName="Cañón Central"
+
+[Volume11]
+; EN: LocationName="Central Canyon"
+LocationName="Cañón Central"
+
+[Volume12]
+; EN: LocationName="Red Prime Node (2)"
+LocationName="Nodo Principal Rojo (2)"
+
+[Volume13]
+; EN: LocationName="Tower Bridge"
+LocationName="Puente de la Torre"
+
+[Volume14]
+; EN: LocationName="Center Node (3)"
+LocationName="Nodo Central (3)"
+
+[Volume2]
+; EN: LocationName="Red Base"
+LocationName="Base Roja"
+
+[Volume3]
+; EN: LocationName="Blue Tower"
+LocationName="Torre Azul"
+
+[Volume4]
+; EN: LocationName="Red Tower"
+LocationName="Torre Roja"
+
+[Volume6]
+; EN: LocationName="Red Goliath Node (1)"
+LocationName="Nodo Goliath Rojo (1)"
+
+[Volume7]
+; EN: LocationName="Blue Goliath Node (5)"
+LocationName="Nodo Goliath Azul (5)"
+
+[Volume8]
+; EN: LocationName="Blue Prime Node (4)"
+LocationName="Nodo Principal Azul (4)"
+
+[Volume9]
+; EN: LocationName="Central Tower"
+LocationName="Torre Central"
+
+[ZoneInfo0]
+; EN: LocationName="Outside"
+LocationName="Exterior"
+

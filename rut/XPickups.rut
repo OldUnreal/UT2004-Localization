@@ -1,0 +1,28 @@
+[AdrenalinePickup]
+; EN: PickupMessage="Adrenaline "
+PickupMessage="Adrenalina "
+
+[MiniHealthPack]
+; EN: PickupMessage="You picked up a Health Vial +"
+PickupMessage="Has recogido un Frasco de Salud +"
+
+[ShieldPickup]
+; EN: PickupMessage="You picked up a Shield Pack +"
+PickupMessage="Has recogido un Paquete de Escudo +"
+
+[SuperHealthPack]
+; EN: PickupMessage="You picked up a Big Keg O' Health +"
+PickupMessage="Has recogido una Gran Mochila de Salud +"
+
+[SuperShieldPack]
+; EN: PickupMessage="You picked up a Super Shield Pack +"
+PickupMessage="Has recogido un Paquete de Superescudo +"
+
+[TournamentHealth]
+; EN: PickupMessage="You picked up a Health Pack +"
+PickupMessage="Has recogido un Botiquín de Salud +"
+
+[UDamagePack]
+; EN: PickupMessage="DOUBLE DAMAGE!"
+PickupMessage="¡DOBLE DAÑO!"
+

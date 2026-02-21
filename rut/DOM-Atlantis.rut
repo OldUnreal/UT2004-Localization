@@ -1,0 +1,70 @@
+[LevelInfo0]
+; EN: Title="Atlantis"
+Title="Atlántida"
+
+[LevelSummary]
+; EN: Title="Atlantis"
+Title="Atlántida"
+; EN: Description="This great, mythical metropolis may have sunk to the darkest depths of the ocean, but that doesn't necessarily mean it's off limits to the Tournament. Even though it's located 20,000 leagues under the sea, strange Atlantean powers ensure that the competitors won't get so much as a toe wet."
+Description="Puede que la antigua metrópolis de las leyendas se hundiera en las oscuras profundidades del océano, pero eso no significa necesariamente que esté más allá del alcance del Torneo. Aunque está a 20.000 leguas bajo el mar, los poderes de la extraña Atlántida aseguran que los competidores no llegarán a mojarse un pelo."
+
+[Volume0]
+; EN: LocationName="DOM Point B"
+LocationName="Punto DOM B"
+
+[Volume1]
+; EN: LocationName="DOM Point A"
+LocationName="Punto DOM A"
+
+[ZoneInfo0]
+; EN: LocationName="Flak Cannon"
+LocationName="Cañón Antiaéreo"
+
+[ZoneInfo1]
+; EN: LocationName="Rocket Launcher"
+LocationName="Lanzacohetes"
+
+[ZoneInfo10]
+; EN: LocationName="Rocket Launcher"
+LocationName="Lanzacohetes"
+
+[ZoneInfo11]
+; EN: LocationName="Rocket Launcher"
+LocationName="Lanzacohetes"
+
+[ZoneInfo12]
+; EN: LocationName="Rocket Launcher"
+LocationName="Lanzacohetes"
+
+[ZoneInfo2]
+; EN: LocationName="Rocket Launcher"
+LocationName="Lanzacohetes"
+
+[ZoneInfo3]
+; EN: LocationName="Flak Cannon"
+LocationName="Cañón Antiaéreo"
+
+[ZoneInfo4]
+; EN: LocationName="Flak Cannon"
+LocationName="Cañón Antiaéreo"
+
+[ZoneInfo5]
+; EN: LocationName="Central Chamber"
+LocationName="Cámara Central"
+
+[ZoneInfo6]
+; EN: LocationName="Flak Cannon"
+LocationName="Cañón Antiaéreo"
+
+[ZoneInfo7]
+; EN: LocationName="Rocket Launcher"
+LocationName="Lanzacohetes"
+
+[ZoneInfo8]
+; EN: LocationName="Flak Cannon"
+LocationName="Cañón Antiaéreo"
+
+[ZoneInfo9]
+; EN: LocationName="Rocket Launcher"
+LocationName="Lanzacohetes"
+

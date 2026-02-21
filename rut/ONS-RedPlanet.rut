@@ -1,0 +1,42 @@
+[LevelInfo0]
+; EN: Title="Red Planet"
+Title="Planeta Rojo"
+
+[LevelSummary]
+; EN: Title="Red Planet"
+Title="Planeta Rojo"
+; EN: Description="Deep-space exploration has revealed a phenomenon never before observed-a planetary system with NO sun. Infra-Red light reacting with carbon dioxide in the high atmosphere bathes the planet in a searing, blood-red glow. Experiments have shown that more than 18 hours on this planet will cause irreversible insanity. You won't live that long..."
+Description="La exploración del espacio profundo ha revelado un fenómeno nunca antes observado en un sistema planetario SIN sol. La luz infrarroja que reacciona con el dióxido de carbono en las altas atmósferas baña al planeta en un abrasador resplandor rojo-sangre. Los experimentos han demostrado que pasar más de 18 horas en este planeta causa locura irreversible. No vas a vivir tanto tiempo..."
+
+[Volume10]
+; EN: LocationName="Blue Base"
+LocationName="Base Azul"
+
+[Volume4]
+; EN: LocationName="Southwest Node"
+LocationName="Nodo SurOeste"
+
+[Volume5]
+; EN: LocationName="Northwest Node"
+LocationName="Nodo NorOeste"
+
+[Volume6]
+; EN: LocationName="Central Node"
+LocationName="Nodo Central"
+
+[Volume7]
+; EN: LocationName="Southeast Node"
+LocationName="Nodo Sureste"
+
+[Volume8]
+; EN: LocationName="Northeast Node"
+LocationName="Nodo Nordeste"
+
+[Volume9]
+; EN: LocationName="Red Base"
+LocationName="Base Roja"
+
+[ZoneInfo0]
+; EN: LocationName="Outside"
+LocationName="Exterior"
+

@@ -1,0 +1,58 @@
+[LevelInfo0]
+; EN: Title="Osiris 2"
+Title="Osiris 2"
+
+[LevelSummary]
+; EN: Title="Osiris 2"
+Title="Osiris 2"
+; EN: Description="The sand mixes with your sweat, forming a gritty layer on your skin that makes you itch under your armor. The air reeks of electrostatic discharge and dried blood. From the darkness of the tombs below an inhuman scream marks the death of one of your countless enemies. Your only regret is that you're not the one who got the frag. Time to fight."
+Description="La arena se mezcla con tu sudor, formando una áspera capa sobre tu piel que te pica bajo la armadura. El aire apesta a descarga electrostática y a sangre reseca. Desde la oscuridad de las tumbas inferiores, un grito inhumano señala la muerte de uno de tus incontables enemigos. Lo único que lamentas es no haberlo abatido tú. Es hora de luchar."
+
+[ZoneInfo0]
+; EN: LocationName="Underground Temple"
+LocationName="Templo Subterráneo"
+
+[ZoneInfo1]
+; EN: LocationName="Upper Hallways"
+LocationName="Corredores Superiores"
+
+[ZoneInfo10]
+; EN: LocationName="Flak Cannon Room"
+LocationName="Sala de Cañón Antiaéreo"
+
+[ZoneInfo11]
+; EN: LocationName="Lower Hallway"
+LocationName="Corredor Inferior"
+
+[ZoneInfo2]
+; EN: LocationName="Upper Hallways"
+LocationName="Corredores Superiores"
+
+[ZoneInfo3]
+; EN: LocationName="Main Courtyard"
+LocationName="Patio Principal"
+
+[ZoneInfo4]
+; EN: LocationName="Super Shield Room"
+LocationName="Sala de Superescudo"
+
+[ZoneInfo5]
+; EN: LocationName="Upper Hallways"
+LocationName="Corredores Superiores"
+
+[ZoneInfo6]
+; EN: LocationName="Upper Hallways"
+LocationName="Corredores Superiores"
+
+[ZoneInfo7]
+; EN: LocationName="Lower Hallway"
+LocationName="Corredor Inferior"
+
+[ZoneInfo8]
+; EN: LocationName="Shock Rifle Room"
+LocationName="Sala del Rifle de Choque"
+
+[ZoneInfo9]
+; EN: LocationName="Rocket Launcher Tomb"
+LocationName="Tumba del Lanzacohetes"
+

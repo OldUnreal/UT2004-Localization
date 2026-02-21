@@ -1,0 +1,48 @@
+[LevelInfo0]
+; EN: Title="Ice Fields"
+Title="Campos Helados"
+
+[LevelSummary]
+; EN: Title="Ice Fields"
+Title="Campos Helados"
+
+[Volume0]
+; EN: LocationName="Blue Base"
+LocationName="Base Azul"
+
+[Volume1]
+; EN: LocationName="Red Base"
+LocationName="Base Roja"
+
+[Volume2]
+; EN: LocationName="Red Base Entrance"
+LocationName="Entrada a Base Roja"
+
+[Volume3]
+; EN: LocationName="Below Red Base"
+LocationName="Debajo de la Base Roja"
+
+[Volume4]
+; EN: LocationName="Below Red Base"
+LocationName="Debajo de la Base Roja"
+
+[Volume5]
+; EN: LocationName="Blue Base Entrance"
+LocationName="Entrada a Base Azul"
+
+[Volume6]
+; EN: LocationName="Middle Area"
+LocationName="Área Central"
+
+[Volume7]
+; EN: LocationName="Below Blue Base"
+LocationName="Debajo de la Base Azul"
+
+[Volume8]
+; EN: LocationName="Below Blue Base"
+LocationName="Debajo de la Base Azul"
+
+[Volume9]
+; EN: LocationName="Super Shield Area"
+LocationName="Área de Super Escudo"
+

@@ -1,0 +1,86 @@
+[LevelInfo0]
+; EN: Title="Grendelkeep"
+Title="Bastión de Grendel"
+
+[LevelInfo6]
+; EN: Title="Grendelkeep"
+Title="Bastión de Grendel"
+
+[LevelSummary]
+; EN: Title="Grendelkeep"
+Title="Bastión de Grendel"
+; EN: Description="Prieth Callas was a hard, cruel man, fond of torturing his enemies before sending them to their deaths. He raised creatures of great size and ferocity, setting them against his prisoners in arenas of his own creation. Grendelkeep is the last of his diabolical constructions, left to fall into ruin after Callas was dragged from the battlements by his own men and fed to the creatures he bred in the dark kennels below. The rain has washed away the blood, but the evil that bred here has left a much deeper stain."
+Description="Prieth Callas fue un hombre cruel y duro, aficionado a torturar a sus enemigos antes de acabar definitivamente con ellos. Crió seres de gran tamaño y ferocidad, arrojándolos contra sus prisioneros en estadios que él mismo diseñó. El Bastión de Grendel es la última de sus diabólicas creaciones, abandonada desde que Callas fue arrojado desde las almenas por sus propios hombres y fue ofrecido como comida a las criaturas que criaba en las oscuras perreras subterráneas. La lluvia ha borrado la sangre, pero el mal que creció allí tiene raíces mucho más profundas."
+
+[ZoneInfo0]
+; EN: LocationName="Great Room Hall"
+LocationName="Gran Vestíbulo"
+
+[ZoneInfo1]
+; EN: LocationName="Great Room"
+LocationName="Gran Sala"
+
+[ZoneInfo10]
+; EN: LocationName="Sniper Nest"
+LocationName="Nido de Francotirador"
+
+[ZoneInfo11]
+; EN: LocationName="Great Room Hall"
+LocationName="Gran Vestíbulo"
+
+[ZoneInfo12]
+; EN: LocationName="Lower Flak Hall"
+LocationName="Salón de Antiaéreo Inferior"
+
+[ZoneInfo13]
+; EN: LocationName="Lower Flak Hall"
+LocationName="Salón de Antiaéreo Inferior"
+
+[ZoneInfo14]
+; EN: LocationName="Great Room Hall"
+LocationName="Gran Vestíbulo"
+
+[ZoneInfo2]
+; EN: LocationName="Great Amp Hall"
+LocationName="Gran Salón de Doble Daño"
+
+[ZoneInfo28]
+; EN: LocationName="Upper Rocket Hall"
+LocationName="Cámara Superior de Cohetes"
+
+[ZoneInfo3]
+; EN: LocationName="Upper Rocket Hall"
+LocationName="Cámara Superior de Cohetes"
+
+[ZoneInfo30]
+; EN: LocationName="Great Room"
+LocationName="Gran Sala"
+
+[ZoneInfo31]
+; EN: LocationName="Great Room"
+LocationName="Gran Sala"
+
+[ZoneInfo4]
+; EN: LocationName="Great Room"
+LocationName="Gran Sala"
+
+[ZoneInfo5]
+; EN: LocationName="Upper Rocket Hall"
+LocationName="Cámara Superior de Cohetes"
+
+[ZoneInfo6]
+; EN: LocationName="Mini Hall"
+LocationName="Minicámara"
+
+[ZoneInfo7]
+; EN: LocationName="Mini Hall"
+LocationName="Minicámara"
+
+[ZoneInfo8]
+; EN: LocationName="Great Tower"
+LocationName="Gran Torre"
+
+[ZoneInfo9]
+; EN: LocationName="Sniper Nest"
+LocationName="Nido de Francotirador"
+

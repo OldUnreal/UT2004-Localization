@@ -1,0 +1,76 @@
+[LevelInfo0]
+; EN: Title="Inferno"
+Title="Infierno"
+
+[LevelSummary]
+; EN: Title="Inferno"
+Title="Infierno"
+
+[ZoneInfo0]
+; EN: LocationName="minigun tower"
+LocationName="Torre de Ametralladora"
+
+[ZoneInfo1]
+; EN: LocationName="burning in hell"
+LocationName="Ardiendo en el Infierno"
+
+[ZoneInfo10]
+; EN: LocationName="shock tower"
+LocationName="Torre de Choque"
+
+[ZoneInfo11]
+; EN: LocationName="middle tower"
+LocationName="Torre Central"
+
+[ZoneInfo12]
+; EN: LocationName="shock tower"
+LocationName="Torre de Choque"
+
+[ZoneInfo13]
+; EN: LocationName="shock tower"
+LocationName="Torre de Choque"
+
+[ZoneInfo14]
+; EN: LocationName="burning in hell"
+LocationName="Ardiendo en el Infierno"
+
+[ZoneInfo15]
+; EN: LocationName="burning in hell"
+LocationName="Ardiendo en el Infierno"
+
+[ZoneInfo16]
+; EN: LocationName="burning in hell"
+LocationName="Ardiendo en el Infierno"
+
+[ZoneInfo2]
+; EN: LocationName="flak tower"
+LocationName="Torre de Antiaéreo"
+
+[ZoneInfo3]
+; EN: LocationName="middle tower"
+LocationName="Torre Central"
+
+[ZoneInfo4]
+; EN: LocationName="minigun tower"
+LocationName="Torre de Ametralladora"
+
+[ZoneInfo5]
+; EN: LocationName="minigun tower"
+LocationName="Torre de Ametralladora"
+
+[ZoneInfo6]
+; EN: LocationName="flak tower"
+LocationName="Torre de Antiaéreo"
+
+[ZoneInfo7]
+; EN: LocationName="flak tower"
+LocationName="Torre de Antiaéreo"
+
+[ZoneInfo8]
+; EN: LocationName="middle tower"
+LocationName="Torre Central"
+
+[ZoneInfo9]
+; EN: LocationName="middle tower"
+LocationName="Torre Central"
+
