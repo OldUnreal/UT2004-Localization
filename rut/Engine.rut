@@ -794,7 +794,7 @@ Desc="Тряска"
 
 [SubActionFOV]
 ; EN: Desc="FOV"
-Desc="Поле зрения"
+Desc="Угол обзора"
 
 [SubActionFade]
 ; EN: Desc="Fade"
