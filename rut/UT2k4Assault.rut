@@ -1,0 +1,270 @@
+[ACTION_ASOpenSentinel]
+; EN: ActionString="Awake sentinel"
+ActionString="Despertar centinela"
+
+[ACTION_ASSetPlayerSpawnArea]
+; EN: ActionString="Set player spawn area"
+ActionString="Configurar área de aparición"
+
+[ACTION_ASTeleportToSpawnArea]
+; EN: ActionString="teleport to spawn area"
+ActionString="teletransportarse al área de reaparición"
+
+[ACTION_PlayExplosionSound]
+; EN: ActionString="Play explosion sound"
+ActionString="Reproducir sonido de explosión"
+
+[ACTION_PlayerViewShake]
+; EN: ActionString="Player view shake"
+ActionString="Sacudir vista de jugador"
+
+[ASGameInfo]
+; EN: ASPropsDisplayText[0]="Pair of Rounds"
+ASPropsDisplayText[0]="Par de Rondas"
+; EN: ASPropsDisplayText[1]="Round Time Limit"
+ASPropsDisplayText[1]="Límite de Tiempo de Ronda"
+; EN: ASPropsDisplayText[2]="Reset Countdown"
+ASPropsDisplayText[2]="Reiniciar Cuenta Atrás"
+; EN: ASPropsDisplayText[3]="Reinforcements Time"
+ASPropsDisplayText[3]="Tiempo de Refuerzos"
+; EN: ASPropsDisplayText[4]="Practice Time"
+ASPropsDisplayText[4]="Tiempo de Práctica"
+; EN: ASPropDescText[0]="Number of pair of rounds (Attack and defense) for this match."
+ASPropDescText[0]="Número de pares de rondas (ataque y defensa) para esta partida."
+; EN: ASPropDescText[1]="Specifies how long each round lasts."
+ASPropDescText[1]="Especifica cuánto dura cada ronda."
+; EN: ASPropDescText[2]="Specifies how much time there is between each round."
+ASPropDescText[2]="Especifica cuánto tiempo hay entre cada ronda."
+; EN: ASPropDescText[3]="Specifies time between reinforcements spawning."
+ASPropDescText[3]="Especifica el tiempo entre reapariciones de refuerzos."
+; EN: ASPropDescText[4]="Specifies how much time lasts the online practice round. (In seconds)"
+ASPropDescText[4]="Especifica cuánto tiempo dura la ronda de práctica en línea. (En segundos)"
+; EN: ASHints=("A waypoint on the HUD indicates the location of an objective.","Be on the look out for HUD warnings and alarm sounds when an objective is in danger.","When a new spawn area has been enabled, Press %SWITCHWEAPON 10% to teleport to it instantly.","Press %BASEPATH 0% or %BASEPATH 1% to highlight the current objective, show a path to it, and slide out the objective list.","Monitor the respawn countdown to know when to expect backups.","Some weapons are better at destroying enemy Spider Mines than others.","You can be hurt or killed by vehicles exploding near you.","You can heal a friendly vehicle with the Link Gun alt-fire.","If you die, any Spider Mines or Grenades you fired will explode.","The green light on top of the weapon lockers indicates that additional ammo is available at that locker.","All turrets can zoom in by pressing %MOVEFORWARD% and zoom out by pressing %MOVEBACKWARD%.","Link turrets have the same properties as the Link Gun.","The Ion Cannon and Ion Plasma Tank, while charging up, indicate their target with a laser beam.","You can switch between remote controlled turrets by pressing %NEXTWEAPON% and %PREVWEAPON%.","In a SpaceFighter, you can cycle through targets by pressing %NEXTWEAPON% and %PREVWEAPON%.","Various trophies can be obtained by destroying a key vehicle (or turret), completing an objective, or successfully attacking.","A trophy is given to the player completing an objective, but the points reward is shared between all contributors.","Press %TOGGLEBEHINDVIEW% to switch between 1st and 3rd person view in vehicles.")
+ASHints=("Un punto de ruta en el Monitor Frontal (HUD) indica la ubicación de un objetivo.","Estate atento a los avisos del Monitor Frontal (HUD) y a los sonidos de alarma cuando un objetivo está en peligro.","Cuando se ha activado una nueva zona de reaparición, pulsa %SWITCHWEAPON 10% para teletransportarte a ella instantáneamente.","Pulsa %BASEPATH 0% o %BASEPATH 1% para resaltar el objetivo actual, mostrar un camino hasta él, y deslizar la lista de objetivos.","Vigila la cuenta atrás de reaparición para saber cuando puedes esperar refuerzos.","Algunas armas pueden ser mejores que otras a la hora de destruir las Minas Araña enemigas.","Los vehículos que explotan cerca de ti pueden dañarte o matarte.","Puedes curar a un vehículo aliado con el disparo alternativo del Arma Enlazadora.","Si mueres, cualquier Mina Araña o Granada que hayas disparado explotará.","La luz verde en lo alto de los casilleros de armas indica que hay munición adicional disponible en ese casillero.","Todas las Torretas pueden acercar el zoom pulsando %MOVEFORWARD% y alejarlo pulsando %MOVEBACKWARD%.","Las Torretas Enlazadoras tienen las mismas propiedades que el Arma Enlazadora.","El Cañón de Plasma y el Tanque de Plasma de Iones, mientras están cargando, indican su objetivo con un haz láser.","Puedes cambiar entre las Torretas de Control Remoto pulsando %NEXTWEAPON% y %PREVWEAPON%.","En un caza espacial, puedes pasar por los objetivos pulsando %NEXTWEAPON% y %PREVWEAPON%.","Se pueden conseguir varios trofeos destruyendo un vehículo clave (o torreta), completando un objetivo o atacando con éxito.","El trofeo se da al jugador que completa el objetivo, pero la recompensa de puntos se comparte entre todos los que han participado.","Pulsa %TOGGLEBEHINDVIEW% para cambiar entre la vista en primera y tercera persona en los vehículos.")
+; EN: GameName="Assault"
+GameName="Asalto"
+; EN: Description="In each round, one team takes the role of the attacker, while the other team defends, in recreations of famous (or infamous) scenarios. After a pair of rounds, the most successful attacking team scores a point."
+Description="En cada ronda, un equipo asume el papel del atacante, mientras que el otro equipo defiende, en recreaciones de escenarios famosos (o infames). Después de un par de rondas, el equipo atacante más exitoso anota un punto."
+
+[ASGameReplicationInfo]
+; EN: ERW_PracticeRoundEndedStr="Practice round over. Get ready!"
+ERW_PracticeRoundEndedStr="Ronda de práctica finalizada. ¡Prepárate!"
+; EN: ERW_RedAttackedStr="Red team successfully attacked!"
+ERW_RedAttackedStr="¡El equipo Rojo ha atacado con éxito!"
+; EN: ERW_BlueAttackedStr="Blue team successfully attacked!"
+ERW_BlueAttackedStr="¡El equipo Azul ha atacado con éxito!"
+; EN: ERW_RedDefendedStr="Red team successfully defended!"
+ERW_RedDefendedStr="¡El equipo Rojo ha defendido con éxito!"
+; EN: ERW_BlueDefendedStr="Blue team successfully defended!"
+ERW_BlueDefendedStr="¡El equipo Azul ha defendido con éxito!"
+; EN: ERW_RedMoreObjectivesStr="Red team scored (more objectives)."
+ERW_RedMoreObjectivesStr="El equipo Rojo ha ganado (mas objetivos)."
+; EN: ERW_BlueMoreObjectivesStr="Blue team scored (more objectives)."
+ERW_BlueMoreObjectivesStr="El equipo Azul ha ganado (más objetivos)."
+; EN: ERW_RedMoreProgressStr="Red team scored (closer to completion)."
+ERW_RedMoreProgressStr="El equipo Rojo ha ganado (más cerca de terminar)."
+; EN: ERW_BlueMoreProgressStr="Blue team scored (closer to completion)."
+ERW_BlueMoreProgressStr="El equipo Azul ha ganado (más cerca de terminar)."
+; EN: ERW_RedGotSameOBJFasterStr="Red team scored (fastest)."
+ERW_RedGotSameOBJFasterStr="El equipo Rojo ha ganado (más rápido)."
+; EN: ERW_BlueGotSameOBJFasterStr="Blue team scored (fastest)."
+ERW_BlueGotSameOBJFasterStr="El equipo Azul ha ganado (más rápido)."
+; EN: ERW_DrawStr="Draw game."
+ERW_DrawStr="¡Empate!"
+
+[ASOBJ_EnergyCore_Delivery]
+; EN: ObjectiveName="Energy Core Delivery"
+ObjectiveName="Recepción de Núcleo Energético"
+
+[ASOBJ_EnergyCore_Spawn]
+; EN: PlayerDroppedMessage=" dropped the Energy Core!"
+PlayerDroppedMessage=" ha soltado el Núcleo Energético"
+; EN: DroppedMessage="Power Core dropped!"
+DroppedMessage="¡Núcleo Energético soltado!"
+; EN: EnergyCorePickedUp="Power Core picked up!"
+EnergyCorePickedUp="¡Núcleo Energético recogido!"
+; EN: PlayerPickedUpEnergyCore=" picked up the Power Core!"
+PlayerPickedUpEnergyCore=" ha recogido el Núcleo Energético"
+; EN: PlayerCoreReset="Power Core reset!"
+PlayerCoreReset="¡Núcleo Energético de vuelta en su lugar!"
+; EN: ObjectiveName="Energy Core Spawn"
+ObjectiveName="Generación de Núcleo de Energía"
+
+[ASTurret]
+; EN: VehiclePositionString="manning an Energy Turret"
+VehiclePositionString="manejando una Torreta de Energía"
+; EN: VehicleNameString="Energy Turret"
+VehicleNameString="Torreta de Energía"
+
+[ASTurret_Minigun]
+; EN: VehiclePositionString="manning a Minigun Turret"
+VehiclePositionString="manejando una Torreta Automática"
+; EN: VehicleNameString="Minigun Turret"
+VehicleNameString="Torreta Automática"
+
+[ASVehicle_Sentinel]
+; EN: VehicleNameString="Sentinel"
+VehicleNameString="Centinela"
+
+[ASVehicle_Sentinel_Ceiling]
+; EN: VehicleNameString="Ceiling Sentinel"
+VehicleNameString="Centinela de Techo"
+
+[ASVehicle_Sentinel_Floor]
+; EN: VehicleNameString="Floor Sentinel"
+VehicleNameString="Centinela de Piso"
+
+[ASVehicle_SpaceFighter]
+; EN: Text_Speed="Speed:"
+Text_Speed="Velocidad:"
+
+[Ammo_Dummy]
+; EN: ItemName="Dummy"
+ItemName="Muñeco"
+
+[DamTypeExploBarrel]
+; EN: DeathString="%k took out %o with a barrel explosion."
+DeathString="%k ha reventado un barril que estaba cerca de %o."
+; EN: FemaleSuicide="%o was a little too close to the barrel she blew up."
+FemaleSuicide="%o estaba demasiado cerca del barril que hizo estallar."
+; EN: MaleSuicide="%o was a little too close to the barrel he blew up."
+MaleSuicide="%o estaba demasiado cerca del barril que hizo estallar."
+
+[DamTypeMinigunTurretBullet]
+; EN: DeathString="%o was mowed down by %k's minigun turret."
+DeathString="%k ha segado con su Torreta Automática a %o."
+; EN: FemaleSuicide="%o turned the minigun on herself."
+FemaleSuicide="%o ha apuntado su Torreta Automática donde no debía."
+; EN: MaleSuicide="%o turned the minigun on himself."
+MaleSuicide="%o ha apuntado su Torreta Automática donde no debía."
+
+[DamTypeSentinelLaser]
+; EN: DeathString="%o was served an extra helping of %k's lasers."
+DeathString="A %o le han servido una ración extra de los láseres de %k."
+; EN: FemaleSuicide="%o fried herself with her own laser blast."
+FemaleSuicide="%o se ha frito con su propia ráfaga láser."
+; EN: MaleSuicide="%o fried himself with his own laser blast."
+MaleSuicide="%o se ha frito con su propia ráfaga láser."
+
+[DestroyVehicleObjective]
+; EN: ObjectiveName="Destroy Vehicle Objective"
+ObjectiveName="Destruye el Vehículo Objetivo"
+; EN: ObjectiveDescription="Destroy Objective to disable it."
+ObjectiveDescription="Destruye el objetivo para desactivarlo."
+; EN: Objective_Info_Attacker="Destroy Vehicle Objective"
+Objective_Info_Attacker="Destruye el Vehículo Objetivo"
+; EN: Objective_Info_Defender="Protect Vehicle Objective"
+Objective_Info_Defender="Protege el Vehículo Objetivo"
+
+[GameObject_EnergyCore]
+; EN: PlayerDroppedMessage=" dropped the Power Core!"
+PlayerDroppedMessage=" ha soltado el Núcleo Eléctrico"
+; EN: DroppedMessage="Power Core dropped!"
+DroppedMessage="¡Núcleo Eléctrico soltado!"
+; EN: EnergyCorePickedUp="Power Core picked up!"
+EnergyCorePickedUp="¡Núcleo Eléctrico recogido!"
+; EN: PlayerPickedUpEnergyCore=" picked up the Power Core!"
+PlayerPickedUpEnergyCore=" ha recogido el Núcleo Eléctrico"
+; EN: PlayerCoreReset="Power Core reset!"
+PlayerCoreReset="¡Núcleo Eléctrico de vuelta en su lugar!"
+
+[HUD_Assault]
+IP_Bracket_Open="["
+IP_Bracket_Close="]"
+; EN: Cardinal_North="N"
+Cardinal_North="N"
+; EN: Cardinal_East="E"
+Cardinal_East="E"
+; EN: Cardinal_South="S"
+Cardinal_South="S"
+; EN: Cardinal_West="W"
+Cardinal_West="O"
+; EN: NoGameReplicationInfoString="Receiving Server State..."
+NoGameReplicationInfoString="Recibiendo estado de servidor..."
+; EN: MetersString="m"
+MetersString="m"
+; EN: TargetString="Target:"
+TargetString="Objetivo:"
+; EN: NoTargetString="No Target"
+NoTargetString="Sin objetivo"
+; EN: PracticeRoundString="Practice Round"
+PracticeRoundString="Ronda de Práctica"
+
+[InfoPod]
+; EN: POD_Message="-= info pod =-"
+POD_Message="-= terminal de información =-"
+
+[Message_ASKillMessages]
+; EN: KillString[0]="Top Gun!"
+KillString[0]="¡As!"
+; EN: KillString[1]="Wrecker!"
+KillString[1]="¡Demoledor!"
+; EN: KillString[2]="Vehicle spawn blocking! 5 secs warning"
+KillString[2]="¡Bloqueando reaparición de vehículo! Aviso de 5 segundos"
+; EN: KillString[3]="Vehicle spawn blocking! 4 secs warning"
+KillString[3]="¡Bloqueando reaparición de vehículo! Aviso de 4 segundos"
+; EN: KillString[4]="Vehicle spawn blocking! 3 secs warning"
+KillString[4]="¡Bloqueando reaparición de vehículo! Aviso de 3 segundos"
+; EN: KillString[5]="Vehicle spawn blocking! 2 secs warning"
+KillString[5]="¡Bloqueando reaparición de vehículo! Aviso de 2 segundos"
+; EN: KillString[6]="Vehicle spawn blocking! 1 sec warning"
+KillString[6]="¡Bloqueando reaparición de vehículo! Aviso de 1 segundos"
+; EN: KillString[7]="Leaving battle field!"
+KillString[7]="¡Abandonando el campo de batalla!"
+
+[Message_AssaultTeamRole]
+; EN: Message_PostLogin_Attacker="You are Attacking!!"
+Message_PostLogin_Attacker="¡¡Estás atacando!!"
+; EN: Message_PostLogin_Defender="You are Defending!!"
+Message_PostLogin_Defender="¡¡Estás defendiendo!!"
+
+[Message_Awards]
+; EN: Msg[0]="You have completed the Objective!"
+Msg[0]="¡Has completado el Objetivo!"
+; EN: Msg[1]="completed the Objective!"
+Msg[1]="completó el Objetivo"
+
+[ObjectiveProgressDisplay]
+; EN: HeaderText="Objectives"
+HeaderText="Objetivos"
+OptionalObjectivePrefix="*"
+ObjTimesString="x"
+TextCutSuffix="..."
+SpaceSeparator=" "
+PrimaryObjectivePrefix="-"
+
+[ScoreBoard_Assault]
+; EN: RemainingRoundTime="Remaining round time:"
+RemainingRoundTime="Tiempo restante de ronda:"
+; EN: CurrentRound="Round:"
+CurrentRound="Ronda:"
+RoundSeparator="/"
+; EN: Defender="( Defender )"
+Defender="( Defensor )"
+; EN: Attacker="( Attacker )"
+Attacker="( Atacante )"
+; EN: WaitForReinforcements="   You were killed. Reinforcements in"
+WaitForReinforcements="   Te han matado. Refuerzos en"
+; EN: WaitingToSpawnReinforcements="Waiting for reinforcements..."
+WaitingToSpawnReinforcements="Esperando refuerzos..."
+; EN: AutoRespawn="Automatically respawning in..."
+AutoRespawn="Reaparición automática en..."
+; EN: YouWonRound="You've won the round!"
+YouWonRound="¡Has ganado la ronda!"
+; EN: YouLostRound="You've lost the round."
+YouLostRound="Has perdido la ronda."
+; EN: PracticeRoundOver="Practice round over."
+PracticeRoundOver="Ronda de práctica finalizada."
+
+[Trigger_ASMessageTrigger]
+; EN: Message="My Message"
+Message="Mi mensaje"
+
+[Weapon_Sentinel]
+; EN: ItemName="Sentinel weapon"
+ItemName="Arma centinela"
+
+[Weapon_Turret_Minigun]
+; EN: ItemName="Turret weapon"
+ItemName="Arma de torreta"
+

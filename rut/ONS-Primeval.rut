@@ -1,0 +1,34 @@
+[LevelInfo0]
+; EN: Title="Primeval"
+Title="Primevo"
+
+[LevelSummary]
+; EN: Title="Primeval"
+Title="Primevo"
+; EN: Description="Nestled away in the darkness of the Primeval Forest, this Onslaught arena is a favorite of loggers and treehuggers alike."
+Description="Anidada en la oscuridad de los Bosques Primevos, este estadio de Acometida es el favorito de los leñadores y amantes de los árboles por igual."
+
+[Volume0]
+; EN: LocationName="Red Base"
+LocationName="Base Roja"
+
+[Volume2]
+; EN: LocationName="Red Side Base (1)"
+LocationName="Base Lateral Roja (1)"
+
+[Volume3]
+; EN: LocationName="Center Node (3)"
+LocationName="Nodo Central (3)"
+
+[Volume4]
+; EN: LocationName="Blue Side Base (2)"
+LocationName="Base Lateral Azul (2)"
+
+[Volume5]
+; EN: LocationName="Blue Base"
+LocationName="Base Azul"
+
+[ZoneInfo0]
+; EN: LocationName="Wandering in the Woods"
+LocationName="Vagando por el Bosque"
+

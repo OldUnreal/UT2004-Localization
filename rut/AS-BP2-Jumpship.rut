@@ -1,0 +1,300 @@
+[ASCriticalObjectiveVolume1]
+; EN: LocationName="Coolant Valve Control"
+LocationName="Управление клапана охлаждения"
+
+[ASCriticalObjectiveVolume2]
+; EN: LocationName="Teleporter Console"
+LocationName="Консоль телепорта"
+
+[ASCriticalObjectiveVolume3]
+; EN: LocationName="Jump Engine A Control"
+LocationName="Управление прыжковым двигателем A"
+
+[ASCriticalObjectiveVolume4]
+; EN: LocationName="Jump Engine B Control"
+LocationName="Управление прыжковым двигателем B"
+
+[ASCriticalObjectiveVolume5]
+; EN: LocationName="Central Computer Console"
+LocationName="Консоль центрального компьютера"
+
+[DestroyableObjective_SM0]
+; EN: DestructionMessage="Coolant Valve Control Destroyed!"
+DestructionMessage="Управление клапана охлаждения уничтожено!"
+; EN: ObjectiveDescription="Destroy Thermal Control Regulator to cool Jumpship engines."
+ObjectiveDescription="Уничтожьте регулятор теплового контроля, чтобы охладить двигатели десантного корабля."
+; EN: Objective_Info_Attacker="Destroy Thermal Control Regulator"
+Objective_Info_Attacker="Уничтожьте регулятор теплового контроля"
+; EN: Objective_Info_Defender="Protect Thermal Control Regulator"
+Objective_Info_Defender="Защищайте регулятор теплового контроля"
+
+[DestroyableObjective_SM1]
+; EN: ObjectiveName="Pressure Valve"
+ObjectiveName="Клапан давления"
+; EN: DestructionMessage="Pressure valve destroyed!"
+DestructionMessage="Клапан давления уничтожен!"
+; EN: ObjectiveDescription="Destroy Hydraulic Pressure Valves to release the Jumpship"
+ObjectiveDescription="Уничтожьте клапаны гидравлического давления, чтобы освободить десантный корабль"
+; EN: Objective_Info_Attacker="Destroy Hydraulic Valves"
+Objective_Info_Attacker="Уничтожьте гидравлические клапаны"
+; EN: Objective_Info_Defender="Protect Hydraulic Valves"
+Objective_Info_Defender="Защищайте гидравлические клапаны"
+
+[DestroyableObjective_SM2]
+; EN: ObjectiveName="Pressure Valve"
+ObjectiveName="Клапан давления"
+; EN: DestructionMessage="Pressure valve destroyed!"
+DestructionMessage="Клапан давления уничтожен!"
+; EN: ObjectiveDescription="Destroy Hydraulic Pressure Valves to release the Jumpship"
+ObjectiveDescription="Уничтожьте клапаны гидравлического давления, чтобы освободить десантный корабль"
+; EN: Objective_Info_Attacker="Destroy Hydraulic Valves"
+Objective_Info_Attacker="Уничтожьте гидравлические клапаны"
+; EN: Objective_Info_Defender="Protect Hydraulic Valves"
+Objective_Info_Defender="Защищайте гидравлические клапаны"
+
+[DestroyableObjective_SM3]
+; EN: ObjectiveName="Pressure Valve"
+ObjectiveName="Клапан давления"
+; EN: DestructionMessage="Pressure valve destroyed!"
+DestructionMessage="Клапан давления уничтожен!"
+; EN: ObjectiveDescription="Destroy Hydraulic Pressure Valves to release the Jumpship"
+ObjectiveDescription="Уничтожьте клапаны гидравлического давления, чтобы освободить десантный корабль"
+; EN: Objective_Info_Attacker="Destroy Hydraulic Valves"
+Objective_Info_Attacker="Уничтожьте гидравлические клапаны"
+; EN: Objective_Info_Defender="Protect Hydraulic Valves"
+Objective_Info_Defender="Защищайте гидравлические клапаны"
+
+[DestroyableObjective_SM4]
+; EN: ObjectiveName="Pressure Valve"
+ObjectiveName="Клапан давления"
+; EN: DestructionMessage="Pressure valve destroyed!"
+DestructionMessage="Клапан давления уничтожен!"
+; EN: ObjectiveDescription="Destroy Hydraulic Pressure Valves to release the Jumpship"
+ObjectiveDescription="Уничтожьте клапаны гидравлического давления, чтобы освободить десантный корабль"
+; EN: Objective_Info_Attacker="Destroy Hydraulic Valves"
+Objective_Info_Attacker="Уничтожьте гидравлические клапаны"
+; EN: Objective_Info_Defender="Protect Hydraulic Valves"
+Objective_Info_Defender="Защищайте гидравлические клапаны"
+
+[DestroyableObjective_SM5]
+; EN: ObjectiveName="Computer Lock"
+ObjectiveName="Блокиратор компьютера"
+; EN: DestructionMessage="Computer Lock Destroyed!"
+DestructionMessage="Блокиратор компьютера уничтожен!"
+; EN: ObjectiveDescription="Destroy the computer Routers to gain navigation control of the Jumpship."
+ObjectiveDescription="Уничтожьте компьютерные роутеры, чтобы получить контроль над навигацией десантного корабля."
+; EN: Objective_Info_Attacker="Destroy Computer Routers"
+Objective_Info_Attacker="Уничтожьте компьютерные роутеры"
+; EN: Objective_Info_Defender="Defend Computer Routers"
+Objective_Info_Defender="Защищайте компьютерные роутеры"
+
+[DestroyableObjective_SM6]
+; EN: ObjectiveName="Computer Lock"
+ObjectiveName="Блокиратор компьютера"
+; EN: DestructionMessage="Computer Lock Destroyed!"
+DestructionMessage="Блокиратор компьютера уничтожен!"
+; EN: ObjectiveDescription="Destroy the computer Routers to gain navigation control of the Jumpship."
+ObjectiveDescription="Уничтожьте компьютерные роутеры, чтобы получить контроль над навигацией десантного корабля."
+; EN: Objective_Info_Attacker="Destroy Computer Routers"
+Objective_Info_Attacker="Уничтожьте компьютерные роутеры"
+; EN: Objective_Info_Defender="Defend Computer Routers"
+Objective_Info_Defender="Защищайте компьютерные роутеры"
+
+[HoldObjective0]
+; EN: DestructionMessage="Engine Activated!"
+DestructionMessage="Двигатель запущен!"
+; EN: ObjectiveDescription="Hold  the switch to activate the Jump Engine."
+ObjectiveDescription="Удерживайте переключатель, чтобы запустить прыжковый двигатель."
+; EN: Objective_Info_Attacker="Activate Jump Engines"
+Objective_Info_Attacker="Запустите прыжковые двигатели"
+; EN: Objective_Info_Defender="Defend Jump Engines"
+Objective_Info_Defender="Защищайте прыжковые двигатели"
+
+[HoldObjective1]
+; EN: DestructionMessage="Engine Activated!"
+DestructionMessage="Двигатель запущен!"
+; EN: ObjectiveDescription="Hold  the switch to activate the Jump Engine."
+ObjectiveDescription="Удерживайте переключатель, чтобы запустить прыжковый двигатель."
+; EN: Objective_Info_Attacker="Activate Jump Engines"
+Objective_Info_Attacker="Запустите прыжковые двигатели"
+; EN: Objective_Info_Defender="Defend Jump Engines"
+Objective_Info_Defender="Защищайте прыжковые двигатели"
+
+[HoldObjective2]
+; EN: ObjectiveName="Central Computer Terminal"
+ObjectiveName="Центральный компьютерный терминал"
+; EN: DestructionMessage="Computer Programmed!"
+DestructionMessage="Компьютер перерограммирован!"
+; EN: ObjectiveDescription="Touch and hold computer console to program jump coordinates."
+ObjectiveDescription="Коснитесь и удерживайте компьютерную консоль, чтобы перепрограммировать координаты прыжка."
+; EN: Objective_Info_Attacker="Program Jump Coordinates"
+Objective_Info_Attacker="Перепрограммируйте прыжковые координаты"
+; EN: Objective_Info_Defender="Prevent attackers from programming jump coordinates."
+Objective_Info_Defender="Не дайте вражеской команды перепрограммировать прыжковые координаты."
+
+[LevelInfo0]
+; EN: Title="Jumpship BP2"
+Title="Десантный корабль BP2"
+
+[LevelSummary]
+; EN: Title="Jumpship BP2"
+Title="Десантный корабль BP2"
+; EN: Description="During the height of the Corporation Wars, Liandri scientists created a prototype Warship capable of making its own jumps without the need for a jumpgate.  Shortly before its maiden voyage, Izanagi spies learned of the prototype Jumpship and launched an operation to steal it.  This scenario recreates the historic battle in which Izanagi forces infiltrated the prototype Liandri Jumpship, activated its engines, and made a successful jump to Izanagi space."
+Description="В разгар корпоративных войн учёные корпорации Liandri создали прототип военного корабля, способного совершать прыжки самостоятельно, без использования прыжковых врат. Незадолго до его первого полета шпионы корпорации Izanagi узнали о прототипе этого десантного корабля и начали операцию по его похищению. Этот сценарий воссоздает историческую битву, в которой силы Izanagi проникли на прототип десантного корабля Liandri, активировали его двигатели и совершили успешный прыжок в пространство Izanagi."
+
+[ProximityObjective0]
+; EN: ObjectiveName="Landing Bay"
+ObjectiveName="Посадочная палуба"
+; EN: DestructionMessage="Attackers have entered the jumpship!"
+DestructionMessage="Атакующие проникли на десантный корабль!"
+; EN: ObjectiveDescription="Fly into front bay to enter Jumpship."
+ObjectiveDescription="Влетите в передний отсек, чтобы попасть на десантный корабль."
+; EN: Objective_Info_Attacker="Enter Jumpship"
+Objective_Info_Attacker="Проникните в десантный корабль"
+; EN: Objective_Info_Defender="Prevent Attackers From Entering Jumpship"
+Objective_Info_Defender="Не дайте противнику проникнуть в десантный корабль"
+
+[SceneSubtitles0]
+; EN: SubTitles=("During the height of the Corporation Wars, Liandri scientists created a prototype warship capable of making its own jumps without the need for a jumpgate.","Shortly before its maiden voyage, Izanagi spies learned of the prototype jumpship and launched an operation to steal it.  Success would give the Izanagi Corporation a significant advantage during the Wars.","This scenario recreates the historic battle in which Izanagi forces infiltrated the prototype Liandri jumpship, activated its engines, and made a successful jump to Izanagi space.","The jumpship is receiving power from the construction dock.  It is moored to the dock via four docking arms. ","Destroy the hydraulic valves controlling each arm to place the jumpship under internal power and release it from the dock.","After the four valves are destroyed, enter the jumpship through the docking bay.",,"Destroy the Thermal Control Regulator to cool the jump engines.  This will allow them to be powered safely.",,"Use this console to activate the ship's internal navigation systems.",,"Use the levers to inject the engine coolant and disable the safety lock on both of the jump engines.",,"The ship's bridge is too heavily defended for a direct attack, so your team will need to access the central computer deep within the ship's core.","Once you have reached the computer, use this console to reroute power from the bridge and enter the new jump coordinates.","Finally, destroy both computer routers.  This will disable all remaining safety protocols, activate the Jumpship, and end the match.")
+SubTitles=("В разгар корпоративных войн учёные корпорации Liandri создали прототип военного корабля, способного совершать прыжки самостоятельно, без использования прыжковых врат.","Незадолго до его первого полета шпионы корпорации Izanagi узнали о прототипе этого десантного корабля и начали операцию по его похищению.","Этот сценарий воссоздает историческую битву, в которой силы Izanagi проникли на прототип десантного корабля Liandri, активировали его двигатели и совершили успешный прыжок в пространство Izanagi.","Корабль получает энергию от строительного дока.  Он пришвартован к доку четырьмя стыковочными манипуляторами. ","Уничтожьте гидравлические клапаны, управляющие каждым манипулятором, чтобы перевести корабль на внутреннее питание и отсоединить его от дока.","После уничтожения четырех клапанов войдите в десатный корабль через стыковочный отсек.",,"Уничтожьте регулятор теплового контроля, чтобы охладить прыжковые двигатели. Это позволит безопасно подать на них питание.",,"Используйте эту консоль, чтобы активировать внутренние навигационные системы корабля.",,"Используйте рычаги, чтобы впрыснуть охлаждающую жидкость и снять предохранительную блокировку с обоих прыжковых двигателей.",,"Мостик корабля слишком сильно защищен для прямой атаки, поэтому вашей команде нужно получить доступ к центральному компьютеру глубоко в ядре корабля.","Добравшись до компьютера, используйте эту консоль, чтобы перенаправить питание с мостика и ввести новые координаты прыжка.","Последний рывок, уничтожьте оба компьютерных роутера. Это отключит все оставшиеся протоколы безопасности, запустит десантный корабль и завершит матч.")
+
+[TriggeredObjective0]
+; EN: ObjectiveName="Teleporter Room Controls"
+ObjectiveName="Комната управления телепортом"
+; EN: DestructionMessage="Teleporters Activated!"
+DestructionMessage="Телепорты активированы"
+; EN: ObjectiveDescription="Activate the ship's internal navigation systems."
+ObjectiveDescription="Активируйте внутренние навигационные системы корабля."
+; EN: Objective_Info_Attacker="Activate the Navigation Computer"
+Objective_Info_Attacker="Активируйте навигационный компьютер"
+; EN: Objective_Info_Defender="Defend the Navigation Computer"
+Objective_Info_Defender="Защищайте навигационный компьютер"
+
+[ZoneInfo0]
+; EN: LocationName="In Space"
+LocationName="В космосе"
+
+[ZoneInfo1]
+; EN: LocationName="Landing Bay 1 Hall"
+LocationName="Зал Посадочной палубы 1"
+
+[ZoneInfo10]
+; EN: LocationName="Jump Engine A Hall"
+LocationName="Помещение прыжкового двигателя A"
+
+[ZoneInfo11]
+; EN: LocationName="Ship Bridge"
+LocationName="Мостик корабля"
+
+[ZoneInfo12]
+; EN: LocationName="Landing Bay 1 Hall"
+LocationName="Зал Посадочной палубы 1"
+
+[ZoneInfo13]
+; EN: LocationName="Landing Bay 2 Hall"
+LocationName="Зал Посадочной палубы 2"
+
+[ZoneInfo14]
+; EN: LocationName="Landing Bay 2 Hall"
+LocationName="Зал Посадочной палубы 2"
+
+[ZoneInfo15]
+; EN: LocationName="Coolant Control"
+LocationName="Контроль системы охлаждения"
+
+[ZoneInfo16]
+; EN: LocationName="Teleporter Room"
+LocationName="Комната телепортации"
+
+[ZoneInfo17]
+; EN: LocationName="Teleporter Room"
+LocationName="Комната телепортации"
+
+[ZoneInfo18]
+; EN: LocationName="Jump Engine A Hall"
+LocationName="Помещение прыжкового двигателя A"
+
+[ZoneInfo19]
+; EN: LocationName="Jump Engine B Hall"
+LocationName="Помещение прыжкового двигателя B"
+
+[ZoneInfo2]
+; EN: LocationName="Hangar"
+LocationName="Ангар"
+
+[ZoneInfo20]
+; EN: LocationName="In Space"
+LocationName="В космосе"
+
+[ZoneInfo22]
+; EN: LocationName="Jump Engine B Hall"
+LocationName="Помещение прыжкового двигателя B"
+
+[ZoneInfo24]
+; EN: LocationName="Jump Engine A"
+LocationName="Прыжковый двигатель A"
+
+[ZoneInfo25]
+; EN: LocationName="Jump Engine B"
+LocationName="Прыжковый двигатель B"
+
+[ZoneInfo27]
+; EN: LocationName="Hangar"
+LocationName="Ангар"
+
+[ZoneInfo28]
+; EN: LocationName="Central Computer Hall"
+LocationName="Центральный компьютерный зал"
+
+[ZoneInfo29]
+; EN: LocationName="Central Computer Core"
+LocationName="Ядро центрального компьютера"
+
+[ZoneInfo3]
+; EN: LocationName="Hangar"
+LocationName="Ангар"
+
+[ZoneInfo30]
+; EN: LocationName="Central Computer Core"
+LocationName="Ядро центрального компьютера"
+
+[ZoneInfo31]
+; EN: LocationName="Central Computer Core"
+LocationName="Ядро центрального компьютера"
+
+[ZoneInfo35]
+; EN: LocationName="Coolant Control"
+LocationName="Контроль системы охлаждения"
+
+[ZoneInfo36]
+; EN: LocationName="Central Computer Core"
+LocationName="Ядро центрального компьютера"
+
+[ZoneInfo37]
+; EN: LocationName="Coolant Control"
+LocationName="Контроль системы охлаждения"
+
+[ZoneInfo4]
+; EN: LocationName="Landing Bay 1"
+LocationName="Посадочная палуба 1"
+
+[ZoneInfo5]
+; EN: LocationName="Hangar"
+LocationName="Ангар"
+
+[ZoneInfo6]
+; EN: LocationName="Hangar"
+LocationName="Ангар"
+
+[ZoneInfo7]
+; EN: LocationName="Hangar"
+LocationName="Ангар"
+
+[ZoneInfo8]
+; EN: LocationName="Landing Bay 2"
+LocationName="Посадочная палуба 2"
+
+[ZoneInfo9]
+; EN: LocationName="Hangar"
+LocationName="Ангар"
+

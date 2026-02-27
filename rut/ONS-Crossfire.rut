@@ -1,0 +1,58 @@
+[LevelInfo0]
+; EN: Title="Crossfire"
+Title="Fuego Cruzado"
+
+[LevelSummary]
+; EN: Title="Crossfire"
+Title="Fuego Cruzado"
+; EN: Description="In 2352, an anomalous volcanic eruption on the outskirts of Jerusalem partially unearthed a city far below the lost city of Ekron. Four years of intensive excavation revealed a civilization that predated all known human history. Purchased by Liandri corporation for the price of excavation, the souls of arena combatants now join the forgotten dead of the unremembered past."
+Description="En 2352, una erupción volcánica anómala en las afueras de Jerusalén desenterró parcialmente una ciudad muy por debajo de la ciudad perdida de Ekron. Cuatro años de intensas excavaciones revelaron una civilización anterior a toda la historia humana conocida. Tras ser comprada por la corporación Liandri, las almas de los combatientes de la arena se unen ahora a los muertos olvidados de un pasado que no se recuerda."
+
+[Volume10]
+; EN: LocationName="Central Node (8)"
+LocationName="Nodo Central (8)"
+
+[Volume11]
+; EN: LocationName="Red Base"
+LocationName="Base Roja"
+
+[Volume12]
+; EN: LocationName="Blue Base"
+LocationName="Base Azul"
+
+[Volume13]
+; EN: LocationName="Middle North Node (7)"
+LocationName="Nodo Norte Medio (7)"
+
+[Volume14]
+; EN: LocationName="Middle South Node (6)"
+LocationName="Nodo Sur Medio (6)"
+
+[Volume15]
+; EN: LocationName="Red Northeast Prime Node (9)"
+LocationName="Nodo Principal Rojo Noroeste (9)"
+
+[Volume16]
+; EN: LocationName="Blue Southwest Prime Node (3)"
+LocationName="Nodo Principal Azul Suroeste (3)"
+
+[Volume17]
+; EN: LocationName="Blue West Prime Node (2)"
+LocationName="Nodo Principal Azul Oeste (2)"
+
+[Volume18]
+; EN: LocationName="Red East Prime Node (1)"
+LocationName="Nodo Principal Rojo Este (1)"
+
+[Volume4]
+; EN: LocationName="West Node (5)"
+LocationName="Nodo Este (5)"
+
+[Volume7]
+; EN: LocationName="East Node (4)"
+LocationName="Nodo Este (4)"
+
+[ZoneInfo0]
+; EN: LocationName="Outside"
+LocationName="Exterior"
+

@@ -1,0 +1,30 @@
+[LevelInfo0]
+; EN: Title="Trite"
+Title="Trillado"
+
+[LevelSummary]
+; EN: Title="Trite"
+Title="Trillado"
+; EN: Description="Watch your back and stay alert in this abandoned facility or you may end up as cold as the steel which surrounds you..."
+Description="No te descuides, estate alerta en esta instalación abandonada o acabarás tan frío como el acero que te rodea..."
+
+[ZoneInfo0]
+; EN: LocationName="Flak Area"
+LocationName="Zona de Antiaéreo"
+
+[ZoneInfo1]
+; EN: LocationName="UDamage Area"
+LocationName="Zona de Daño Doble"
+
+[ZoneInfo2]
+; EN: LocationName="Shield Room"
+LocationName="Sala de Escudo"
+
+[ZoneInfo3]
+; EN: LocationName="Sniper Rifle Area"
+LocationName="Sala de Arma Eléctrica"
+
+[ZoneInfo4]
+; EN: LocationName="Shock Rifle Hall"
+LocationName="Sala del Rifle de Choque"
+

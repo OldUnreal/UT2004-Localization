@@ -1,0 +1,22 @@
+[LevelInfo0]
+; EN: Title="The Junkyard"
+Title="El Depósito de Chatarra"
+; EN: LevelEnterText="Welcome to the Planet of Junk"
+LevelEnterText="Bienvenidos al Planeta de la Chatarra"
+
+[LevelSummary]
+; EN: Title="The Junkyard"
+Title="El Depósito de Chatarra"
+; EN: Description="Down through eons, the refuse of civilizations has come to rest here.  You and your friends shall only add to the pile."
+Description="Durante eones, aquí han venido a parar los deshechos de la sociedad. Tus amigos y tú solo haréis más grande la pila."
+; EN: LevelEnterText="Welcome to the Planet of Junk"
+LevelEnterText="Bienvenidos al Planeta de la Chatarra"
+
+[ZoneInfo0]
+; EN: LocationName="Lost in the Junk"
+LocationName="Perdido en la Chatarra"
+
+[ZoneInfo1]
+; EN: LocationName="Lost in the Junk"
+LocationName="Perdido en la Chatarra"
+

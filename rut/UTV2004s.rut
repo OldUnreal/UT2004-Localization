@@ -1,0 +1,10 @@
+[Public]
+; EN: Object=(Class=Class,MetaClass=Engine.Mutator,Name=UTV2004s.utvMutator,Description="Required to support UTV2004 SeeAll mode")
+Object=(Class=Class,MetaClass=Engine.Mutator,Name=UTV2004s.utvMutator,Description="Necesario para que UTV2004 sea compatible en modo "Vista Completa"")
+
+[utvMutator]
+; EN: FriendlyName="UTV2004S"
+FriendlyName="UTV2004S"
+; EN: Description="Required to support UTV2004 SeeAll mode"
+Description="Necesario para que UTV2004 sea compatible en modo "Vista Completa""
+
