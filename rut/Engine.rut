@@ -461,9 +461,9 @@ BHDescText[0]="Активируйте опцию, чтобы запретить 
 BHDescText[1]="Активируйте опцию, чтобы вынести зрителей в отдельный чат."
 
 [Canvas]
-TinyFontName="UT2003Fonts_rut.FontMono"
-SmallFontName="UT2003Fonts_rut.FontMono"
-MedFontName="UT2003Fonts_rut.FontMono800x600"
+TinyFontName="UT2003Fonts.FontMono"
+SmallFontName="UT2003Fonts.FontMono"
+MedFontName="UT2003Fonts.FontMono800x600"
 
 [ChatRoomMessage]
 ; EN: AnonText="Someone"
@@ -717,7 +717,7 @@ FemaleSuicide="%o превратилась в фарш."
 MaleSuicide="%o превратился в фарш."
 
 [HUD]
-ProgressFontName="UT2003Fonts_rut.FontEurostile12"
+ProgressFontName="UT2003Fonts.FontEurostile12"
 FontArrayNames[0]="Engine.DefaultFont"
 FontArrayNames[1]="Engine.DefaultFont"
 FontArrayNames[2]="Engine.DefaultFont"

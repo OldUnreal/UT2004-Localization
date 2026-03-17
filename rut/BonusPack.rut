@@ -31,7 +31,7 @@ LivesRemainingString="Осталось возрождений"
 PlayersRemainString="Осталось игроков: "
 
 [HudMutant]
-MutantRangeFontName="UT2003Fonts_rut.FontMono"
+MutantRangeFontName="UT2003Fonts.FontMono"
 ; EN: BottomFeederText="BOTTOM FEEDER"
 BottomFeederText="ПАДАЛЬЩИК"
 
