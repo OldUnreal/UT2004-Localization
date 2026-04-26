@@ -1,4 +1,4 @@
-ÿþ[Public]
+ï»¿[Public]
 Object=(Name=Editor.MasterCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Editor.MakeCommandlet,Class=Class,MetaClass=Core.Commandlet)
 Object=(Name=Editor.ConformCommandlet,Class=Class,MetaClass=Core.Commandlet)
@@ -167,5 +167,3 @@ HelpOneLiner="Analyzes map"
 HelpUsage="analyzecontent mapname"
 HelpParm[0]="mapname"
 HelpDesc[0]="Path to a map file"
-
- 
