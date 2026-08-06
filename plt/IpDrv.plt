@@ -15,18 +15,20 @@ ClassCaption=Gra sieciowa TCP/IP
 ClassCaption=Sygnał serwera LAN
 
 [DecompressCommandlet]
-HelpCmd=wypakuj
-HelpOneLiner=Wypakuj plik spakowany za pomocą kompresji ucc.
-HelpUsage=wypakuj SpakowanyPlik
-HelpParm[0]=SpakowanyPlik
-HelpDesc[0]=Plik .uz do odpakowania
+HelpCmd=decompress
+HelpWebLink="https://www.oldunreal.com/wiki/index.php?title=Commandlet"
+HelpOneLiner="Decompress a file compressed with ucc compress."
+HelpUsage="decompress CompressedFile"
+HelpParm[0]="CompressedFile"
+HelpDesc[0]="The.uz file to decompress."
 
 [CompressCommandlet]
-HelpCmd=Spakuj
-HelpOneLiner=Spakuj pakiet Unreal do automatycznego pobrania. Stworzony zostanie plik typu .uz
-HelpUsage=spakuj Plik1 [Plik2 [Plik3…]]
-HelpParm[0]=Pliki
-HelpDesc[0]=Nazwy plików lub dzikie karty do spakowania
+HelpCmd=compress
+HelpWebLink="https://www.oldunreal.com/wiki/index.php?title=Commandlet"
+HelpOneLiner="Compress an Unreal package for auto-downloading. A file with extension.uz will be created."
+HelpUsage="compress File1 [File2 [File3...]]"
+HelpParm[0]="Files"
+HelpDesc[0]="The wildcard or file names to compress."
 
 [MasterServerUplink]
 MSUPropText[0]=Reklamuj serwer
