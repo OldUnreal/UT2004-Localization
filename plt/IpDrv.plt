@@ -14,6 +14,7 @@ ClassCaption=Gra sieciowa TCP/IP
 [UdpBeacon]
 ClassCaption=Sygnał serwera LAN
 
+; LEAVE THIS SECTION UNTRANSLATED - it was decided by consensus.
 [DecompressCommandlet]
 HelpCmd=decompress
 HelpWebLink="https://www.oldunreal.com/wiki/index.php?title=Commandlet"
@@ -22,6 +23,7 @@ HelpUsage="decompress CompressedFile"
 HelpParm[0]="CompressedFile"
 HelpDesc[0]="The.uz file to decompress."
 
+; LEAVE THIS SECTION UNTRANSLATED - it was decided by consensus.
 [CompressCommandlet]
 HelpCmd=compress
 HelpWebLink="https://www.oldunreal.com/wiki/index.php?title=Commandlet"
