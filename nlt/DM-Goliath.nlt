@@ -1,0 +1,52 @@
+﻿[LevelInfo0]
+Title="Goliath"
+
+[LevelSummary]
+Title="Goliath"
+; EN: Description="High above Calaban VII, Goliath class orbital power stations provide the thriving colonies below with both power and protection.  Virtually immune to small arms fire, the platforms have become popular staging arenas for the tournaments.  Occasional radiation leakage has resulted in arenas that are not only entertaining, but self-cleaning too."
+Description="Hoog boven Calaban VII voorzien orbitale energiecentrales van de Goliath-klasse de bloeiende kolonies beneden van zowel stroom als bescherming.  Vrijwel ongevoelig voor vuur van handwapens zijn de platforms populaire arena's voor de toernooien geworden.  Af en toe lekkende straling heeft gezorgd voor arena's die niet alleen vermakelijk zijn, maar zichzelf ook schoonmaken."
+
+[Volume0]
+; EN: LocationName="Secret Rooftop Platform"
+LocationName="Geheim dakplatform"
+
+[Volume1]
+; EN: LocationName="Sneaky Lowgrav Quadjump Spot"
+LocationName="Stiekeme lowgrav-quadjumpplek"
+
+[ZoneInfo0]
+; EN: LocationName="Shock Rifle Room"
+LocationName="Shock Rifle-kamer"
+
+[ZoneInfo1]
+; EN: LocationName="Udamage Spawn Hall"
+LocationName="Udamage-spawnhal"
+
+[ZoneInfo2]
+; EN: LocationName="Minigun Room"
+LocationName="Minigun-kamer"
+
+[ZoneInfo3]
+; EN: LocationName="Health Vial Spawn Hall"
+LocationName="Health Vial-spawnhal"
+
+[ZoneInfo4]
+; EN: LocationName="Lightning Gun Big Room"
+LocationName="Grote Lightning Gun-kamer"
+
+[ZoneInfo5]
+; EN: LocationName="Super Shield Spawn Hall"
+LocationName="Super Shield-spawnhal"
+
+[ZoneInfo6]
+; EN: LocationName="Lightning Gun Big Room"
+LocationName="Grote Lightning Gun-kamer"
+
+[ZoneInfo7]
+; EN: LocationName="Lower Mid Halls"
+LocationName="Onderste middenhallen"
+
+[ZoneInfo8]
+; EN: LocationName="Upper Mid Halls"
+LocationName="Bovenste middenhallen"
+

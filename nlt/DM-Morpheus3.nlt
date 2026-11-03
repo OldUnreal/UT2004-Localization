@@ -1,0 +1,44 @@
+﻿[LevelInfo0]
+Title="Morpheus3"
+
+[LevelSummary]
+Title="Morpheus3"
+; EN: Description="LMC knew they had found an excellent arena at the very top of a newly constructed Galaxyscraper Superstructure. Thanks to the modern miracle of super tensile solids, these three buildings reach a staggering 12 miles high at their pinnacle. The thin atmosphere and reduced influence of Earth's gravity provide an interesting test of the Tournament athlete's ability to adapt and conquer in extreme environments."
+Description="LMC wist dat ze een uitstekende arena hadden gevonden helemaal boven op een nieuw gebouwde Galaxyscraper-superstructuur. Dankzij het moderne wonder van superspanbestendige materialen reiken deze drie gebouwen tot een duizelingwekkende 19 kilometer hoogte. De ijle atmosfeer en de verminderde invloed van de zwaartekracht van de Aarde vormen een interessante test van het vermogen van Tournament-atleten om zich aan te passen en te overwinnen in extreme omstandigheden."
+
+[MessageTextureClient4]
+; EN: ScrollingMessage="%lp leads the match with %lf frags"
+ScrollingMessage="%lp leidt de wedstrijd met %lf frags"
+
+[PhysicsVolume1]
+; EN: LocationName="12 Miles High"
+LocationName="19 kilometer hoog"
+
+[ZoneInfo0]
+; EN: LocationName="YELLOW Tower Interior"
+LocationName="Binnen in GELE toren"
+
+[ZoneInfo1]
+; EN: LocationName="BLUE Tower Interior"
+LocationName="Binnen in BLAUWE toren"
+
+[ZoneInfo2]
+; EN: LocationName="12 Miles High"
+LocationName="19 kilometer hoog"
+
+[ZoneInfo3]
+; EN: LocationName="BLUE Tower Interior"
+LocationName="Binnen in BLAUWE toren"
+
+[ZoneInfo4]
+; EN: LocationName="YELLOW Tower Interior"
+LocationName="Binnen in GELE toren"
+
+[ZoneInfo5]
+; EN: LocationName="RED Tower Interior"
+LocationName="Binnen in RODE toren"
+
+[ZoneInfo6]
+; EN: LocationName="RED Tower Interior"
+LocationName="Binnen in RODE toren"
+

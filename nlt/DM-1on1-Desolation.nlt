@@ -1,0 +1,32 @@
+﻿[LevelInfo0]
+Title="Desolation"
+
+[LevelSummary]
+Title="Desolation"
+; EN: Description="Desiring isolation, an artist built his new home on a towering skyscraper where he could escape from civilization. On top of his home sat his private museum of art, art never to be seen by the public eye till his tragic death. Found next to his decaying body, the artist's will requested that his museum be turned into a 1-on-1 arena for the Tournament, his only enjoyment in life next to art. No longer the tallest nor grandest skyscraper, it has come to be known as the Tower of Desolation."
+Description="Op zoek naar afzondering bouwde een kunstenaar zijn nieuwe huis op een torenhoge wolkenkrabber, waar hij aan de beschaving kon ontsnappen. Boven op zijn huis lag zijn privémuseum vol kunst, die het publiek pas na zijn tragische dood te zien zou krijgen. Naast zijn ontbindende lichaam werd zijn testament gevonden: zijn museum moest een 1-tegen-1-arena voor het Tournament worden, zijn enige plezier in het leven naast de kunst. Niet langer de hoogste of grootste wolkenkrabber, maar hij staat inmiddels bekend als de Toren van de Verlatenheid."
+
+[ZoneInfo0]
+; EN: LocationName="Window Fountains"
+LocationName="Raamfonteinen"
+
+[ZoneInfo1]
+; EN: LocationName="Female Statue"
+LocationName="Vrouwenbeeld"
+
+[ZoneInfo2]
+; EN: LocationName="Shock Rifle Hall"
+LocationName="Shock Rifle-hal"
+
+[ZoneInfo3]
+; EN: LocationName="Large window scene"
+LocationName="Groot raamtafereel"
+
+[ZoneInfo4]
+; EN: LocationName="Flak Hall"
+LocationName="Flak-hal"
+
+[ZoneInfo5]
+; EN: LocationName="Upper Painting"
+LocationName="Bovenste schilderij"
+

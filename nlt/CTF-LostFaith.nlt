@@ -1,0 +1,26 @@
+﻿[LevelInfo0]
+Title="Lost Faith"
+
+[LevelSummary]
+Title="Lost Faith"
+
+[Volume0]
+; EN: LocationName="Blue base Flak"
+LocationName="Blauwe basis Flak"
+
+[Volume1]
+; EN: LocationName="Blue base Link"
+LocationName="Blauwe basis Link"
+
+[Volume2]
+; EN: LocationName="Red base Flak"
+LocationName="Rode basis Flak"
+
+[Volume3]
+; EN: LocationName="Red base Link"
+LocationName="Rode basis Link"
+
+[Volume4]
+; EN: LocationName="Waterfall"
+LocationName="Waterval"
+

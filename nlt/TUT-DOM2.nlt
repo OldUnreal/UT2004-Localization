@@ -1,0 +1,72 @@
+﻿[LevelInfo0]
+; EN: Title="Domination Tutorial"
+Title="Domination-tutorial"
+
+[LevelSummary]
+; EN: Title="Domination Tutorial"
+Title="Domination-tutorial"
+
+[ZoneInfo0]
+; EN: LocationName="InsideCenter"
+LocationName="Binnen in het midden"
+
+[ZoneInfo1]
+; EN: LocationName="BackHallway_B"
+LocationName="Achterste gang B"
+
+[ZoneInfo14]
+; EN: LocationName="Outside"
+LocationName="Buiten"
+
+[ZoneInfo15]
+; EN: LocationName="InsideCenter"
+LocationName="Binnen in het midden"
+
+[ZoneInfo16]
+; EN: LocationName="SpawnBlue"
+LocationName="Spawn blauw"
+
+[ZoneInfo17]
+; EN: LocationName="FrontHallway_A"
+LocationName="Voorste gang A"
+
+[ZoneInfo18]
+; EN: LocationName="FrontHallway_A"
+LocationName="Voorste gang A"
+
+[ZoneInfo19]
+; EN: LocationName="Room_A"
+LocationName="Kamer A"
+
+[ZoneInfo20]
+; EN: LocationName="BackHallway_A"
+LocationName="Achterste gang A"
+
+[ZoneInfo3]
+; EN: LocationName="InsideCenter"
+LocationName="Binnen in het midden"
+
+[ZoneInfo4]
+; EN: LocationName="InsideCenter"
+LocationName="Binnen in het midden"
+
+[ZoneInfo5]
+; EN: LocationName="InsideCenter"
+LocationName="Binnen in het midden"
+
+[ZoneInfo6]
+; EN: LocationName="FrontHallway_B"
+LocationName="Voorste gang B"
+
+[ZoneInfo7]
+; EN: LocationName="SpawnRed"
+LocationName="Spawn rood"
+
+[ZoneInfo8]
+; EN: LocationName="FrontHallway_B"
+LocationName="Voorste gang B"
+
+[ZoneInfo9]
+; EN: LocationName="Room_B"
+LocationName="Kamer B"
+

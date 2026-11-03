@@ -1,0 +1,28 @@
+﻿[LevelInfo0]
+Title="Gestalt"
+
+[LevelSummary]
+Title="Gestalt"
+; EN: Description="Sitting just below the ever-thinning polar ice caps, the Gestalt Research Center will chill its inhabitants to their bones.  In fact, bones may be all that's left to chill, since this location has been added to the growing list of tournament settings."
+Description="Vlak onder de steeds dunnere poolkappen ligt het Gestalt-onderzoekscentrum, waar de kou zijn bewoners tot op het bot raakt.  Sterker nog, misschien zijn botten het enige wat er nog overblijft om af te koelen, nu deze locatie is toegevoegd aan de groeiende lijst Tournament-arena's."
+
+[Volume1]
+; EN: LocationName="Center Atrium"
+LocationName="Centraal atrium"
+
+[Volume2]
+; EN: LocationName="Back Lift"
+LocationName="Achterste lift"
+
+[Volume3]
+; EN: LocationName="Bio Bay"
+LocationName="Bio-ruimte"
+
+[Volume4]
+; EN: LocationName="Center Lift "
+LocationName="Middelste lift "
+
+[Volume5]
+; EN: LocationName="Flak Hall"
+LocationName="Flak-hal"
+

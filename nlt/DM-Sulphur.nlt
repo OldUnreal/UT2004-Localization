@@ -1,0 +1,16 @@
+﻿[LevelInfo0]
+Title="Sulphur"
+
+[LevelSummary]
+Title="Sulphur"
+; EN: Description="Wish you were here? Probably not. Since the loss of the O-Zone Layer, this venue of Weather Control Stations has been become home to permanent storms and high winds. The endless sulphuric acid rain that lashes down has rotted these once proud examples of technological progress into nothing more than rusting hulks that dominate the skyline."
+Description="Wou je dat je hier was? Waarschijnlijk niet. Sinds het verdwijnen van de ozonlaag zijn deze weerbeheerstations het thuis van permanente stormen en harde wind. De eindeloze zwavelzure regen die neerslaat heeft deze ooit trotse voorbeelden van technologische vooruitgang laten wegrotten tot roestende wrakken die de skyline domineren."
+
+[PhysicsVolume3]
+; EN: LocationName="Six Miles Above Sea Level"
+LocationName="Tien kilometer boven zeeniveau"
+
+[ZoneInfo3]
+; EN: LocationName="6 Miles Above Sea Level"
+LocationName="10 kilometer boven zeeniveau"
+

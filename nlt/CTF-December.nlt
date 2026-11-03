@@ -1,0 +1,174 @@
+﻿[LevelInfo0]
+Title="December"
+
+[LevelSummary]
+Title="December"
+
+[ZoneInfo0]
+; EN: LocationName="Blue Lower Access"
+LocationName="Blauwe onderste toegang"
+
+[ZoneInfo1]
+; EN: LocationName="Blue Platform"
+LocationName="Blauw platform"
+
+[ZoneInfo10]
+; EN: LocationName="Red Pipe Exit"
+LocationName="Rode pijpuitgang"
+
+[ZoneInfo11]
+; EN: LocationName="Red Flag Access"
+LocationName="Rode vlagtoegang"
+
+[ZoneInfo12]
+; EN: LocationName="Red Doors (Right)"
+LocationName="Rode deuren (rechts)"
+
+[ZoneInfo13]
+; EN: LocationName="Red Lift 2"
+LocationName="Rode lift 2"
+
+[ZoneInfo14]
+; EN: LocationName="Blue Bunker Support Chamber"
+LocationName="Blauwe ondersteuningsruimte bunker"
+
+[ZoneInfo16]
+; EN: LocationName="Red Flag Base"
+LocationName="Rode vlagbasis"
+
+[ZoneInfo17]
+; EN: LocationName="Red Upper Flag Base"
+LocationName="Rode bovenste vlagbasis"
+
+[ZoneInfo18]
+; EN: LocationName="Blue Entrance Hall"
+LocationName="Blauwe ingangshal"
+
+[ZoneInfo19]
+; EN: LocationName="Blue Entrance Stairs"
+LocationName="Blauwe ingangstrap"
+
+[ZoneInfo20]
+; EN: LocationName="Blue Foyer"
+LocationName="Blauwe foyer"
+
+[ZoneInfo21]
+; EN: LocationName="Red Lower Access"
+LocationName="Rode onderste toegang"
+
+[ZoneInfo22]
+; EN: LocationName="Blue Junction"
+LocationName="Blauw knooppunt"
+
+[ZoneInfo23]
+; EN: LocationName="Blue Access Hall"
+LocationName="Blauwe toegangshal"
+
+[ZoneInfo24]
+; EN: LocationName="Blue Doors (Left)"
+LocationName="Blauwe deuren (links)"
+
+[ZoneInfo25]
+; EN: LocationName="Blue Pipe Exit"
+LocationName="Blauwe pijpuitgang"
+
+[ZoneInfo26]
+; EN: LocationName="Blue Flag Access"
+LocationName="Blauwe vlagtoegang"
+
+[ZoneInfo27]
+; EN: LocationName="Red Entrance Hall"
+LocationName="Rode ingangshal"
+
+[ZoneInfo28]
+; EN: LocationName="Blue Doors (Right)"
+LocationName="Blauwe deuren (rechts)"
+
+[ZoneInfo29]
+; EN: LocationName="Blue Lift 2"
+LocationName="Blauwe lift 2"
+
+[ZoneInfo3]
+; EN: LocationName="Red Entrance Stairs"
+LocationName="Rode ingangstrap"
+
+[ZoneInfo31]
+; EN: LocationName="Blue Flag Base"
+LocationName="Blauwe vlagbasis"
+
+[ZoneInfo32]
+; EN: LocationName="Blue Upper Flag Base"
+LocationName="Blauwe bovenste vlagbasis"
+
+[ZoneInfo34]
+; EN: LocationName="Blue Bunker"
+LocationName="Blauwe bunker"
+
+[ZoneInfo35]
+; EN: LocationName="Blue Bunker"
+LocationName="Blauwe bunker"
+
+[ZoneInfo36]
+; EN: LocationName="Red Lower Hallway"
+LocationName="Rode onderste gang"
+
+[ZoneInfo38]
+; EN: LocationName="Docks"
+LocationName="Dokken"
+
+[ZoneInfo39]
+; EN: LocationName="Red Lift Room"
+LocationName="Rode liftkamer"
+
+[ZoneInfo4]
+; EN: LocationName="Red Foyer"
+LocationName="Rode foyer"
+
+[ZoneInfo40]
+; EN: LocationName="Blue Lower Hallway"
+LocationName="Blauwe onderste gang"
+
+[ZoneInfo41]
+; EN: LocationName="Red Aux. Hall"
+LocationName="Rode hulphal"
+
+[ZoneInfo42]
+; EN: LocationName="Blue Lift Room"
+LocationName="Blauwe liftkamer"
+
+[ZoneInfo43]
+; EN: LocationName="Blue Aux. Hall"
+LocationName="Blauwe hulphal"
+
+[ZoneInfo44]
+; EN: LocationName="Red Lift 1"
+LocationName="Rode lift 1"
+
+[ZoneInfo45]
+; EN: LocationName="Blue Lift 1"
+LocationName="Blauwe lift 1"
+
+[ZoneInfo46]
+; EN: LocationName="Red Bunker"
+LocationName="Rode bunker"
+
+[ZoneInfo47]
+; EN: LocationName="Red Bunker Support Chamber"
+LocationName="Rode ondersteuningsruimte bunker"
+
+[ZoneInfo5]
+; EN: LocationName="Red Platform"
+LocationName="Rood platform"
+
+[ZoneInfo6]
+; EN: LocationName="Red Junction"
+LocationName="Rood knooppunt"
+
+[ZoneInfo7]
+; EN: LocationName="Red Doors (Left)"
+LocationName="Rode deuren (links)"
+
+[ZoneInfo8]
+; EN: LocationName="Red Access Hall"
+LocationName="Rode toegangshal"
+

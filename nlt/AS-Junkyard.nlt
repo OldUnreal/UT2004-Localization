@@ -1,0 +1,143 @@
+﻿[ASOBJ_EnergyCore_Delivery0]
+; EN: DestructionMessage="Vehicle has been repaired!"
+DestructionMessage="Voertuig is gerepareerd!"
+; EN: ObjectiveDescription="Deliver the Power Core to repair the vehicle."
+ObjectiveDescription="Breng de energiekern om het voertuig te repareren."
+; EN: Objective_Info_Attacker="Return the Core to the vehicle"
+Objective_Info_Attacker="Breng de kern terug naar het voertuig"
+; EN: Objective_Info_Defender="Prevent the Attackers from returning the Core"
+Objective_Info_Defender="Voorkom dat de aanvallers de kern terugbrengen"
+
+[ASOBJ_EnergyCore_Spawn0]
+; EN: ObjectiveDescription="You need to pick up the Energy Core and return it to your vehicle in order to repair it."
+ObjectiveDescription="Pak de energiekern op en breng hem terug naar je voertuig om het te repareren."
+; EN: Objective_Info_Attacker="Find the Energy Core"
+Objective_Info_Attacker="Vind de energiekern"
+; EN: Objective_Info_Defender="Protect the Energy Core"
+Objective_Info_Defender="Bescherm de energiekern"
+
+[HoldObjective0]
+; EN: DestructionMessage="Checkpoint gate opened!"
+DestructionMessage="Controlepostpoort geopend!"
+; EN: ObjectiveDescription="Stand at the switch to open the gate."
+ObjectiveDescription="Ga bij de schakelaar staan om de poort te openen."
+; EN: Objective_Info_Attacker="Open the checkpoint gate"
+Objective_Info_Attacker="Open de poort van de controlepost"
+; EN: Objective_Info_Defender="Protect the checkpoint switch."
+Objective_Info_Defender="Bescherm de schakelaar van de controlepost."
+
+[HoldObjective1]
+; EN: DestructionMessage="Drawbridge is down!"
+DestructionMessage="Ophaalbrug is omlaag!"
+; EN: ObjectiveDescription="Stand at the switch to lower the bridge."
+ObjectiveDescription="Ga bij de schakelaar staan om de brug te laten zakken."
+; EN: Objective_Info_Attacker="Lower the bridge"
+Objective_Info_Attacker="Laat de brug zakken"
+; EN: Objective_Info_Defender="Defend the bridge switch"
+Objective_Info_Defender="Verdedig de schakelaar van de brug"
+
+[LevelInfo0]
+Title="Junkyard Escape"
+
+[LevelSummary]
+Title="Junkyard Escape"
+; EN: Description="This scenario is based on an infamous episode of a popular Holovision program. In the original episode, two teams of mechanics were competing to make their vehicle operational and escape the junkyard. The unexpected twist occurred when the losing team pulled out some makeshift weapons and pounded the other team into oblivion before they could make their escape. Since there was no explicit rule forbidding violence in the competition, they were declared the winners, and a new Tournament classic was born."
+Description="Dit scenario is gebaseerd op een beruchte aflevering van een populair Holovisieprogramma. In de oorspronkelijke aflevering streden twee teams monteurs om als eerste hun voertuig rijklaar te krijgen en van de schroothoop te ontsnappen. De onverwachte wending kwam toen het verliezende team geïmproviseerde wapens tevoorschijn haalde en het andere team in de vergetelheid ramde voordat dat kon ontsnappen. Omdat geen enkele regel geweld in de wedstrijd expliciet verbood, werden zij tot winnaars uitgeroepen, en was er een nieuwe Tournament-klassieker geboren."
+
+[ProximityObjective0]
+; EN: DestructionMessage="Attackers escaped from the Junkyard!"
+DestructionMessage="Aanvallers zijn van de schroothoop ontsnapt!"
+; EN: ObjectiveDescription="Escape from the Junkyard."
+ObjectiveDescription="Ontsnap van de schroothoop."
+; EN: Objective_Info_Attacker="Proceed to the main gates"
+Objective_Info_Attacker="Ga naar de hoofdpoorten"
+; EN: Objective_Info_Defender="Protect the main gates"
+Objective_Info_Defender="Bescherm de hoofdpoorten"
+
+[ProximityObjective2]
+; EN: DestructionMessage="Bridge has been crossed!"
+DestructionMessage="De brug is overgestoken!"
+; EN: ObjectiveDescription="Cross the bridge to progress."
+ObjectiveDescription="Steek de brug over om verder te komen."
+; EN: Objective_Info_Attacker="Cross the bridge"
+Objective_Info_Attacker="Steek de brug over"
+; EN: Objective_Info_Defender="Defend the bridge"
+Objective_Info_Defender="Verdedig de brug"
+
+[ProximityObjective3]
+; EN: DestructionMessage="Checkpoint secured!"
+DestructionMessage="Controlepost veroverd!"
+; EN: ObjectiveDescription="Secure the checkpoint to progress."
+ObjectiveDescription="Verover de controlepost om verder te komen."
+; EN: Objective_Info_Attacker="Secure the checkpoint"
+Objective_Info_Attacker="Verover de controlepost"
+; EN: Objective_Info_Defender="Protect the checkpoint"
+Objective_Info_Defender="Bescherm de controlepost"
+
+[SceneSubtitles0]
+; EN: SubTitles=("This scenario is based on an infamous episode of a popular Holovision program.","In the original episode, two teams of mechanics were competing to make their vehicle operational and escape the junkyard.","The unexpected twist occurred when the losing team pulled out some makeshift weapons and pounded the other team into oblivion before they could make their escape.","Since there was no explicit rule forbidding violence in the competition, they were declared the winners, and a new Tournament classic was born.","You must find and return the vehicle energy core which is in the interior of the junkyard, and return it to your vehicle.","Once your vehicle is operational, you must drive it through the junkyard and out through the main gate.","To cross the drawbridge, you must lower it by pressing this lever.","Once the bridge is crossed, you must now reach the check point.","You can do so, by following this path and opening the gates to the checkpoint.","It is also possible to use this magnet. While being a much shorter path, it is more risky and exposed.","Once the checkpoint is reached, make your way to the main gate in order to escape.")
+SubTitles=("Dit scenario is gebaseerd op een beruchte aflevering van een populair Holovisieprogramma.","In de oorspronkelijke aflevering streden twee teams monteurs om als eerste hun voertuig rijklaar te krijgen en van de schroothoop te ontsnappen.","De onverwachte wending kwam toen het verliezende team geïmproviseerde wapens tevoorschijn haalde en het andere team in de vergetelheid ramde voordat dat kon ontsnappen.","Omdat geen enkele regel geweld in de wedstrijd expliciet verbood, werden zij tot winnaars uitgeroepen, en was er een nieuwe Tournament-klassieker geboren.","Je moet de energiekern van het voertuig vinden, die ergens binnen op de schroothoop ligt, en hem terugbrengen naar je voertuig.","Zodra je voertuig rijklaar is, moet je het door de schroothoop en de hoofdpoort uit rijden.","Om de ophaalbrug over te steken moet je hem laten zakken met deze hendel.","Na het oversteken van de brug moet je de controlepost bereiken.","Dat kan door dit pad te volgen en de poorten naar de controlepost te openen.","Je kunt ook deze magneet gebruiken. Die route is veel korter, maar riskanter en meer blootgesteld.","Ga na het bereiken van de controlepost naar de hoofdpoort om te ontsnappen.")
+
+[Volume10]
+; EN: LocationName="Magnet hill"
+LocationName="Magneetheuvel"
+
+[Volume11]
+; EN: LocationName="Magnet shortcut"
+LocationName="Magneetsluiproute"
+
+[Volume12]
+; EN: LocationName="Pipe stack"
+LocationName="Pijpenstapel"
+
+[Volume13]
+; EN: LocationName="Junk tunnel"
+LocationName="Schroottunnel"
+
+[Volume14]
+; EN: LocationName="Car crusher"
+LocationName="Autopers"
+
+[Volume15]
+; EN: LocationName="Drive-In"
+LocationName="Drive-in"
+
+[Volume16]
+; EN: LocationName="Checkpoint"
+LocationName="Controlepost"
+
+[Volume17]
+; EN: LocationName="Bathing"
+LocationName="Baden"
+
+[Volume18]
+; EN: LocationName="Communication tower"
+LocationName="Communicatietoren"
+
+[Volume19]
+; EN: LocationName="Main gate"
+LocationName="Hoofdpoort"
+
+[Volume4]
+; EN: LocationName="Core tower"
+LocationName="Kerntoren"
+
+[Volume5]
+; EN: LocationName="Defense hill"
+LocationName="Verdedigingsheuvel"
+
+[Volume7]
+; EN: LocationName="Bridge"
+LocationName="Brug"
+
+[Volume8]
+LocationName="Garage"
+
+[Volume9]
+; EN: LocationName="Fire pit"
+LocationName="Vuurkuil"
+
+[ZoneInfo1]
+; EN: LocationName="Junkyard"
+LocationName="Schroothoop"
+

@@ -1,0 +1,32 @@
+﻿[LevelInfo0]
+Title="Renascent"
+
+[LevelSummary]
+Title="Renascent"
+; EN: Description="Deep within the Gen Mo' kai forests lies the key to rebirth.  Unfortunately for tournament participants that manage to find this arena, that key happens to be death."
+Description="Diep in de bossen van Gen Mo'kai ligt de sleutel tot wedergeboorte.  Helaas voor de deelnemers die deze arena weten te vinden, is die sleutel de dood."
+
+[Volume0]
+; EN: LocationName="Point B Ridge"
+LocationName="Richel punt B"
+
+[Volume1]
+; EN: LocationName="Point A Ridge"
+LocationName="Richel punt A"
+
+[Volume2]
+; EN: LocationName="Middle Valley"
+LocationName="Middelste vallei"
+
+[Volume3]
+; EN: LocationName="Power Up Bridge"
+LocationName="Power-upbrug"
+
+[Volume4]
+; EN: LocationName="Power Up Bridge"
+LocationName="Power-upbrug"
+
+[ZoneInfo0]
+; EN: LocationName="Spawn Areas"
+LocationName="Spawnzones"
+

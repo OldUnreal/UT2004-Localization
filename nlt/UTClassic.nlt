@@ -1,0 +1,74 @@
+﻿[Public]
+;Object=(Class=Class,MetaClass=Engine.Mutator,Name=UTClassic.MutUTClassic,Description="Classic UT style weapons and configurable movement abilities (such as wall dodging).")
+;Object=(Class=Class,MetaClass=Engine.Mutator,Name=UTClassic.MutUseSniper,Description="Replace Lightning Guns with classic Sniper Rifle.")
+;Object=(Class=Class,MetaClass=Engine.Mutator,Name=UTClassic.MutUseLightning,Description="Replace Sniper Rifles with Lightning Guns.")
+;Object=(Class=Class,MetaClass=Engine.Weapon,Name=UTClassic.ClassicSniperRifle,Description="This high muzzle velocity sniper rifle with a 10X scope is a lethal weapon at any range, especially if you can land a head shot.")
+
+[ClassicSniperAmmo]
+; EN: ItemName="Sniper Bullets"
+ItemName="Sluipschutterskogels"
+
+[ClassicSniperAmmoPickup]
+; EN: PickupMessage="You picked up sniper ammo."
+PickupMessage="Je hebt sluipschuttersmunitie opgepakt."
+
+[ClassicSniperRifle]
+; EN: Description="This high muzzle velocity sniper rifle with a 10X scope is a lethal weapon at any range, especially if you can land a head shot."
+Description="Dit sluipschuttersgeweer met hoge mondingssnelheid en een 10x-vizier is een dodelijk wapen op elke afstand, vooral als je een headshot weet te maken."
+ItemName="Sniper Rifle"
+
+[ClassicSniperRiflePickup]
+; EN: PickupMessage="You got the Sniper Rifle."
+PickupMessage="Je hebt het Sniper Rifle."
+
+[DamTypeClassicHeadshot]
+; EN: DeathString="%k put a bullet in %o's skull."
+DeathString="%k joeg een kogel door de schedel van %o."
+; EN: FemaleSuicide="%o shot herself in the head."
+FemaleSuicide="%o schoot zichzelf door het hoofd."
+; EN: MaleSuicide="%o shot himself in the head."
+MaleSuicide="%o schoot zichzelf door het hoofd."
+
+[DamTypeClassicSniper]
+; EN: DeathString="%k put a hole in %o"
+DeathString="%k schoot een gat in %o"
+; EN: FemaleSuicide="%o shot herself in the foot."
+FemaleSuicide="%o schoot zichzelf in de voet."
+; EN: MaleSuicide="%o shot himself in the foot."
+MaleSuicide="%o schoot zichzelf in de voet."
+
+[MutUTClassic]
+; EN: DJString="Allow Double Jumping"
+DJString="Dubbele sprong toestaan"
+; EN: WDString="Allow Wall Dodging"
+WDString="Afzetten tegen muren toestaan"
+; EN: DDJString="Allow Dodge Double Jumping"
+DDJString="Dubbele sprong na ontwijken toestaan"
+; EN: DJHelp="If enabled, players can double jump at the peak of jumps."
+DJHelp="Indien ingeschakeld, kunnen spelers op het hoogste punt van een sprong nog een keer springen."
+; EN: WDHelp="If enabled, players can dodge off walls."
+WDHelp="Indien ingeschakeld, kunnen spelers zich tegen muren afzetten om te ontwijken."
+; EN: DDJHelp="If enabled, players can double jump at the peak of dodge jumps."
+DDJHelp="Indien ingeschakeld, kunnen spelers op het hoogste punt van een ontwijksprong nog een keer springen."
+; EN: WeapString="Modify Weapon Damage"
+WeapString="Wapenschade aanpassen"
+; EN: WeapHelp="If enabled, weapons do more damage."
+WeapHelp="Indien ingeschakeld, doen wapens meer schade."
+; EN: TranslocString="Modify Translocator"
+TranslocString="Translocator aanpassen"
+; EN: TranslocHelp="If enabled, translocator recharges faster."
+TranslocHelp="Indien ingeschakeld, laadt de Translocator sneller op."
+FriendlyName="UT Classic"
+; EN: Description="Classic UT style weapons and movement options."
+Description="Wapens en bewegingsopties in klassieke UT-stijl."
+
+[MutUseLightning]
+FriendlyName="Lightning Guns"
+; EN: Description="Replace all sniper rifles with lightning guns."
+Description="Vervang alle Sniper Rifles door Lightning Guns."
+
+[MutUseSniper]
+FriendlyName="Sniper Rifles"
+; EN: Description="Replace all lightning guns with sniper rifles."
+Description="Vervang alle Lightning Guns door Sniper Rifles."
+

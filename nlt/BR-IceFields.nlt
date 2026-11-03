@@ -1,0 +1,46 @@
+﻿[LevelInfo0]
+Title="Ice Fields"
+
+[LevelSummary]
+Title="Ice Fields"
+
+[Volume0]
+; EN: LocationName="Blue Base"
+LocationName="Blauwe basis"
+
+[Volume1]
+; EN: LocationName="Red Base"
+LocationName="Rode basis"
+
+[Volume2]
+; EN: LocationName="Red Base Entrance"
+LocationName="Ingang rode basis"
+
+[Volume3]
+; EN: LocationName="Below Red Base"
+LocationName="Onder de rode basis"
+
+[Volume4]
+; EN: LocationName="Below Red Base"
+LocationName="Onder de rode basis"
+
+[Volume5]
+; EN: LocationName="Blue Base Entrance"
+LocationName="Ingang blauwe basis"
+
+[Volume6]
+; EN: LocationName="Middle Area"
+LocationName="Middengebied"
+
+[Volume7]
+; EN: LocationName="Below Blue Base"
+LocationName="Onder de blauwe basis"
+
+[Volume8]
+; EN: LocationName="Below Blue Base"
+LocationName="Onder de blauwe basis"
+
+[Volume9]
+; EN: LocationName="Super Shield Area"
+LocationName="Supershield-gebied"
+

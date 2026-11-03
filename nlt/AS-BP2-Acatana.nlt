@@ -1,0 +1,262 @@
+﻿[ASCriticalObjectiveVolume1]
+; EN: LocationName="Facility Entrance"
+LocationName="Ingang faciliteit"
+
+[ASCriticalObjectiveVolume4]
+; EN: LocationName="Weapons Lab Control Room"
+LocationName="Controlekamer wapenlab"
+
+[ASOBJ_EnergyCore_Delivery1]
+; EN: ObjectiveName="Escape Point"
+ObjectiveName="Ontsnappingspunt"
+; EN: DestructionMessage="Blueprints stolen!"
+DestructionMessage="Blauwdrukken gestolen!"
+; EN: ObjectiveDescription="Escape to the waiting ships with the Blueprints."
+ObjectiveDescription="Ontsnap met de blauwdrukken naar de wachtende schepen."
+; EN: Objective_Info_Attacker="Escape with the Blueprints."
+Objective_Info_Attacker="Ontsnap met de blauwdrukken."
+; EN: Objective_Info_Defender="Defend with the Blueprints."
+Objective_Info_Defender="Verdedig met de blauwdrukken."
+
+[ASOBJ_EnergyCore_Spawn0]
+; EN: PlayerDroppedMessage=" dropped the Blueprints!"
+PlayerDroppedMessage=" heeft de blauwdrukken laten vallen!"
+; EN: DroppedMessage="Blueprints dropped!"
+DroppedMessage="Blauwdrukken gevallen!"
+; EN: EnergyCorePickedUp="Blueprints picked up!"
+EnergyCorePickedUp="Blauwdrukken opgepakt!"
+; EN: PlayerPickedUpEnergyCore=" picked up the Blueprints!"
+PlayerPickedUpEnergyCore=" heeft de blauwdrukken opgepakt!"
+; EN: PlayerCoreReset="Blueprints reset!!"
+PlayerCoreReset="Blauwdrukken teruggezet!!"
+; EN: ObjectiveName="Weapons Data"
+ObjectiveName="Wapengegevens"
+; EN: DestructionMessage="Data Stolen!"
+DestructionMessage="Gegevens gestolen!"
+; EN: ObjectiveDescription="Steal the Weapon Blueprints and escape to the ships."
+ObjectiveDescription="Steel de wapenblauwdrukken en ontsnap naar de schepen."
+; EN: Objective_Info_Attacker="Steal the Weapon Blueprints."
+Objective_Info_Attacker="Steel de wapenblauwdrukken."
+; EN: Objective_Info_Defender="Defend the Weapon Blueprints."
+Objective_Info_Defender="Verdedig de wapenblauwdrukken."
+
+[Action_DISPLAYMESSAGE0]
+; EN: Message="Ship Disabled!"
+Message="Schip uitgeschakeld!"
+
+[Action_DISPLAYMESSAGE2]
+; EN: Message="Ship Disabled!"
+Message="Schip uitgeschakeld!"
+
+[DestroyableObjective_SM1]
+; EN: ObjectiveName="Upper Reactor"
+ObjectiveName="Bovenste reactor"
+; EN: DestructionMessage="Upper Reactor Destroyed!"
+DestructionMessage="Bovenste reactor vernietigd!"
+; EN: ObjectiveDescription="Shoot out the Upper Reactor Core."
+ObjectiveDescription="Schiet de bovenste reactorkern kapot."
+; EN: Objective_Info_Attacker="Destroy the Reactor Core."
+Objective_Info_Attacker="Vernietig de reactorkern."
+; EN: Objective_Info_Defender="Defend the Reactor Core."
+Objective_Info_Defender="Verdedig de reactorkern."
+
+[DestroyableObjective_SM2]
+; EN: ObjectiveName="Ship Engine"
+ObjectiveName="Scheepsmotor"
+; EN: DestructionMessage="Engine Destroyed!"
+DestructionMessage="Motor vernietigd!"
+; EN: ObjectiveDescription="Disable the Battle Cruisers by destroying their engines."
+ObjectiveDescription="Schakel de slagkruisers uit door hun motoren te vernietigen."
+; EN: Objective_Info_Attacker="Destroy the Ship Engines."
+Objective_Info_Attacker="Vernietig de scheepsmotoren."
+; EN: Objective_Info_Defender="Defend the Ship Engines."
+Objective_Info_Defender="Verdedig de scheepsmotoren."
+
+[DestroyableObjective_SM3]
+; EN: ObjectiveName="Lower Reactor"
+ObjectiveName="Onderste reactor"
+; EN: DestructionMessage="Lower Reactor Destroyed!"
+DestructionMessage="Onderste reactor vernietigd!"
+; EN: ObjectiveDescription="Shoot out the Lower Reactor Core."
+ObjectiveDescription="Schiet de onderste reactorkern kapot."
+; EN: Objective_Info_Attacker="Destroy the Reactor Core."
+Objective_Info_Attacker="Vernietig de reactorkern."
+; EN: Objective_Info_Defender="Defend the Reactor Core."
+Objective_Info_Defender="Verdedig de reactorkern."
+
+[DestroyableObjective_SM7]
+; EN: ObjectiveName="Ship Engine"
+ObjectiveName="Scheepsmotor"
+; EN: DestructionMessage="Engine Destroyed!"
+DestructionMessage="Motor vernietigd!"
+; EN: ObjectiveDescription="Disable the Battle Cruisers by destroying their engines."
+ObjectiveDescription="Schakel de slagkruisers uit door hun motoren te vernietigen."
+; EN: Objective_Info_Attacker="Destroy the Ship Engines."
+Objective_Info_Attacker="Vernietig de scheepsmotoren."
+; EN: Objective_Info_Defender="Defend the Ship Engines."
+Objective_Info_Defender="Verdedig de scheepsmotoren."
+
+[DestroyableObjective_SM8]
+; EN: ObjectiveName="Ship Engine"
+ObjectiveName="Scheepsmotor"
+; EN: DestructionMessage="Engine Destroyed!"
+DestructionMessage="Motor vernietigd!"
+; EN: ObjectiveDescription="Disable the Battle Cruisers by destroying their engines."
+ObjectiveDescription="Schakel de slagkruisers uit door hun motoren te vernietigen."
+; EN: Objective_Info_Attacker="Destroy the Ship Engines."
+Objective_Info_Attacker="Vernietig de scheepsmotoren."
+; EN: Objective_Info_Defender="Defend the Ship Engines."
+Objective_Info_Defender="Verdedig de scheepsmotoren."
+
+[DestroyableObjective_SM9]
+; EN: ObjectiveName="Ship Engine"
+ObjectiveName="Scheepsmotor"
+; EN: DestructionMessage="Engine Destroyed!"
+DestructionMessage="Motor vernietigd!"
+; EN: ObjectiveDescription="Disable the Battle Cruisers by destroying their engines."
+ObjectiveDescription="Schakel de slagkruisers uit door hun motoren te vernietigen."
+; EN: Objective_Info_Attacker="Destroy the Ship Engines."
+Objective_Info_Attacker="Vernietig de scheepsmotoren."
+; EN: Objective_Info_Defender="Defend the Ship Engines."
+Objective_Info_Defender="Verdedig de scheepsmotoren."
+
+[HoldObjective1]
+; EN: ObjectiveName="Bunker Doors"
+ObjectiveName="Bunkerdeuren"
+; EN: DestructionMessage="Bunker Doors Blown!"
+DestructionMessage="Bunkerdeuren opgeblazen!"
+; EN: ObjectiveDescription="Place Explosives to blow open the main doors."
+ObjectiveDescription="Plaats explosieven om de hoofddeuren open te blazen."
+; EN: Objective_Info_Attacker="Blow up the Main Doors."
+Objective_Info_Attacker="Blaas de hoofddeuren op."
+; EN: Objective_Info_Defender="Defend the Main Doors."
+Objective_Info_Defender="Verdedig de hoofddeuren."
+
+[HoldObjective2]
+; EN: ObjectiveName="Main Gates"
+ObjectiveName="Hoofdpoorten"
+; EN: DestructionMessage="Main Gates Opening!"
+DestructionMessage="Hoofdpoorten gaan open!"
+; EN: ObjectiveDescription="Use the switch to open the Security Gate."
+ObjectiveDescription="Gebruik de schakelaar om de beveiligingspoort te openen."
+; EN: Objective_Info_Attacker="Open the Security Gate."
+Objective_Info_Attacker="Open de beveiligingspoort."
+; EN: Objective_Info_Defender="Defend the Security Gate."
+Objective_Info_Defender="Verdedig de beveiligingspoort."
+
+[InfoPod0]
+; EN: POD_Message="Cruiser 2 Left Wing"
+POD_Message="Kruiser 2 linkervleugel"
+
+[InfoPod1]
+; EN: POD_Message="Cruiser 2 Upper"
+POD_Message="Kruiser 2 boven"
+
+[InfoPod2]
+; EN: POD_Message="Cruiser 2 Right Wing"
+POD_Message="Kruiser 2 rechtervleugel"
+
+[InfoPod3]
+; EN: POD_Message="Cruiser 1 Left Wing"
+POD_Message="Kruiser 1 linkervleugel"
+
+[InfoPod4]
+; EN: POD_Message="Cruiser 1 Upper"
+POD_Message="Kruiser 1 boven"
+
+[InfoPod5]
+; EN: POD_Message="Cruiser 1 Right Wing"
+POD_Message="Kruiser 1 rechtervleugel"
+
+[LevelInfo0]
+; EN: Title="Invasion of Acatana"
+Title="Invasie van Acatana"
+
+[LevelSummary]
+; EN: Title="Invasion of Acatana"
+Title="Invasie van Acatana"
+; EN: Description="Due to the treacherous asteroid field and the advanced defense systems surrounding the Acatana research facility, no intruders had been near the planet for years.  When the Skaarj Marauders heard rumors of a highly lucrative technology hidden there, they decided to make it their own.  This scenario recreates the Skaarj attack on the Acatana research facility, and the battle to penetrate the planet's asteroid field."
+Description="Door het verraderlijke asteroïdenveld en de geavanceerde verdedigingssystemen rond de onderzoeksfaciliteit op Acatana was er al jaren geen indringer in de buurt van de planeet geweest.  Toen de Skaarj-plunderaars geruchten hoorden over een zeer lucratieve technologie die daar verborgen lag, besloten ze die in te pikken.  Dit scenario speelt de Skaarj-aanval op de onderzoeksfaciliteit van Acatana na, en de strijd om door het asteroïdenveld van de planeet te breken."
+
+[MultiSkyZoneInfo0]
+; EN: LocationName="Base Entrance"
+LocationName="Ingang basis"
+
+[MultiSkyZoneInfo1]
+; EN: LocationName="Space"
+LocationName="Ruimte"
+
+[MultiSkyZoneInfo18]
+; EN: LocationName="Space"
+LocationName="Ruimte"
+
+[MultiSkyZoneInfo19]
+; EN: LocationName="Planet Surface"
+LocationName="Planeetoppervlak"
+
+[MultiSkyZoneInfo2]
+LocationName="Hangar 2"
+
+[MultiSkyZoneInfo20]
+; EN: LocationName="Weapons Lab Spawn Room"
+LocationName="Spawnruimte wapenlab"
+
+[MultiSkyZoneInfo21]
+LocationName="Hangar 1"
+
+[MultiSkyZoneInfo22]
+; EN: LocationName="Defender Spawn Exit"
+LocationName="Spawnuitgang verdedigers"
+
+[MultiSkyZoneInfo23]
+; EN: LocationName="Defender Inside Spawn"
+LocationName="Spawn binnen verdedigers"
+
+[MultiSkyZoneInfo24]
+; EN: LocationName="Defender Spawn Exit"
+LocationName="Spawnuitgang verdedigers"
+
+[MultiSkyZoneInfo25]
+; EN: LocationName="Defender Spawn Exit"
+LocationName="Spawnuitgang verdedigers"
+
+[MultiSkyZoneInfo27]
+; EN: LocationName="Reactor Core Entrance"
+LocationName="Ingang reactorkern"
+
+[MultiSkyZoneInfo28]
+; EN: LocationName="Reactor Core"
+LocationName="Reactorkern"
+
+[MultiSkyZoneInfo29]
+; EN: LocationName="Base Entrance"
+LocationName="Ingang basis"
+
+[MultiSkyZoneInfo30]
+; EN: LocationName="Weapons Lab Entrance"
+LocationName="Ingang wapenlab"
+
+[MultiSkyZoneInfo31]
+; EN: LocationName="Weapons Lab Control Room"
+LocationName="Controlekamer wapenlab"
+
+[MultiSkyZoneInfo32]
+; EN: LocationName="Weapons Lab Control Room"
+LocationName="Controlekamer wapenlab"
+
+[MultiSkyZoneInfo33]
+; EN: LocationName="Weapons Lab Spawn Room"
+LocationName="Spawnruimte wapenlab"
+
+[PhysicsVolume26]
+; EN: LocationName="In Lava"
+LocationName="In lava"
+
+[SceneSubtitles0]
+; EN: SubTitles=("This scenario recreates the Skaarj attack on the Acatana asteroid belt.","Acatana had long been a forgotten planet, uninhabitable to most species, and known only to a secret scientific division of the N.E.G.","Hidden away on an asteroid orbiting the barren planet was a secret facility, created with the sole purpose of researching advanced weapons technology.","Due to the treacherous asteroid field and the advanced planetary defense systems, no other race had been near the planet for years.","In fact, the barrier had never even been challenged until the Skaarj Marauders heard rumors of the highly lucrative technology ripe for the taking.","First, you must navigate the asteroid field and attack the Battle Cruiser Blockade.  Disable the Cruisers by destroying their engines, allowing the Skaarj ships to land the asteroid's surface.","After successful deployment to the surface, make your way to the facility's entrance and use this switch to open the security gate.","Once inside the gate, place explosives to blow open the main facility doors.","Infiltrate the complex and destroy both sections of the facility's main reactor core. This will activate the evacuation protocol and release the locks on the doors to the weapons lab.","Next, make your way into the weapons lab and steal the weapon blueprints from the central computer station.","Finally, your team must transport the blueprints back to the main entrance where a squad of fighters will cover your escape.")
+SubTitles=("Dit scenario speelt de Skaarj-aanval op de asteroïdengordel van Acatana na.","Acatana was lang een vergeten planeet, onbewoonbaar voor de meeste soorten en alleen bekend bij een geheime wetenschappelijke afdeling van de N.E.G.","Verborgen op een asteroïde in een baan om de kale planeet lag een geheime faciliteit, gebouwd met als enig doel onderzoek naar geavanceerde wapentechnologie.","Door het verraderlijke asteroïdenveld en de geavanceerde planetaire verdedigingssystemen was er al jaren geen ander ras in de buurt van de planeet geweest.","Sterker nog, de barrière was nooit uitgedaagd, totdat de Skaarj-plunderaars geruchten hoorden over de zeer lucratieve technologie die voor het grijpen lag.","Eerst moet je door het asteroïdenveld navigeren en de blokkade van slagkruisers aanvallen.  Schakel de kruisers uit door hun motoren te vernietigen, zodat de Skaarj-schepen op het oppervlak van de asteroïde kunnen landen.","Ga na een geslaagde landing naar de ingang van de faciliteit en gebruik deze schakelaar om de beveiligingspoort te openen.","Plaats eenmaal binnen de poort explosieven om de hoofddeuren van de faciliteit open te blazen.","Infiltreer het complex en vernietig beide delen van de hoofdreactorkern. Dit activeert het evacuatieprotocol en ontgrendelt de deuren naar het wapenlab.","Ga daarna het wapenlab in en steel de wapenblauwdrukken van het centrale computerstation.","Tot slot moet je team de blauwdrukken terugbrengen naar de hoofdingang, waar een eskader jagers je ontsnapping dekt.")
+
+[Volume0]
+; EN: LocationName="Weapons Lab Access Tunnel"
+LocationName="Toegangstunnel wapenlab"
+

@@ -1,0 +1,83 @@
+﻿[LevelInfo0]
+Title="Grendelkeep"
+
+[LevelInfo6]
+Title="Grendelkeep"
+
+[LevelSummary]
+Title="Grendelkeep"
+; EN: Description="Prieth Callas was a hard, cruel man, fond of torturing his enemies before sending them to their deaths. He raised creatures of great size and ferocity, setting them against his prisoners in arenas of his own creation. Grendelkeep is the last of his diabolical constructions, left to fall into ruin after Callas was dragged from the battlements by his own men and fed to the creatures he bred in the dark kennels below. The rain has washed away the blood, but the evil that bred here has left a much deeper stain."
+Description="Prieth Callas was een harde, wrede man die zijn vijanden graag martelde voordat hij ze de dood in stuurde. Hij fokte wezens van enorme omvang en woestheid en zette ze in arena's van zijn eigen ontwerp tegen zijn gevangenen in. Grendelkeep is de laatste van zijn duivelse bouwwerken, aan verval overgelaten nadat Callas door zijn eigen mannen van de kantelen werd gesleurd en gevoerd aan de wezens die hij in de donkere kennels beneden fokte. De regen heeft het bloed weggespoeld, maar het kwaad dat hier groot werd heeft een veel diepere vlek achtergelaten."
+
+[ZoneInfo0]
+; EN: LocationName="Great Room Hall"
+LocationName="Gang grote zaal"
+
+[ZoneInfo1]
+; EN: LocationName="Great Room"
+LocationName="Grote zaal"
+
+[ZoneInfo10]
+; EN: LocationName="Sniper Nest"
+LocationName="Sluipschuttersnest"
+
+[ZoneInfo11]
+; EN: LocationName="Great Room Hall"
+LocationName="Gang grote zaal"
+
+[ZoneInfo12]
+; EN: LocationName="Lower Flak Hall"
+LocationName="Onderste Flak-hal"
+
+[ZoneInfo13]
+; EN: LocationName="Lower Flak Hall"
+LocationName="Onderste Flak-hal"
+
+[ZoneInfo14]
+; EN: LocationName="Great Room Hall"
+LocationName="Gang grote zaal"
+
+[ZoneInfo2]
+; EN: LocationName="Great Amp Hall"
+LocationName="Grote amp-hal"
+
+[ZoneInfo28]
+; EN: LocationName="Upper Rocket Hall"
+LocationName="Bovenste raketthal"
+
+[ZoneInfo3]
+; EN: LocationName="Upper Rocket Hall"
+LocationName="Bovenste raketthal"
+
+[ZoneInfo30]
+; EN: LocationName="Great Room"
+LocationName="Grote zaal"
+
+[ZoneInfo31]
+; EN: LocationName="Great Room"
+LocationName="Grote zaal"
+
+[ZoneInfo4]
+; EN: LocationName="Great Room"
+LocationName="Grote zaal"
+
+[ZoneInfo5]
+; EN: LocationName="Upper Rocket Hall"
+LocationName="Bovenste raketthal"
+
+[ZoneInfo6]
+; EN: LocationName="Mini Hall"
+LocationName="Minihal"
+
+[ZoneInfo7]
+; EN: LocationName="Mini Hall"
+LocationName="Minihal"
+
+[ZoneInfo8]
+; EN: LocationName="Great Tower"
+LocationName="Grote toren"
+
+[ZoneInfo9]
+; EN: LocationName="Sniper Nest"
+LocationName="Sluipschuttersnest"
+

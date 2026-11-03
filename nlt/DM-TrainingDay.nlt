@@ -1,0 +1,18 @@
+﻿[LevelInfo0]
+Title="Training Day"
+
+[LevelSummary]
+Title="Training Day"
+
+[ZoneInfo12]
+; EN: LocationName="Central Hallway"
+LocationName="Centrale gang"
+
+[ZoneInfo13]
+; EN: LocationName="Northeast Loop"
+LocationName="Noordoostelijke lus"
+
+[ZoneInfo74]
+; EN: LocationName="Southwest Loop"
+LocationName="Zuidwestelijke lus"
+

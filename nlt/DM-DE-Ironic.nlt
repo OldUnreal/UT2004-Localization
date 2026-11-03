@@ -1,0 +1,78 @@
+﻿[LevelInfo0]
+Title="Ironic"
+
+[LevelSummary]
+Title="Ironic"
+; EN: Description="In the solitude of the abandoned coastal platforms of New Argentina, the quiet hum of bird and animal life yields to the roar of rocket fire, and the blast of shock rifles. Looks like R&R has been put on hold for today, so grab some ammo and get out there. It's time for a little old fashioned deathmatch."
+Description="In de eenzaamheid van de verlaten kustplatforms van Nieuw-Argentinië maakt het zachte gezoem van vogels en dieren plaats voor het gebulder van raketvuur en de knallen van shock rifles. Het ziet ernaar uit dat het verlof vandaag is uitgesteld, dus pak wat munitie en ga erop uit. Tijd voor een ouderwetse deathmatch."
+
+[ZoneInfo0]
+LocationName="Shock Rifle"
+
+[ZoneInfo1]
+LocationName="Flak Cannon"
+
+[ZoneInfo10]
+; EN: LocationName="Top Hallway"
+LocationName="Bovenste gang"
+
+[ZoneInfo11]
+; EN: LocationName="Top Hallway"
+LocationName="Bovenste gang"
+
+[ZoneInfo12]
+LocationName="Bio Rifle"
+
+[ZoneInfo13]
+LocationName="Bio Rifle"
+
+[ZoneInfo14]
+LocationName="Link Gun"
+
+[ZoneInfo15]
+LocationName="Link Gun"
+
+[ZoneInfo16]
+LocationName="Rocket Launcher"
+
+[ZoneInfo17]
+LocationName="Shock Rifle"
+
+[ZoneInfo18]
+LocationName="Rocket Launcher"
+
+[ZoneInfo19]
+; EN: LocationName="Outside"
+LocationName="Buiten"
+
+[ZoneInfo2]
+LocationName="Rocket Launcher"
+
+[ZoneInfo3]
+; EN: LocationName="Elevator"
+LocationName="Lift"
+
+[ZoneInfo4]
+; EN: LocationName="Elevator"
+LocationName="Lift"
+
+[ZoneInfo5]
+; EN: LocationName="Super Shield Room"
+LocationName="Super Shield-kamer"
+
+[ZoneInfo6]
+; EN: LocationName="Super Shield Room"
+LocationName="Super Shield-kamer"
+
+[ZoneInfo7]
+; EN: LocationName="Top Hallway"
+LocationName="Bovenste gang"
+
+[ZoneInfo8]
+; EN: LocationName="Top Hallway"
+LocationName="Bovenste gang"
+
+[ZoneInfo9]
+; EN: LocationName="Elevator"
+LocationName="Lift"
+

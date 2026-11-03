@@ -1,0 +1,940 @@
+﻿[Public]
+Object=(Name=XGame.AlienFemaleVoice,Class=Class,MetaClass=XGame.xVoicePack)
+Object=(Name=XGame.AlienMaleVoice,Class=Class,MetaClass=XGame.xVoicePack)
+Object=(Name=XGame.JuggFemaleVoice,Class=Class,MetaClass=XGame.xVoicePack)
+Object=(Name=XGame.JuggMaleVoice,Class=Class,MetaClass=XGame.xVoicePack)
+Object=(Name=XGame.MercFemaleVoice,Class=Class,MetaClass=XGame.xVoicePack)
+Object=(Name=XGame.MercMaleVoice,Class=Class,MetaClass=XGame.xVoicePack)
+Object=(Name=XGame.NightFemaleVoice,Class=Class,MetaClass=XGame.xVoicePack)
+Object=(Name=XGame.NightMaleVoice,Class=Class,MetaClass=XGame.xVoicePack)
+Object=(Name=XGame.RobotVoice,Class=Class,MetaClass=XGame.xVoicePack)
+
+[AlienFemaleVoice]
+; EN: TauntString[21]="Blow me"
+TauntString[21]="Pijp me"
+; EN: TauntString[22]="Camper!"
+TauntString[22]="Kampeerder!"
+; EN: TauntString[23]="Douche bag!"
+TauntString[23]="Sukkel!"
+TauntString[24]="Spammer!"
+; EN: TauntString[25]="Sucker"
+TauntString[25]="Loser"
+; EN: TauntString[26]="Talk to the hand"
+TauntString[26]="Praat maar tegen m'n hand"
+; EN: TauntString[27]="You dick!"
+TauntString[27]="Lul!"
+; EN: VoicePackName="Female Alien"
+VoicePackName="Vrouwelijke alien"
+
+[AlienMaleVoice]
+; EN: TauntString[21]="Blow me"
+TauntString[21]="Pijp me"
+; EN: TauntString[22]="Camper!"
+TauntString[22]="Kampeerder!"
+; EN: TauntString[23]="Douche bag!"
+TauntString[23]="Sukkel!"
+TauntString[24]="Spammer!"
+; EN: TauntString[25]="Sucker"
+TauntString[25]="Loser"
+; EN: TauntString[26]="Talk to the hand"
+TauntString[26]="Praat maar tegen m'n hand"
+; EN: TauntString[27]="You dick!"
+TauntString[27]="Lul!"
+; EN: VoicePackName="Male Alien"
+VoicePackName="Mannelijke alien"
+
+[BloodRites]
+; EN: ChallengeName="Bloodrites"
+ChallengeName="Bloedrituelen"
+; EN: ChallengeDescription="Challenge an enemy team for one for their team mates."
+ChallengeDescription="Daag een vijandelijk team uit om een van hun teamgenoten."
+
+[BossDM]
+; EN: GameName="Championship Match"
+GameName="Kampioenschapswedstrijd"
+
+[CLOnslaught]
+; EN: EntryLabels=("Hit & Run","Roadkill","Drive-by shooting","Road warrior","Core meltdown","Vehicle slaughter")
+EntryLabels=("Hit & Run","Roadkill","Schieten vanuit een auto","Wegpiraat","Kernsmelting","Voertuigslachting")
+
+[ChallengeGame]
+; EN: msgGotChallenged="We got challenged"
+msgGotChallenged="We werden uitgedaagd"
+; EN: msgWeChallenged="We challenged"
+msgWeChallenged="We daagden uit"
+; EN: msgFor="for"
+msgFor="om"
+
+[ChampRosterFinal]
+; EN: TeamName="Championship Match"
+TeamName="Kampioenschapswedstrijd"
+
+[ChampRosterSemiFinal]
+; EN: TeamName="Championship Match"
+TeamName="Kampioenschapswedstrijd"
+
+[ComboBerserk]
+ExecMessage="Berserk!"
+
+[ComboDefensive]
+ExecMessage="Booster!"
+
+[ComboInvis]
+; EN: ExecMessage="Invisible!"
+ExecMessage="Onzichtbaar!"
+
+[ComboSpeed]
+; EN: ExecMessage="Speed!"
+ExecMessage="Snelheid!"
+
+[DMRosterBeatTeam]
+; EN: TeamName="Death Match"
+TeamName="Deathmatch"
+
+[DMRosterGael]
+; EN: TeamName="Death Match"
+TeamName="Deathmatch"
+
+[DMRosterLeviathan]
+; EN: TeamName="Death Match"
+TeamName="Deathmatch"
+
+[DMRosterOceanic]
+; EN: TeamName="Death Match"
+TeamName="Deathmatch"
+
+[DMRosterTrainingDay]
+; EN: TeamName="Death Match"
+TeamName="Deathmatch"
+
+[DamTypeIonVolume]
+; EN: DeathString="%o was OBLITERATED by %k!"
+DeathString="%o werd VERPULVERD door %k!"
+; EN: FemaleSuicide="%o was OBLITERATED"
+FemaleSuicide="%o werd VERPULVERD"
+; EN: MaleSuicide="%o was OBLITERATED"
+MaleSuicide="%o werd VERPULVERD"
+
+[InstagibCTF]
+; EN: ZoomDisplayText="Allow Zoom"
+ZoomDisplayText="Zoomen toestaan"
+; EN: ZoomDescText="Instagib rifles have sniper scopes."
+ZoomDescText="Instagib-geweren hebben een sluipschuttersvizier."
+GameName="Instagib CTF"
+
+[IonCannonKillWarning]
+CountDownTrailer="..."
+; EN: WarningString="You have been targeted by an orbital Ion Satellite!"
+WarningString="Je bent het doelwit van een Ion-satelliet in een baan om de planeet!"
+
+[JuggFemaleVoice]
+; EN: TauntString[21]="Life Is Pain, Get Over It"
+TauntString[21]="Het leven is pijn, kom eroverheen"
+; EN: TauntString[22]="Right Between The Eyes"
+TauntString[22]="Recht tussen de ogen"
+; EN: TauntString[23]="Tag 'Em And Bag 'Em"
+TauntString[23]="Raak 'em en pak 'em in"
+; EN: TauntString[24]="That Was Nasty"
+TauntString[24]="Dat was smerig"
+; EN: TauntString[25]="You Bleed Better Than You Shoot"
+TauntString[25]="Je bloedt beter dan je schiet"
+; EN: TauntString[26]="You Suck"
+TauntString[26]="Je bent waardeloos"
+; EN: TauntString[27]="Lick me"
+TauntString[27]="Lik me"
+; EN: OtherString[32]="I Can't Feel My Legs"
+OtherString[32]="Ik voel mijn benen niet meer"
+; EN: OtherString[33]="Nice Shot"
+OtherString[33]="Mooi schot"
+; EN: VoicePackName="Female Juggernaut"
+VoicePackName="Vrouwelijke juggernaut"
+
+[JuggMaleVoice]
+; EN: TauntString[21]="Life Is Pain, Get Over It"
+TauntString[21]="Het leven is pijn, kom eroverheen"
+; EN: TauntString[22]="Right Between The Eyes"
+TauntString[22]="Recht tussen de ogen"
+; EN: TauntString[23]="Tag 'Em And Bag 'Em"
+TauntString[23]="Raak 'em en pak 'em in"
+; EN: TauntString[24]="That Was Nasty"
+TauntString[24]="Dat was smerig"
+; EN: TauntString[25]="You Bleed Better Than You Shoot"
+TauntString[25]="Je bloedt beter dan je schiet"
+; EN: TauntString[26]="You Suck"
+TauntString[26]="Je bent waardeloos"
+; EN: OtherString[32]="I Can't Feel My Legs"
+OtherString[32]="Ik voel mijn benen niet meer"
+; EN: OtherString[33]="Nice Shot"
+OtherString[33]="Mooi schot"
+; EN: VoicePackName="Male Juggernaut"
+VoicePackName="Mannelijke juggernaut"
+
+[LavaVolume]
+LocationName="in lava"
+
+[ManoEMano]
+; EN: ChallengeName="Head to Head"
+ChallengeName="Duel"
+; EN: ChallengeDescription="A 1 vs 1 match against another team leader."
+ChallengeDescription="Een 1-tegen-1-wedstrijd tegen een andere teamleider."
+
+[MercFemaleVoice]
+; EN: TauntString[21]="Duck Faster Next Time"
+TauntString[21]="Duik de volgende keer sneller"
+; EN: TauntString[22]="Hold Still Dammit"
+TauntString[22]="Sta nou eens stil, verdomme"
+TauntString[23]="Holy Shit"
+; EN: TauntString[24]="Just Hold Still And I'll Make It Quick"
+TauntString[24]="Sta even stil, dan maak ik het kort"
+; EN: TauntString[25]="Kill Em All"
+TauntString[25]="Maak ze allemaal af"
+; EN: TauntString[26]="Nailed Him"
+TauntString[26]="Raak!"
+; EN: TauntString[27]="Not Even Close"
+TauntString[27]="Niet eens in de buurt"
+; EN: TauntString[28]="Step Aside"
+TauntString[28]="Opzij"
+; EN: TauntString[29]="Suck On This"
+TauntString[29]="Zuig hier maar op"
+; EN: TauntString[30]="Try Turning The Safety Off"
+TauntString[30]="Probeer de veiligheidspal eens uit te zetten"
+; EN: TauntAbbrev[24]="Just Hold Still"
+TauntAbbrev[24]="Sta even stil"
+; EN: OtherString[32]="Not Bad"
+OtherString[32]="Niet slecht"
+; EN: VoicePackName="Female Mercenary"
+VoicePackName="Vrouwelijke huurling"
+
+[MercMaleVoice]
+; EN: TauntString[21]="Duck Faster Next Time"
+TauntString[21]="Duik de volgende keer sneller"
+; EN: TauntString[22]="Hold Still Dammit"
+TauntString[22]="Sta nou eens stil, verdomme"
+TauntString[23]="Holy Shit"
+; EN: TauntString[24]="Just Hold Still And I'll Make It Quick"
+TauntString[24]="Sta even stil, dan maak ik het kort"
+; EN: TauntString[25]="Kill Em All"
+TauntString[25]="Maak ze allemaal af"
+; EN: TauntString[26]="Nailed Him"
+TauntString[26]="Raak!"
+; EN: TauntString[27]="Not Even Close"
+TauntString[27]="Niet eens in de buurt"
+; EN: TauntString[28]="Step Aside"
+TauntString[28]="Opzij"
+; EN: TauntString[29]="Suck On This"
+TauntString[29]="Zuig hier maar op"
+; EN: TauntString[30]="Try Turning The Safety Off"
+TauntString[30]="Probeer de veiligheidspal eens uit te zetten"
+; EN: TauntString[31]="You Die Too Easily"
+TauntString[31]="Je gaat veel te makkelijk dood"
+; EN: TauntAbbrev[24]="Just Hold Still"
+TauntAbbrev[24]="Sta even stil"
+; EN: OtherString[32]="Not Bad"
+OtherString[32]="Niet slecht"
+; EN: VoicePackName="Male Mercenary"
+VoicePackName="Mannelijke huurling"
+
+[MultiKillMessage]
+KillString[0]="Double Kill!"
+KillString[1]="Multi Kill!"
+KillString[2]="Mega Kill!!"
+KillString[3]="ULTRA KILL!!"
+KillString[4]="M O N S T E R  K I L L !!!"
+KillString[5]="L U D I C R O U S !!!"
+KillString[6]="H O L Y  S H I T !"
+
+[MutFastWeapSwitch]
+; EN: FriendlyName="UT2003 Style"
+FriendlyName="UT2003-stijl"
+; EN: Description="UT2003 style fast weapon switching and boost dodging."
+Description="Snel wapens wisselen en boost-ontwijken in UT2003-stijl."
+
+[MutInstaGib]
+; EN: TranslocDisplayText="Allow Translocator"
+TranslocDisplayText="Translocator toestaan"
+; EN: BoostDisplayText="Allow Teammate boosting"
+BoostDisplayText="Teamgenoten boosten toestaan"
+; EN: TranslocDescText="Players get a Translocator in their inventory."
+TranslocDescText="Spelers krijgen een Translocator in hun inventaris."
+; EN: BoostDescText="Teammates get a big boost when shot by the instagib rifle."
+BoostDescText="Teamgenoten krijgen een flinke boost als ze met het instagib-geweer worden geraakt."
+FriendlyName="InstaGib"
+; EN: Description="Instant-kill combat with modified Shock Rifles."
+Description="Gevechten met directe kills door aangepaste Shock Rifles."
+
+[MutNoAdrenaline]
+; EN: FriendlyName="No Adrenaline"
+FriendlyName="Geen adrenaline"
+; EN: Description="Adrenaline pickups are removed from the map."
+Description="Adrenaline-pickups worden van de map verwijderd."
+
+[MutQuadJump]
+FriendlyName="QuadJump"
+; EN: Description="When double jump just isn't enough."
+Description="Voor als een dubbele sprong gewoon niet genoeg is."
+
+[MutRegen]
+; EN: FriendlyName="Regeneration"
+FriendlyName="Regeneratie"
+; EN: Description="All players regenerate health."
+Description="Alle spelers herstellen hun gezondheid vanzelf."
+
+[MutSlomoDeath]
+; EN: FriendlyName="Slow Motion Corpses"
+FriendlyName="Lijken in slow motion"
+; EN: Description="Death should not be rushed."
+Description="De dood moet je niet overhaasten."
+
+[MutSpeciesStats]
+; EN: FriendlyName="Species Statistics"
+FriendlyName="Soortstatistieken"
+; EN: Description="Each race has unique combat statistics."
+Description="Elk ras heeft unieke gevechtsstatistieken."
+
+[MutUDamageReward]
+; EN: FriendlyName="UDamage Reward"
+FriendlyName="UDamage-beloning"
+; EN: Description="Any remaining UDamage powerup is thrown from players when they are fragged."
+Description="Een resterende UDamage-power-up valt uit spelers als ze worden gefragd."
+
+[MutVampire]
+; EN: FriendlyName="Vampire"
+FriendlyName="Vampier"
+; EN: Description="Damaging your opponents will heal you."
+Description="Schade aan je tegenstanders geneest jou."
+
+[MutZoomInstagib]
+; EN: FriendlyName="Zoom InstaGib"
+FriendlyName="Zoom-InstaGib"
+; EN: Description="Instant-kill combat with modified Shock Rifles with sniper zooms."
+Description="Gevechten met directe kills door aangepaste Shock Rifles met sluipschutterszoom."
+
+[NightFemaleVoice]
+; EN: TauntString[21]="Fresh Meat"
+TauntString[21]="Vers vlees"
+; EN: TauntString[22]="I Must Break You"
+TauntString[22]="Ik moet je breken"
+; EN: TauntString[23]="I'll Swallow Your Soul"
+TauntString[23]="Ik verslind je ziel"
+; EN: TauntString[24]="Lost Is Your Soul"
+TauntString[24]="Verloren is je ziel"
+; EN: TauntString[25]="Meet Your Executioner"
+TauntString[25]="Maak kennis met je beul"
+; EN: TauntString[26]="My Name Is Death"
+TauntString[26]="Mijn naam is Dood"
+; EN: TauntString[27]="No Tears Please.."
+TauntString[27]="Geen tranen alsjeblieft.."
+; EN: TauntString[28]="Pain Will Purify You"
+TauntString[28]="Pijn zal je zuiveren"
+; EN: VoicePackName="Female Night"
+VoicePackName="Vrouwelijke Night"
+
+[NightMaleVoice]
+; EN: TauntString[21]="Fresh Meat"
+TauntString[21]="Vers vlees"
+; EN: TauntString[22]="I Must Break You"
+TauntString[22]="Ik moet je breken"
+; EN: TauntString[23]="I'll Swallow Your Soul"
+TauntString[23]="Ik verslind je ziel"
+; EN: TauntString[24]="Lost Is Your Soul"
+TauntString[24]="Verloren is je ziel"
+; EN: TauntString[25]="Meet Your Executioner"
+TauntString[25]="Maak kennis met je beul"
+; EN: TauntString[26]="My Name Is Death"
+TauntString[26]="Mijn naam is Dood"
+; EN: TauntString[27]="No Tears Please.."
+TauntString[27]="Geen tranen alsjeblieft.."
+; EN: TauntString[28]="Pain Will Purify You"
+TauntString[28]="Pijn zal je zuiveren"
+; EN: VoicePackName="Male Night"
+VoicePackName="Mannelijke Night"
+
+[PhantomBloodReavers]
+; EN: TeamDescription="An organization of mercenaries and ex-military specialists, the Blood Reavers are interested in fame and fortune. They seek to win the Tournament for the prize that victory offers: nearly limitless wealth and power."
+TeamDescription="De Blood Reavers, een organisatie van huurlingen en voormalige militaire specialisten, zijn uit op roem en fortuin. Ze willen het Tournament winnen voor de prijs die de overwinning biedt: bijna onbeperkte rijkdom en macht."
+TeamName="Blood Reavers"
+
+[PhantomDarkPhalanx]
+; EN: TeamDescription="The Dark Phalanx are an honorable collection of military specialists. All have proven themselves in the Human/Skaarj war and now seek glory in the ranks of the Tournament."
+TeamDescription="De Dark Phalanx is een eervol gezelschap van militaire specialisten. Allemaal hebben ze zich bewezen in de oorlog tussen mensen en Skaarj, en nu zoeken ze glorie in de gelederen van het Tournament."
+TeamName="Dark Phalanx"
+
+[PhantomEpic]
+; EN: TeamDescription="Founded in 1991, Epic has long been a pioneer of cool PC games, new business models, and boundary-defining game technologies. Epic was founded by Tim Sweeney (Jill of the Jungle, Unreal), and joined shortly after by Mark Rein (VP of Marketing), James Schmalz (Epic Pinball, Extreme Pinball, Unreal), and Cliff Bleszinski (Jazz Jackrabbit, Unreal)."
+TeamDescription="Epic, opgericht in 1991, is al lang een pionier op het gebied van coole pc-games, nieuwe bedrijfsmodellen en grensverleggende speltechnologie. Epic werd opgericht door Tim Sweeney (Jill of the Jungle, Unreal), en kort daarna kwamen Mark Rein (VP Marketing), James Schmalz (Epic Pinball, Extreme Pinball, Unreal) en Cliff Bleszinski (Jazz Jackrabbit, Unreal) erbij."
+TeamName="Epic Games, Inc."
+
+[PhantomNecrisBlackLegion]
+; EN: TeamDescription="This powerful team of Necris Phayder assassins seeks to dominate the Tournament."
+TeamDescription="Dit machtige team van Necris Phayder-sluipmoordenaars wil het Tournament domineren."
+TeamName="Necris Black Legion"
+
+[PhantomRawSteel]
+; EN: TeamDescription="Only men are allowed in the fighting force known as 'Raw Steel.' An amalgamation of human muscle and polyfoam metals, 'Raw Steel' upholds strength and power over all other virtues."
+TeamDescription="Alleen mannen mogen deel uitmaken van de strijdmacht die bekendstaat als 'Raw Steel'. 'Raw Steel', een samensmelting van menselijke spieren en polyfoammetalen, stelt kracht en macht boven alle andere deugden."
+TeamName="Raw Steel"
+
+[RobotVoice]
+; EN: TauntString[21]="Die Human"
+TauntString[21]="Sterf, mens"
+; EN: TauntString[22]="Faster Stronger Better"
+TauntString[22]="Sneller sterker beter"
+; EN: TauntString[23]="Fear Me"
+TauntString[23]="Vrees mij"
+; EN: TauntString[24]="Flesh Is A Design Flaw"
+TauntString[24]="Vlees is een ontwerpfout"
+; EN: TauntString[25]="My Victory Your Death"
+TauntString[25]="Mijn overwinning, jouw dood"
+; EN: TauntString[26]="Not Unacceptable"
+TauntString[26]="Niet onaanvaardbaar"
+; EN: TauntString[27]="Rogue Process Terminated"
+TauntString[27]="Vreemd proces beëindigd"
+; EN: TauntString[28]="Witness My Perfection"
+TauntString[28]="Aanschouw mijn perfectie"
+; EN: TauntString[29]="You Die Too Easily"
+TauntString[29]="Je gaat veel te makkelijk dood"
+; EN: TauntString[30]="You Make Easy Prey"
+TauntString[30]="Je bent een makkelijke prooi"
+; EN: TauntString[31]="Your Programming Is Inferior"
+TauntString[31]="Je programmering is inferieur"
+; EN: OtherString[32]="Rerouting Critical Systems"
+OtherString[32]="Kritieke systemen worden omgeleid"
+; EN: OtherString[33]="You Adapt Well"
+OtherString[33]="Je past je goed aan"
+VoicePackName="Robot"
+
+[SPECIES_Alien]
+SpeciesName="Alien"
+; EN: TauntAnimNames[8]="Tail wag"
+TauntAnimNames[8]="Staartzwaai"
+; EN: TauntAnimNames[9]="Gun check"
+TauntAnimNames[9]="Wapencontrole"
+; EN: TauntAnimNames[10]="Dismissal"
+TauntAnimNames[10]="Wegwuiven"
+TauntAnimNames[11]="360"
+
+[SPECIES_Bot]
+SpeciesName="Robot"
+; EN: TauntAnimNames[8]="Want some?"
+TauntAnimNames[8]="Moet je wat?"
+
+[SPECIES_Egypt]
+; EN: SpeciesName="Egyptian"
+SpeciesName="Egyptenaar"
+
+[SPECIES_Jugg]
+SpeciesName="Juggernaut"
+; EN: TauntAnimNames[7]="Flex"
+TauntAnimNames[7]="Spieren tonen"
+; EN: TauntAnimNames[8]="Stomp"
+TauntAnimNames[8]="Stampen"
+; EN: TauntAnimNames[9]="Back scratch"
+TauntAnimNames[9]="Rug krabben"
+; EN: TauntAnimNames[10]="Show butt"
+TauntAnimNames[10]="Kont laten zien"
+; EN: TauntAnimNames[11]="Head scratch"
+TauntAnimNames[11]="Hoofd krabben"
+
+[SPECIES_Merc]
+; EN: SpeciesName="Mercenary"
+SpeciesName="Huurling"
+
+[SPECIES_Night]
+SpeciesName="Night"
+
+[SpecialKillMessage]
+DecapitationString="Head Shot!!"
+
+[SpeciesSkaarj]
+SpeciesName="Skaarj"
+; EN: TauntAnimNames[4]="Hair flip"
+TauntAnimNames[4]="Haar zwiepen"
+; EN: TauntAnimNames[5]="Slash"
+TauntAnimNames[5]="Snijden"
+; EN: TauntAnimNames[6]="Scan"
+TauntAnimNames[6]="Scannen"
+; EN: TauntAnimNames[7]="Finger"
+TauntAnimNames[7]="Middelvinger"
+; EN: TauntAnimNames[8]="Idle"
+TauntAnimNames[8]="Stilstaan"
+
+[SpeciesType]
+; EN: SpeciesName="Human"
+SpeciesName="Mens"
+; EN: TauntAnimNames[0]="Point"
+TauntAnimNames[0]="Wijzen"
+; EN: TauntAnimNames[1]="Beckon"
+TauntAnimNames[1]="Wenken"
+TauntAnimNames[2]="Halt"
+; EN: TauntAnimNames[3]="Cheer"
+TauntAnimNames[3]="Juichen"
+; EN: TauntAnimNames[4]="Pelvic Thrust"
+TauntAnimNames[4]="Bekkenstoot"
+; EN: TauntAnimNames[5]="Ass Smack"
+TauntAnimNames[5]="Klap op de kont"
+; EN: TauntAnimNames[6]="Throat Cut"
+TauntAnimNames[6]="Keel doorsnijden"
+; EN: TauntAnimNames[7]="Unique"
+TauntAnimNames[7]="Uniek"
+; EN: TauntAnimNames[8]="Team Taunt"
+TauntAnimNames[8]="Teamtreiter"
+; EN: TauntAnimNames[9]="Team Idle"
+TauntAnimNames[9]="Team stilstaan"
+
+[TeamApocalypse]
+TeamName="Apocalypse"
+
+[TeamBlackLegion]
+TeamName="BlackLegion"
+
+[TeamBloodFists]
+TeamName="BloodFists"
+
+[TeamBoneCrushers]
+TeamName="BoneCrushers"
+
+[TeamColdSteel]
+TeamName="ColdSteel"
+
+[TeamCorrupt]
+; EN: TeamDescription="Xan Kriegor was long regarded as invincible, until Malcolm defeated him in the fourth officially recognized Tournament finals.  After a long hiatus, he has returned to lead the Liandri team, The Corrupt, back to the championship.  Xan is sitting out the early rounds, which he perceives as beneath his attention."
+TeamDescription="Xan Kriegor gold lange tijd als onoverwinnelijk, totdat Malcolm hem versloeg in de vierde officieel erkende Tournament-finale.  Na een lange afwezigheid is hij terug om het Liandri-team The Corrupt weer naar het kampioenschap te leiden.  Xan slaat de eerste rondes over, die hij beneden zijn waardigheid vindt."
+TeamName="The Corrupt"
+
+[TeamCrusaders]
+TeamName="Crusaders"
+
+[TeamDragonBreath]
+TeamName="DragonBreath"
+
+[TeamFirestorm]
+TeamName="Firestorm"
+
+[TeamGoliath]
+; EN: TeamDescription="With the success of Gorge's Juggernauts in last year's tournament, Axon Research Corporation is now sponsoring Goliath in hopes of producing an all Juggernaut finals."
+TeamDescription="Na het succes van Gorges Juggernauts in het toernooi van vorig jaar sponsort Axon Research Corporation nu Goliath, in de hoop op een finale met alleen Juggernauts."
+TeamName="Goliath"
+
+[TeamHellions]
+; EN: TeamDescription="Once feared and reviled throughout human space as pirates and renegades, the Hellions seek to gain respectability as a mercenary outfit.  They've entered the tournament to demonstrate their capabilities to potential customers."
+TeamDescription="De Hellions, ooit in de hele menselijke ruimte gevreesd en verafschuwd als piraten en afvalligen, willen respectabel worden als huurlingenbende.  Ze doen mee aan het toernooi om hun kunnen te laten zien aan potentiële klanten."
+TeamName="Hellions"
+
+[TeamIronGuard]
+TeamName="IronGuard"
+
+[TeamIronSkull]
+; EN: TeamDescription="This year, the Skaarj Empire is represented by the Iron Skull clan, who seek to regain honor after long being held responsible for the loss of the Skaarj Mothership during the Human/Skaarj wars."
+TeamDescription="Dit jaar wordt het Skaarj-rijk vertegenwoordigd door de Iron Skull-clan, die zijn eer wil herstellen nadat hij lang verantwoordelijk werd gehouden voor het verlies van het Skaarj-moederschip in de oorlogen tussen mensen en Skaarj."
+TeamName="Iron Skull Skaarj"
+
+[TeamJuggernauts]
+; EN: TeamDescription="Gorge is determined to prove that his one year reign as Tournament Champion is no fluke, and he has re-assembled the Juggernaut team he led to the championship.  Axon Research Corporation has made armor and bio-genetic upgrades to the Juggernauts design for this year's tournament."
+TeamDescription="Gorge is vastbesloten te bewijzen dat zijn eenjarige heerschappij als Tournament-kampioen geen toevalstreffer was, en hij heeft het Juggernaut-team waarmee hij het kampioenschap won opnieuw bijeengebracht.  Axon Research Corporation heeft het ontwerp van de Juggernauts voor het toernooi van dit jaar verbeterd met betere pantsering en bio-genetische upgrades."
+TeamName="Juggernauts"
+
+[TeamNewBlacklegion]
+; EN: TeamDescription="The Black Legion is made up of the hideously deformed subjects of weaponized genetic mutation tests.  This year, they have a new leader, Abaddon, the current pinnacle of achievement of this line of experiments."
+TeamDescription="Het Black Legion bestaat uit afschuwelijk misvormde proefpersonen van experimenten met genetische mutatie als wapen.  Dit jaar hebben ze een nieuwe leider, Abaddon, het voorlopige hoogtepunt van deze reeks experimenten."
+TeamName="Black Legion"
+
+[TeamNewBloodfist]
+; EN: TeamDescription="The only team in the Tournament acknowledged to be entirely cybernetic, Blood Fist warriors have their programming upgraded each year, and have become more and more lethal."
+TeamDescription="Blood Fist is het enige team in het Tournament waarvan erkend is dat het volledig cybernetisch is. De programmering van de krijgers wordt elk jaar bijgewerkt, en ze zijn steeds dodelijker geworden."
+TeamName="Blood Fist"
+
+[TeamNewFirestorm]
+; EN: TeamDescription="The Mokara are respected and feared as warriors. The Mokara's elite fighting unit, Fire Storm, sends a team of their best soldiers to the Tournament each year."
+TeamDescription="De Mokara zijn als krijgers gerespecteerd en gevreesd. Fire Storm, de elite-eenheid van de Mokara, stuurt elk jaar een team van hun beste soldaten naar het Tournament."
+TeamName="Firestorm"
+
+[TeamNewIronGuard]
+; EN: TeamDescription="Brock and Lauren joined forces with Malcolm during his reign as tournament champion. Infighting and recrimination over their stunning defeat in last year's Tournament led to the dissolution of that team. Now, Brock and Lauren have returned leading their old team, the Iron Guard."
+TeamDescription="Brock en Lauren sloten zich aan bij Malcolm tijdens zijn heerschappij als toernooikampioen. Onderlinge ruzies en verwijten na hun verbluffende nederlaag in het Tournament van vorig jaar leidden tot het uiteenvallen van dat team. Nu zijn Brock en Lauren terug aan het hoofd van hun oude team, de Iron Guard."
+TeamName="Iron Guard"
+
+[TeamNewSunblade]
+; EN: TeamDescription="Sun Blade is comprised of former Temple Guardians and veterans of the Desert Legion. They see victory in the Tournament as their only hope for burial and eternal life in the Valley of Kings on Luxor IV."
+TeamDescription="Sun Blade bestaat uit voormalige tempelwachters en veteranen van het Woestijnlegioen. Ze zien een overwinning in het Tournament als hun enige hoop op een begrafenis en eeuwig leven in het Dal der Koningen op Luxor IV."
+TeamName="Sun Blade"
+
+[TeamNewSuperNova]
+; EN: TeamDescription="Super Nova, a team of mercenaries from the Seventh Mercenary Fleet, has entered the Tournament to pay off their debts to the Izanagi Corporation."
+TeamDescription="Super Nova, een team huurlingen uit de Zevende Huurlingenvloot, doet mee aan het Tournament om hun schulden bij de Izanagi Corporation af te lossen."
+TeamName="Super Nova"
+
+[TeamNightstalkers]
+TeamName="Nightstalkers"
+
+[TeamPainMachine]
+TeamName="PainMachine"
+
+[TeamSunBlades]
+TeamName="SunBlades"
+
+[TeamSupernova]
+TeamName="Supernova"
+
+[TeamThundercrash]
+; EN: TeamDescription="Following his well publicized break-up with long-time teammates Brock and Lauren, Malcolm has returned to lead his old team, Thunder Crash.  Malcolm is currently rehabilitating an injury sustained in last year's championship match, but he is expected to be healthy in time for the Tournament Finals."
+TeamDescription="Na zijn veelbesproken breuk met zijn jarenlange teamgenoten Brock en Lauren is Malcolm terug om zijn oude team, Thunder Crash, te leiden.  Malcolm herstelt momenteel van een blessure uit de kampioenswedstrijd van vorig jaar, maar naar verwachting is hij op tijd fit voor de Tournament-finale."
+TeamName="Thunder Crash"
+
+[TeamVenom]
+TeamName="Venom"
+
+[TeamWarCry]
+TeamName="WarCry"
+
+[UT2003LadderInfo]
+; EN: CHAMP1.MenuName="Tournament Semi-Final"
+CHAMP1.MenuName="Halve finale Tournament"
+; EN: CHAMP2.MenuName="Tournament Final"
+CHAMP2.MenuName="Finale Tournament"
+; EN: DM0.MenuName="Deathmatch Tutorial"
+DM0.MenuName="Deathmatch-tutorial"
+
+[UT2K4DMRoster]
+; EN: TeamName="Death Match"
+TeamName="Deathmatch"
+
+[UT2K4GameProfile]
+msgSpecialAward[0]="Flak Monkey"
+msgSpecialAward[1]="Combo Whore"
+msgSpecialAward[2]="Head Hunter"
+msgSpecialAward[3]="Road Rampage"
+; EN: msgSpecialAward[4]="Hat Trick"
+msgSpecialAward[4]="Hattrick"
+; EN: msgSpecialAward[5]="Untouchable"
+msgSpecialAward[5]="Onaantastbaar"
+; EN: msgCheater="CHEATER!!!"
+msgCheater="VALSSPELER!!!"
+msgCredits="credits"
+msgCredit="credit"
+; EN: msgChallengeGame="Challenge game"
+msgChallengeGame="Uitdagingsspel"
+; EN: msgAdditionalLadder="Additional ladder game"
+msgAdditionalLadder="Extra ladderspel"
+; EN: msgMatch="match"
+msgMatch="wedstrijd"
+; EN: msgLadderGame="Ladder game"
+msgLadderGame="Ladderspel"
+; EN: msgChampionship="Championship"
+msgChampionship="Kampioenschap"
+
+[UT2K4LadderInfo]
+; EN: DM0.MenuName="Deathmatch Tutorial"
+DM0.MenuName="Deathmatch-tutorial"
+
+[xBlueFlagBase]
+; EN: ObjectiveName="Blue Flag"
+ObjectiveName="Blauwe vlag"
+
+[xBombDelivery]
+; EN: ObjectiveStringSuffix=" Goal"
+ObjectiveStringSuffix=" doel"
+
+[xBombHUDMessage]
+; EN: YouHaveFlagString="You have the ball, deliver it to enemy base!"
+YouHaveFlagString="Je hebt de bal, breng hem naar de vijandelijke basis!"
+; EN: EnemyHasFlagString="The enemy has the ball, recover it!"
+EnemyHasFlagString="De vijand heeft de bal, pak hem terug!"
+
+[xBombMessage]
+; EN: ReturnBlue="returns the ball!"
+ReturnBlue="brengt de bal terug!"
+; EN: ReturnRed="returns the ball!"
+ReturnRed="brengt de bal terug!"
+; EN: ReturnedBlue="The ball was returned!"
+ReturnedBlue="De bal is teruggebracht!"
+; EN: ReturnedRed="The ball was returned!"
+ReturnedRed="De bal is teruggebracht!"
+; EN: CaptureBlue="scored the goal!"
+CaptureBlue="heeft gescoord!"
+; EN: CaptureRed="scored the goal!"
+CaptureRed="heeft gescoord!"
+; EN: DroppedBlue="dropped the ball!"
+DroppedBlue="heeft de bal laten vallen!"
+; EN: DroppedRed="dropped the ball!"
+DroppedRed="heeft de bal laten vallen!"
+; EN: HasBlue="has the ball!"
+HasBlue="heeft de bal!"
+; EN: HasRed="has the ball!"
+HasRed="heeft de bal!"
+
+[xBombSpawn]
+; EN: ObjectiveName="Bomb Spawn"
+ObjectiveName="Spawn bom"
+
+[xBombingRun]
+; EN: BRPropText="Delay ball contact"
+BRPropText="Balcontact vertragen"
+; EN: BRPropText2="BallLauncher drains Translocator"
+BRPropText2="BallLauncher leegt Translocator"
+; EN: BRDescText="If checked, a player must wait a few seconds after throwing the ball before picking it up again."
+BRDescText="Indien aangevinkt, moet een speler na het gooien van de bal een paar seconden wachten voordat hij hem weer kan oppakken."
+; EN: BRDescText2="If checked, a player must wait a few seconds after throwing the ball before being able to translocate (or until someone else catches or picks up the ball)."
+BRDescText2="Indien aangevinkt, moet een speler na het gooien van de bal een paar seconden wachten voordat hij kan translocaten (of tot iemand anders de bal vangt of oppakt)."
+; EN: BRHints=("You can use %BASEPATH 0% to see the path to the Red Team base and %BASEPATH 1% to see the path to the Blue Team base.","Firing the translocator sends out your translocator beacon.  Pressing %FIRE% again returns the beacon, while pressing %A:TFIRE% teleports you instantly to the beacon's location (if you fit).","While carrying the ball, you can target teammates by pressing %ALTFIRE%.  Pressing %FIRE% will pass the ball to the targeted teammate.","Pressing %SWITCHWEAPON 10% after tossing the Translocator allows you to view from its internal camera.","Pressing %FIRE% while your %ALTFIRE% is still held down after teleporting with the translocator will switch you back to your previous weapon.")
+BRHints=("Met %BASEPATH 0% zie je de weg naar de basis van het rode team en met %BASEPATH 1% de weg naar de basis van het blauwe team.","Als je de Translocator afvuurt, gooi je je translocatorbaken weg.  Druk nogmaals op %FIRE% om het baken terug te halen, of op %A:TFIRE% om direct naar de plek van het baken te teleporteren (als je past).","Terwijl je de bal draagt, kun je met %ALTFIRE% op teamgenoten richten.  Druk op %FIRE% om de bal naar de gekozen teamgenoot te spelen.","Druk na het gooien van de Translocator op %SWITCHWEAPON 10% om via de interne camera mee te kijken.","Druk na het teleporteren met de Translocator op %FIRE% terwijl je %ALTFIRE% nog ingedrukt houdt om terug te wisselen naar je vorige wapen.")
+GameName="Bombing Run"
+; EN: Description="Each level has a ball that starts in the middle of the playing field.  Your team scores by getting the ball through the enemy team's hoop.  You score 7 points for jumping through the hoop while holding the ball, and 3 points for tossing the ball through the hoop.  The ball can be passed to teammates, and is dropped if the player carrying it is killed."
+Description="Elk level heeft een bal die in het midden van het speelveld begint.  Je team scoort door de bal door de ring van het vijandelijke team te krijgen.  Je scoort 7 punten als je met de bal door de ring springt, en 3 punten als je de bal door de ring gooit.  De bal kan naar teamgenoten worden gespeeld en valt op de grond als de balhouder wordt gedood."
+
+[xCTFGame]
+GameName="Capture the Flag"
+; EN: Description="Your team must score flag captures by taking the enemy flag from the enemy base and returning it to their own flag.  If the flag carrier is killed, the flag drops to the ground for anyone to pick up.  If your team's flag is taken, it must be returned (by touching it after it is dropped) before your team can score a flag capture."
+Description="Je team moet vlaggen veroveren door de vijandelijke vlag uit de vijandelijke basis te pakken en terug te brengen naar de eigen vlag.  Als de vlagdrager wordt gedood, valt de vlag op de grond en kan iedereen hem oppakken.  Als de vlag van je team is gepakt, moet die eerst worden teruggebracht (door hem aan te raken nadat hij is gevallen) voordat je team een vlag kan veroveren."
+
+[xDeathMatch]
+GameName="DeathMatch"
+; EN: Description="Free-for-all kill or be killed.  The player with the most frags wins."
+Description="Ieder voor zich: doden of gedood worden.  De speler met de meeste frags wint."
+
+[xDeathMessage]
+; EN: KilledString="was killed by"
+KilledString="werd gedood door"
+; EN: SomeoneString="someone"
+SomeoneString="iemand"
+
+[xDomMessage]
+; EN: YouControlBothPointsString="Your team controls both points!"
+YouControlBothPointsString="Je team bezit beide punten!"
+; EN: EnemyControlsBothPointsString="The enemy controls both points!"
+EnemyControlsBothPointsString="De vijand bezit beide punten!"
+
+[xDomPointA]
+PointName="A"
+; EN: ObjectiveName="Point A"
+ObjectiveName="Punt A"
+
+[xDomPointB]
+PointName="B"
+; EN: ObjectiveName="Point B"
+ObjectiveName="Punt B"
+
+[xDoubleDom]
+; EN: DDomPropsDisplayText[0]="Time To Score"
+DDomPropsDisplayText[0]="Tijd tot scoren"
+; EN: DDomPropsDisplayText[1]="Time Disabled"
+DDomPropsDisplayText[1]="Tijd uitgeschakeld"
+; EN: DDomPropDescText[0]="Specifies how long domination points must be held to score a point."
+DDomPropDescText[0]="Bepaalt hoe lang dominationpunten vastgehouden moeten worden om een punt te scoren."
+; EN: DDomPropDescText[1]="Specifies how long domination points are disabled after a point is scored."
+DDomPropDescText[1]="Bepaalt hoe lang dominationpunten na een score uitgeschakeld zijn."
+GameName="Double Domination"
+; EN: Description="Your team scores by capturing and holding both Control Points for ten seconds.  Control Points are captured by touching them.  After scoring, the Control Points reset to neutral."
+Description="Je team scoort door beide controlepunten tien seconden lang in te nemen en vast te houden.  Je neemt controlepunten in door ze aan te raken.  Na een score worden de controlepunten weer neutraal."
+
+[xFallingVolume]
+; EN: LocationName="in air"
+LocationName="in de lucht"
+
+[xKillerMessagePlus]
+; EN: YouKilled="You killed"
+YouKilled="Je hebt gedood:"
+
+[xRedFlagBase]
+; EN: ObjectiveName="Red Flag"
+ObjectiveName="Rode vlag"
+
+[xTeamGame]
+GameName="Team DeathMatch"
+; EN: Description="Two teams duke it out in a quest for battlefield supremacy.  The team with the most total frags wins."
+Description="Twee teams vechten het uit voor de heerschappij over het slagveld.  Het team met de meeste frags wint."
+
+[xUtil]
+; EN: NoPreference="No Weapon Preference"
+NoPreference="Geen wapenvoorkeur"
+; EN: FavoriteWeapon="Favorite Weapon:"
+FavoriteWeapon="Favoriete wapen:"
+; EN: AgilityString="Agility:"
+AgilityString="Behendigheid:"
+; EN: TacticsString="Team Tactics:"
+TacticsString="Teamtactiek:"
+; EN: AccuracyString="Accuracy:"
+AccuracyString="Nauwkeurigheid:"
+; EN: AggressivenessString="Aggression:"
+AggressivenessString="Agressie:"
+
+[xVehicleCTFGame]
+; EN: VCTFHints=("You can't carry the flag in a Manta or a Raptor.")
+VCTFHints=("Je kunt de vlag niet meenemen in een Manta of Raptor.")
+GameName="Vehicle CTF"
+; EN: Description="Like traditional Capture The Flag, only adding vehicles into the mix! Only ground-based vehicles can carry the flag."
+Description="Net als het traditionele Capture The Flag, maar dan met voertuigen erbij! Alleen grondvoertuigen kunnen de vlag meenemen."
+
+[xVictimMessage]
+; EN: YouWereKilledBy="You were killed by"
+YouWereKilledBy="Je werd gedood door"
+KilledByTrailer="!"
+
+[xVoicePack]
+; EN: AckString[0]="Affirmative"
+AckString[0]="Bevestigd"
+; EN: AckString[1]="Got It"
+AckString[1]="Begrepen"
+; EN: AckString[2]="I'm On It"
+AckString[2]="Ik ga ervoor"
+AckString[3]="Roger"
+; EN: FFireString[0]="I'm On Your Team!"
+FFireString[0]="Ik zit in jouw team!"
+; EN: FFireString[1]="I'm On Your Team, Idiot!"
+FFireString[1]="Ik zit in jouw team, idioot!"
+; EN: FFireString[2]="Same Team!"
+FFireString[2]="Zelfde team!"
+; EN: FFireAbbrev[1]="Your Team, Idiot!"
+FFireAbbrev[1]="Jouw team, idioot!"
+; EN: TauntString[0]="And Stay Down"
+TauntString[0]="En blijf liggen"
+; EN: TauntString[1]="Anyone Else Want Some?"
+TauntString[1]="Wil er nog iemand wat?"
+; EN: TauntString[2]="Boom!"
+TauntString[2]="Boem!"
+; EN: TauntString[3]="BURN Baby"
+TauntString[3]="BRANDEN, schatje"
+; EN: TauntString[4]="Die Bitch"
+TauntString[4]="Sterf, trut"
+; EN: TauntString[5]="Eat THAT"
+TauntString[5]="Vreet DAT maar"
+; EN: TauntString[6]="You Fight Like Nali"
+TauntString[6]="Je vecht als een Nali"
+; EN: TauntString[7]="Is That Your Best?"
+TauntString[7]="Is dat alles?"
+; EN: TauntString[8]="Kiss My Ass"
+TauntString[8]="Kus m'n reet"
+TauntString[9]="Loser"
+; EN: TauntString[10]="MY House"
+TauntString[10]="MIJN huis"
+; EN: TauntString[11]="Next!"
+TauntString[11]="Volgende!"
+; EN: TauntString[12]="Oh YEAH!"
+TauntString[12]="O JA!"
+TauntString[13]="Ownage"
+; EN: TauntString[14]="Seeya"
+TauntString[14]="Doei"
+; EN: TauntString[15]="That HAD To Hurt"
+TauntString[15]="Dat MOEST wel pijn doen"
+; EN: TauntString[16]="Useless"
+TauntString[16]="Nutteloos"
+; EN: TauntString[17]="You Play Like A Girl"
+TauntString[17]="Je speelt als een meisje"
+; EN: TauntString[18]="You Be Dead"
+TauntString[18]="Jij bent dood"
+; EN: TauntString[19]="You Like That?"
+TauntString[19]="Vind je dat lekker?"
+; EN: TauntString[20]="You Whore"
+TauntString[20]="Jij hoer"
+; EN: OrderString[0]="Defend the base"
+OrderString[0]="Verdedig de basis"
+; EN: OrderString[1]="Hold this position"
+OrderString[1]="Houd deze positie"
+; EN: OrderString[2]="Assault the base"
+OrderString[2]="Val de basis aan"
+; EN: OrderString[3]="Cover me"
+OrderString[3]="Geef me dekking"
+; EN: OrderString[4]="Search and destroy"
+OrderString[4]="Zoek en vernietig"
+; EN: OrderString[10]="Take their flag"
+OrderString[10]="Pak hun vlag"
+; EN: OrderString[11]="Defend the flag"
+OrderString[11]="Verdedig de vlag"
+; EN: OrderString[12]="Attack Alpha"
+OrderString[12]="Val Alpha aan"
+; EN: OrderString[13]="Attack Bravo"
+OrderString[13]="Val Bravo aan"
+; EN: OrderString[14]="Get the ball"
+OrderString[14]="Pak de bal"
+; EN: OrderAbbrev[0]="Defend"
+OrderAbbrev[0]="Verdedigen"
+; EN: OrderAbbrev[2]="Attack"
+OrderAbbrev[2]="Aanvallen"
+; EN: OtherString[0]="Base is undefended!"
+OtherString[0]="Basis is onverdedigd!"
+; EN: OtherString[1]="Somebody get our flag back!"
+OtherString[1]="Haal iemand onze vlag terug!"
+; EN: OtherString[2]="I've got the flag"
+OtherString[2]="Ik heb de vlag"
+; EN: OtherString[3]="I've got your back"
+OtherString[3]="Ik dek je"
+; EN: OtherString[4]="I'm hit!"
+OtherString[4]="Ik ben geraakt!"
+; EN: OtherString[5]="Man down!"
+OtherString[5]="Man neer!"
+; EN: OtherString[6]="I'm all alone here %l"
+OtherString[6]="Ik sta hier helemaal alleen %l"
+; EN: OtherString[7]="Negative!"
+OtherString[7]="Negatief!"
+; EN: OtherString[8]="I've got our flag"
+OtherString[8]="Ik heb onze vlag"
+; EN: OtherString[9]="I'm in position %l"
+OtherString[9]="Ik ben in positie %l"
+; EN: OtherString[10]="I'm going in!"
+OtherString[10]="Ik ga erin!"
+; EN: OtherString[11]="Area is secure"
+OtherString[11]="Gebied is veilig"
+; EN: OtherString[12]="Enemy flag carrier is %l"
+OtherString[12]="Vijandelijke vlagdrager is %l"
+; EN: OtherString[13]="I need some backup %l"
+OtherString[13]="Ik heb versterking nodig %l"
+; EN: OtherString[14]="Incoming!"
+OtherString[14]="Inkomend!"
+; EN: OtherString[15]="Enemy ball carrier is %l"
+OtherString[15]="Vijandelijke balhouder is %l"
+; EN: OtherString[16]="Alpha secure!"
+OtherString[16]="Alpha veilig!"
+; EN: OtherString[17]="Bravo secure!"
+OtherString[17]="Bravo veilig!"
+; EN: OtherString[18]="Attack Alpha"
+OtherString[18]="Val Alpha aan"
+; EN: OtherString[19]="Attack Bravo"
+OtherString[19]="Val Bravo aan"
+; EN: OtherString[20]="The base is under attack %l"
+OtherString[20]="De basis wordt aangevallen %l"
+; EN: OtherString[21]="We're being overrun %l!"
+OtherString[21]="We worden overlopen %l!"
+; EN: OtherString[22]="Under heavy attack %l"
+OtherString[22]="Zwaar onder vuur %l"
+; EN: OtherString[23]="Defend point Alpha"
+OtherString[23]="Verdedig punt Alpha"
+; EN: OtherString[24]="Defend point Bravo"
+OtherString[24]="Verdedig punt Bravo"
+; EN: OtherString[25]="Get The Ball"
+OtherString[25]="Pak de bal"
+; EN: OtherString[26]="I'm on defense"
+OtherString[26]="Ik verdedig"
+; EN: OtherString[27]="I'm on offense"
+OtherString[27]="Ik val aan"
+; EN: OtherString[28]="Take point Alpha"
+OtherString[28]="Neem punt Alpha in"
+; EN: OtherString[29]="Take point Bravo"
+OtherString[29]="Neem punt Bravo in"
+; EN: OtherString[30]="Medic"
+OtherString[30]="Hospik"
+; EN: OtherString[31]="Nice"
+OtherString[31]="Mooi"
+; EN: OtherAbbrev[1]="Get our flag!"
+OtherAbbrev[1]="Haal onze vlag!"
+; EN: OtherAbbrev[2]="Got the flag"
+OtherAbbrev[2]="Heb de vlag"
+; EN: OtherAbbrev[3]="Got your back"
+OtherAbbrev[3]="Ik dek je"
+; EN: OtherAbbrev[6]="All alone!"
+OtherAbbrev[6]="Helemaal alleen!"
+; EN: OtherAbbrev[8]="Got our flag"
+OtherAbbrev[8]="Heb onze vlag"
+; EN: OtherAbbrev[9]="In position"
+OtherAbbrev[9]="In positie"
+; EN: OtherAbbrev[12]="Enemy flag carrier"
+OtherAbbrev[12]="Vijandelijke vlagdrager"
+; EN: OtherAbbrev[13]="Need backup"
+OtherAbbrev[13]="Versterking nodig"
+; EN: OtherAbbrev[15]="Enemy ball carrier"
+OtherAbbrev[15]="Vijandelijke balhouder"
+; EN: OtherAbbrev[20]="Base under attack"
+OtherAbbrev[20]="Basis wordt aangevallen"
+; EN: OtherAbbrev[21]="Being overrun"
+OtherAbbrev[21]="Worden overlopen"
+; EN: OtherAbbrev[22]="Under heavy attack"
+OtherAbbrev[22]="Zwaar onder vuur"
+

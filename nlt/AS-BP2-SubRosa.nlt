@@ -1,0 +1,188 @@
+﻿[ASCriticalObjectiveVolume0]
+; EN: LocationName="Central Office"
+LocationName="Centraal kantoor"
+
+[ASCriticalObjectiveVolume1]
+; EN: LocationName="Right Lock"
+LocationName="Rechterslot"
+
+[ASCriticalObjectiveVolume2]
+; EN: LocationName="Left Lock"
+LocationName="Linkerslot"
+
+[ASCriticalObjectiveVolume3]
+; EN: LocationName="Left Lock"
+LocationName="Linkerslot"
+
+[ASCriticalObjectiveVolume4]
+; EN: LocationName="Right Lock"
+LocationName="Rechterslot"
+
+[ASCriticalObjectiveVolume5]
+; EN: LocationName="Inside Vault"
+LocationName="In de kluis"
+
+[ASCriticalObjectiveVolume6]
+; EN: LocationName="Radio Terminal"
+LocationName="Radioterminal"
+
+[ASOBJ_EnergyCore_Delivery0]
+; EN: Objective_Info_Attacker="Upload Data Stick At The Computer Terminal"
+Objective_Info_Attacker="Upload de datastick bij de computerterminal"
+; EN: Objective_Info_Defender="Protect The Computer Terminal."
+Objective_Info_Defender="Bescherm de computerterminal."
+
+[ASOBJ_EnergyCore_Delivery1]
+; EN: DestructionMessage="Antenna Realigned!"
+DestructionMessage="Antenne bijgesteld!"
+; EN: Objective_Info_Attacker="Realign The Antenna."
+Objective_Info_Attacker="Stel de antenne bij."
+; EN: Objective_Info_Defender="Protect The Antenna."
+Objective_Info_Defender="Bescherm de antenne."
+
+[ASOBJ_EnergyCore_Spawn0]
+; EN: PlayerDroppedMessage=" dropped the Data Stick!"
+PlayerDroppedMessage=" heeft de datastick laten vallen!"
+; EN: DroppedMessage="Data Stick dropped!"
+DroppedMessage="Datastick gevallen!"
+; EN: EnergyCorePickedUp="Data Stick picked up!"
+EnergyCorePickedUp="Datastick opgepakt!"
+; EN: PlayerPickedUpEnergyCore=" picked up the Data Stick!"
+PlayerPickedUpEnergyCore=" heeft de datastick opgepakt!"
+; EN: PlayerCoreReset="Data Stick reset!"
+PlayerCoreReset="Datastick teruggezet!"
+; EN: ObjectiveName="Teh Demo"
+ObjectiveName="De demo"
+; EN: DestructionMessage="The data stick has been stolen!"
+DestructionMessage="De datastick is gestolen!"
+; EN: ObjectiveDescription="Data Stick"
+ObjectiveDescription="Datastick"
+; EN: Objective_Info_Attacker="Get the Data Stick!"
+Objective_Info_Attacker="Pak de datastick!"
+; EN: Objective_Info_Defender="Protect the Data Stick!"
+Objective_Info_Defender="Bescherm de datastick!"
+
+[ASOBJ_EnergyCore_Spawn1]
+; EN: PlayerDroppedMessage=" dropped the Data Stick!"
+PlayerDroppedMessage=" heeft de datastick laten vallen!"
+; EN: DroppedMessage="Data Stick dropped!"
+DroppedMessage="Datastick gevallen!"
+; EN: EnergyCorePickedUp="Data Stick picked up!"
+EnergyCorePickedUp="Datastick opgepakt!"
+; EN: PlayerPickedUpEnergyCore=" picked up the Data Stick!"
+PlayerPickedUpEnergyCore=" heeft de datastick opgepakt!"
+; EN: ObjectiveName="Teh Demo"
+ObjectiveName="De demo"
+; EN: DestructionMessage="The data stick has been stolen!"
+DestructionMessage="De datastick is gestolen!"
+; EN: ObjectiveDescription="Data Stick"
+ObjectiveDescription="Datastick"
+; EN: Objective_Info_Attacker="Get the Data Stick!"
+Objective_Info_Attacker="Pak de datastick!"
+; EN: Objective_Info_Defender="Protect the Data Stick!"
+Objective_Info_Defender="Bescherm de datastick!"
+
+[DestroyableObjective_SM0]
+; EN: DestructionMessage="Door Lock Destroyed!"
+DestructionMessage="Deurslot vernietigd!"
+; EN: Objective_Info_Attacker="Destroy The Front Door Controls."
+Objective_Info_Attacker="Vernietig de bediening van de voordeur."
+; EN: Objective_Info_Defender="Protect The Front Door Controls."
+Objective_Info_Defender="Bescherm de bediening van de voordeur."
+
+[DestroyableObjective_SM1]
+; EN: ObjectiveName="Data Shield"
+ObjectiveName="Gegevensschild"
+; EN: DestructionMessage="Data Shield Destroyed!"
+DestructionMessage="Gegevensschild vernietigd!"
+; EN: ObjectiveDescription="Destroy the data shield."
+ObjectiveDescription="Vernietig het gegevensschild."
+; EN: Objective_Info_Attacker="Destroy the data shield."
+Objective_Info_Attacker="Vernietig het gegevensschild."
+; EN: Objective_Info_Defender="Defend the data shield."
+Objective_Info_Defender="Verdedig het gegevensschild."
+
+[DestroyableObjective_SM2]
+; EN: DestructionMessage="Door Lock Destroyed!"
+DestructionMessage="Deurslot vernietigd!"
+; EN: Objective_Info_Attacker="Destroy The Front Door Controls."
+Objective_Info_Attacker="Vernietig de bediening van de voordeur."
+; EN: Objective_Info_Defender="Protect The Front Door Controls."
+Objective_Info_Defender="Bescherm de bediening van de voordeur."
+
+[DestroyableObjective_SM4]
+; EN: DestructionMessage="Front Gate Destroyed!"
+DestructionMessage="Voorpoort vernietigd!"
+; EN: Objective_Info_Attacker="Destroy The Main Gate."
+Objective_Info_Attacker="Vernietig de hoofdpoort."
+; EN: Objective_Info_Defender="Protect The Main Gate."
+Objective_Info_Defender="Bescherm de hoofdpoort."
+
+[HoldObjective1]
+; EN: DestructionMessage="Vault Lock Opened!"
+DestructionMessage="Kluisslot geopend!"
+; EN: Objective_Info_Attacker="Use The Keys To Open The Vault."
+Objective_Info_Attacker="Gebruik de sleutels om de kluis te openen."
+; EN: Objective_Info_Defender="Protect The Entrance To The Vault."
+Objective_Info_Defender="Bescherm de ingang van de kluis."
+
+[HoldObjective2]
+; EN: DestructionMessage="Vault Lock Opened!"
+DestructionMessage="Kluisslot geopend!"
+; EN: Objective_Info_Attacker="Use The Keys To Open The Vault."
+Objective_Info_Attacker="Gebruik de sleutels om de kluis te openen."
+; EN: Objective_Info_Defender="Protect The Entrance To The Vault."
+Objective_Info_Defender="Bescherm de ingang van de kluis."
+
+[HoldObjective3]
+; EN: DestructionMessage="The Keys Have Been Stolen!"
+DestructionMessage="De sleutels zijn gestolen!"
+; EN: Objective_Info_Attacker="Get the keys from the Central Office."
+Objective_Info_Attacker="Pak de sleutels uit het centrale kantoor."
+; EN: Objective_Info_Defender="Protect the Central Office."
+Objective_Info_Defender="Bescherm het centrale kantoor."
+
+[LevelInfo0]
+Title="Sub Rosa"
+
+[LevelSummary]
+Title="Sub Rosa"
+; EN: Description="Every rose has thorns, and even the most pristine worlds can hide sinister intentions."
+Description="Elke roos heeft doornen, en zelfs de meest ongerepte werelden kunnen kwade bedoelingen verbergen."
+
+[SceneSubtitles0]
+; EN: SubTitles=("This scenario recreates the invasion of the Central Liandri Information compound by N.E.G. forces.","The New Earth Government discovered that the Liandri were transferring experimental weapons data through the facility, and sent an elite squad in to retrieve the research.","The attackers must first make their way to the compound and destroy the main gate to get into the courtyard.",,"Then you must destroy the front door controls to gain access to the main building.",,"Once inside, you must make your way to the central office to get the keys to the vault.",,"Next, use the keys to open the vault doors.",,"Once inside the vault, you must destroy the protective shield around the data stick.","Then, you must deliver the data stick to the access station in order to realign the antenna.",,"Finally, you must move the updated data from the antenna to the terminal, and transmit the weapon data to the N.E.G.",)
+SubTitles=("Dit scenario speelt de invasie van het Centrale Informatiecomplex van Liandri door N.E.G.-troepen na.","De Nieuwe Aardse Regering ontdekte dat Liandri experimentele wapengegevens via de faciliteit verstuurde en stuurde een eliteteam om het onderzoek buit te maken.","De aanvallers moeten eerst naar het complex en de hoofdpoort vernietigen om op de binnenplaats te komen.",,"Daarna moet je de bediening van de voordeur vernietigen om toegang te krijgen tot het hoofdgebouw.",,"Eenmaal binnen moet je naar het centrale kantoor om de sleutels van de kluis te halen.",,"Gebruik daarna de sleutels om de kluisdeuren te openen.",,"Eenmaal in de kluis moet je het beschermende schild rond de datastick vernietigen.","Breng daarna de datastick naar het toegangsstation om de antenne bij te stellen.",,"Tot slot moet je de bijgewerkte gegevens van de antenne naar de terminal brengen en de wapengegevens naar de N.E.G. versturen.",)
+
+[ZoneInfo0]
+; EN: LocationName="Outside"
+LocationName="Buiten"
+
+[ZoneInfo1]
+; EN: LocationName="Main Hall"
+LocationName="Hoofdhal"
+
+[ZoneInfo2]
+; EN: LocationName="Office"
+LocationName="Kantoor"
+
+[ZoneInfo3]
+; EN: LocationName="Vault Locks"
+LocationName="Kluissloten"
+
+[ZoneInfo4]
+; EN: LocationName="Vault Locks"
+LocationName="Kluissloten"
+
+[ZoneInfo5]
+; EN: LocationName="Vault Locks"
+LocationName="Kluissloten"
+
+[ZoneInfo6]
+; EN: LocationName="Inside Vault"
+LocationName="In de kluis"
+
+[ZoneInfo7]
+; EN: LocationName="Radio Terminal"
+LocationName="Radioterminal"
+

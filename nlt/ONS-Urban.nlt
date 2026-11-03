@@ -1,0 +1,194 @@
+﻿[LevelInfo0]
+Title="Urban"
+
+[LevelSummary]
+Title="Urban"
+; EN: Description="Once the pinnacle of modernized civilization, this dense urban center has since fallen victim to crime, corruption, and civil war. Now mostly vacant, it has become a haven for underground criminal activity and lawlessness. LMC organizers jumped at the opportunity to own this prime piece of real estate. Instead of leveling the area and constructing a new arena, they decided to let the combatants do the demolition work themselves."
+Description="Ooit het toppunt van de moderne beschaving, is dit dichtbebouwde stadscentrum inmiddels ten prooi gevallen aan misdaad, corruptie en burgeroorlog. Nu het grotendeels leegstaat, is het een vrijplaats geworden voor ondergrondse criminaliteit en wetteloosheid. De organisatoren van LMC grepen de kans om deze toplocatie in handen te krijgen. In plaats van het gebied plat te gooien en een nieuwe arena te bouwen, besloten ze de strijders het sloopwerk zelf te laten doen."
+
+[Volume0]
+; EN: LocationName="Blue Base"
+LocationName="Blauwe basis"
+
+[Volume2]
+; EN: LocationName="Center Node (5)"
+LocationName="Middennode (5)"
+
+[Volume3]
+; EN: LocationName="Blue Prime Node (3)"
+LocationName="Blauwe hoofdnode (3)"
+
+[Volume4]
+; EN: LocationName="Blue Subway Node (2)"
+LocationName="Blauwe metronode (2)"
+
+[Volume5]
+; EN: LocationName="Blue Leviathan Node (7)"
+LocationName="Blauwe Leviathan-node (7)"
+
+[Volume6]
+; EN: LocationName="Red Base"
+LocationName="Rode basis"
+
+[Volume7]
+; EN: LocationName="Red Prime Node (4)"
+LocationName="Rode hoofdnode (4)"
+
+[Volume8]
+; EN: LocationName="Red Subway Node (1)"
+LocationName="Rode metronode (1)"
+
+[Volume9]
+; EN: LocationName="Red Leviathan Node (6)"
+LocationName="Rode Leviathan-node (6)"
+
+[ZoneInfo0]
+; EN: LocationName="Sewers"
+LocationName="Riolen"
+
+[ZoneInfo10]
+; EN: LocationName="Caudle Ave. (West)"
+LocationName="Caudle Ave. (west)"
+
+[ZoneInfo11]
+; EN: LocationName="Eastern Ruins"
+LocationName="Oostelijke ruïnes"
+
+[ZoneInfo12]
+; EN: LocationName="Caudle Ave. (East)"
+LocationName="Caudle Ave. (oost)"
+
+[ZoneInfo13]
+; EN: LocationName="Caudle Ave. (East)"
+LocationName="Caudle Ave. (oost)"
+
+[ZoneInfo14]
+LocationName="Blezinski Blvd."
+
+[ZoneInfo15]
+; EN: LocationName="Blue Base Entrance"
+LocationName="Ingang blauwe basis"
+
+[ZoneInfo16]
+; EN: LocationName="Blue Base Entrance"
+LocationName="Ingang blauwe basis"
+
+[ZoneInfo17]
+; EN: LocationName="Blue Base Entrance"
+LocationName="Ingang blauwe basis"
+
+[ZoneInfo18]
+; EN: LocationName="Blue Base Entrance"
+LocationName="Ingang blauwe basis"
+
+[ZoneInfo2]
+; EN: LocationName="Blue Leviathan Courtyard"
+LocationName="Blauwe Leviathan-binnenplaats"
+
+[ZoneInfo20]
+; EN: LocationName="Blezinski Blvd. (East)"
+LocationName="Blezinski Blvd. (oost)"
+
+[ZoneInfo21]
+; EN: LocationName="Western Ruins"
+LocationName="Westelijke ruïnes"
+
+[ZoneInfo22]
+; EN: LocationName="Blezinski Blvd. (West)"
+LocationName="Blezinski Blvd. (west)"
+
+[ZoneInfo23]
+; EN: LocationName="Blezinski Blvd. (West)"
+LocationName="Blezinski Blvd. (west)"
+
+[ZoneInfo24]
+; EN: LocationName="Red Leviathan Courtyard"
+LocationName="Rode Leviathan-binnenplaats"
+
+[ZoneInfo25]
+; EN: LocationName="Red Subway Entrance"
+LocationName="Ingang rode metro"
+
+[ZoneInfo26]
+; EN: LocationName="Blue Subway"
+LocationName="Blauwe metro"
+
+[ZoneInfo27]
+; EN: LocationName="Blue Subway"
+LocationName="Blauwe metro"
+
+[ZoneInfo28]
+; EN: LocationName="Blue Forward Base"
+LocationName="Blauwe voorbasis"
+
+[ZoneInfo29]
+; EN: LocationName="Blue Power Core"
+LocationName="Blauwe Power Core"
+
+[ZoneInfo3]
+; EN: LocationName="Raptor Launchpad"
+LocationName="Lanceerplatform Raptor"
+
+[ZoneInfo30]
+; EN: LocationName="Northwest Dropoff"
+LocationName="Noordwestelijk afzetpunt"
+
+[ZoneInfo31]
+; EN: LocationName="Southwest Dropoff"
+LocationName="Zuidwestelijk afzetpunt"
+
+[ZoneInfo32]
+; EN: LocationName="Red Subway"
+LocationName="Rode metro"
+
+[ZoneInfo33]
+; EN: LocationName="Red Subway"
+LocationName="Rode metro"
+
+[ZoneInfo34]
+; EN: LocationName="Red Forward Base"
+LocationName="Rode voorbasis"
+
+[ZoneInfo35]
+; EN: LocationName="Red Power Core"
+LocationName="Rode Power Core"
+
+[ZoneInfo36]
+; EN: LocationName="Southeast Dropoff"
+LocationName="Zuidoostelijk afzetpunt"
+
+[ZoneInfo37]
+; EN: LocationName="Northeast Dropoff"
+LocationName="Noordoostelijk afzetpunt"
+
+[ZoneInfo38]
+; EN: LocationName="Sewers"
+LocationName="Riolen"
+
+[ZoneInfo4]
+LocationName="Caudle Ave."
+
+[ZoneInfo40]
+; EN: LocationName="Sewers"
+LocationName="Riolen"
+
+[ZoneInfo5]
+; EN: LocationName="Red Base Entrance"
+LocationName="Ingang rode basis"
+
+[ZoneInfo6]
+; EN: LocationName="Red Base Entrance"
+LocationName="Ingang rode basis"
+
+[ZoneInfo7]
+; EN: LocationName="Red Base Entrance"
+LocationName="Ingang rode basis"
+
+[ZoneInfo8]
+; EN: LocationName="Red Base Entrance"
+LocationName="Ingang rode basis"
+
+[ZoneInfo9]
+; EN: LocationName="Blue Subway Entrance"
+LocationName="Ingang blauwe metro"
+

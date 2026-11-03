@@ -1,0 +1,28 @@
+﻿[LevelInfo0]
+Title="Aridoom"
+
+[LevelSummary]
+Title="Aridoom"
+; EN: Description="The road ends here.  Only the jutting spires of age old mesas guard you from the elements... and in this case the elements are tank shells."
+Description="Hier eindigt de weg.  Alleen de uitstekende spitsen van eeuwenoude mesa's beschermen je tegen de elementen... en in dit geval zijn de elementen tankgranaten."
+
+[ZoneInfo0]
+; EN: LocationName="Red Prime Garage"
+LocationName="Rode hoofdgarage"
+
+[ZoneInfo1]
+; EN: LocationName="Outdoors"
+LocationName="Buiten"
+
+[ZoneInfo2]
+; EN: LocationName="Red Prime Garage"
+LocationName="Rode hoofdgarage"
+
+[ZoneInfo3]
+; EN: LocationName="Blue Prime Garage"
+LocationName="Blauwe hoofdgarage"
+
+[ZoneInfo4]
+; EN: LocationName="Blue Prime Garage"
+LocationName="Blauwe hoofdgarage"
+

@@ -1,0 +1,56 @@
+﻿[LevelInfo0]
+Title="Squader"
+
+[LevelSummary]
+Title="Squader"
+; EN: Description="Once a section of a hidden military research facility, this cold structure now hosts some of the premiere 1 on 1 duels from the Tournament. The pressure is on.....how will you handle the spotlight?"
+Description="Ooit een deel van een geheime militaire onderzoeksfaciliteit, nu biedt dit kille bouwwerk onderdak aan enkele van de belangrijkste 1-tegen-1-duels van het Tournament. De druk staat erop..... hoe ga jij om met de schijnwerpers?"
+
+[ZoneInfo0]
+; EN: LocationName="Super Shield Area"
+LocationName="Supershield-gebied"
+
+[ZoneInfo10]
+; EN: LocationName="UDamage Halls"
+LocationName="UDamage-hallen"
+
+[ZoneInfo11]
+; EN: LocationName="UDamage Halls"
+LocationName="UDamage-hallen"
+
+[ZoneInfo12]
+; EN: LocationName="Super Shield Area"
+LocationName="Supershield-gebied"
+
+[ZoneInfo2]
+; EN: LocationName="Minigun Lift"
+LocationName="Minigun-lift"
+
+[ZoneInfo3]
+; EN: LocationName="Flak Hall"
+LocationName="Flak-hal"
+
+[ZoneInfo4]
+; EN: LocationName="Flak Hall"
+LocationName="Flak-hal"
+
+[ZoneInfo5]
+; EN: LocationName="Double Health"
+LocationName="Dubbele gezondheid"
+
+[ZoneInfo6]
+; EN: LocationName="Bio Rifle Corner"
+LocationName="Bio Rifle-hoek"
+
+[ZoneInfo7]
+; EN: LocationName="Large Window Area"
+LocationName="Zone met groot raam"
+
+[ZoneInfo8]
+; EN: LocationName="Large Window Area"
+LocationName="Zone met groot raam"
+
+[ZoneInfo9]
+; EN: LocationName="UDamage Halls"
+LocationName="UDamage-hallen"
+

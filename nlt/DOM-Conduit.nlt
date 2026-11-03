@@ -1,0 +1,30 @@
+﻿[LevelInfo0]
+Title="Conduit"
+
+[LevelSummary]
+Title="Conduit"
+; EN: Description="The ebb and flow of static charge in the Conduit, harnessed to sate the requirements of an energy hungry society. The ebb and flow of a team battle in the Conduit, broadcast to sate the requirements of a depraved, bloodthirsty society."
+Description="Eb en vloed van statische lading in de Conduit, benut om een energiehongerige samenleving te verzadigen. Eb en vloed van een teamgevecht in de Conduit, uitgezonden om een verdorven, bloeddorstige samenleving te verzadigen."
+
+[ZoneInfo0]
+; EN: LocationName="Central base"
+LocationName="Centrale basis"
+
+[ZoneInfo1]
+; EN: LocationName="Blue  locker room"
+LocationName="Blauwe  kleedkamer"
+
+[ZoneInfo3]
+; EN: LocationName="Red  locker room"
+LocationName="Rode  kleedkamer"
+
+[ZoneInfo4]
+LocationName="DOM B"
+
+[ZoneInfo5]
+; EN: LocationName="Central conduit"
+LocationName="Centrale conduit"
+
+[ZoneInfo6]
+LocationName="DOM A"
+

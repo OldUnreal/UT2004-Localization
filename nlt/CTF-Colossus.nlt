@@ -1,0 +1,44 @@
+﻿[LevelInfo0]
+Title="Colossus"
+
+[LevelSummary]
+Title="Colossus"
+; EN: Description="By taking advantage of the fast moving high ground and the relative cover of the low, tactically proficient players can make their way to the flag practically unscathed.  Returning with the flag, on the other hand, is another matter altogether."
+Description="Door gebruik te maken van de snel bewegende hoge grond en de relatieve dekking van de lage, kunnen tactisch bekwame spelers vrijwel ongeschonden bij de vlag komen.  Terugkeren met de vlag is daarentegen een heel ander verhaal."
+
+[Volume0]
+; EN: LocationName="Blue Rear Base"
+LocationName="Blauwe achterbasis"
+
+[Volume1]
+; EN: LocationName="Blue Forward Base"
+LocationName="Blauwe voorbasis"
+
+[Volume2]
+; EN: LocationName="Neutral Zone"
+LocationName="Neutrale zone"
+
+[Volume3]
+; EN: LocationName="Red Forward Base"
+LocationName="Rode voorbasis"
+
+[Volume4]
+; EN: LocationName="Red Rear Base"
+LocationName="Rode achterbasis"
+
+[ZoneInfo1]
+; EN: LocationName="Red Bunker"
+LocationName="Rode bunker"
+
+[ZoneInfo2]
+; EN: LocationName="Blue Bunker"
+LocationName="Blauwe bunker"
+
+[xBlueFlagBase0]
+; EN: ObjectiveName="BlueFlagBase"
+ObjectiveName="Blauwe vlagbasis"
+
+[xRedFlagBase0]
+; EN: ObjectiveName="RedFlagBase"
+ObjectiveName="Rode vlagbasis"
+

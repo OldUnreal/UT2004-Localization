@@ -1,0 +1,40 @@
+﻿[LevelInfo0]
+Title="Crash"
+
+[LevelSummary]
+Title="Crash"
+; EN: Description="A long time ago, in a galaxy far away a man with a pain filled heart built this complex to fight his own tournament and to meditate about his battles in the past. The Legend doesn't say if he ever found his freedom, but it seems that screams of endless sorrow from the old walls try to give an answer..."
+Description="Lang geleden, in een sterrenstelsel hier ver vandaan, bouwde een man met een hart vol pijn dit complex om zijn eigen toernooi uit te vechten en te mediteren over zijn gevechten uit het verleden. De legende vertelt niet of hij ooit zijn vrijheid vond, maar het lijkt alsof kreten van eindeloos verdriet uit de oude muren een antwoord proberen te geven..."
+
+[ZoneInfo0]
+; EN: LocationName="Mover Corridor"
+LocationName="Gang met beweegbare platforms"
+
+[ZoneInfo1]
+; EN: LocationName="Bio Rifle Room"
+LocationName="Bio Rifle-kamer"
+
+[ZoneInfo2]
+; EN: LocationName="Shock Rifle Corridor"
+LocationName="Shock Rifle-gang"
+
+[ZoneInfo3]
+; EN: LocationName="Small Armor Room"
+LocationName="Kleine pantserkamer"
+
+[ZoneInfo4]
+; EN: LocationName="MiniGun Room"
+LocationName="Minigun-kamer"
+
+[ZoneInfo5]
+; EN: LocationName="Double Damage Room"
+LocationName="Double Damage-kamer"
+
+[ZoneInfo6]
+; EN: LocationName="Lower Corridor"
+LocationName="Onderste gang"
+
+[ZoneInfo7]
+; EN: LocationName="Flak Room"
+LocationName="Flak-kamer"
+

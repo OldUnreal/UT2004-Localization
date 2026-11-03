@@ -1,0 +1,291 @@
+﻿[ASCriticalObjectiveVolume1]
+; EN: LocationName="Coolant Valve Control"
+LocationName="Bediening koelvloeistofklep"
+
+[ASCriticalObjectiveVolume2]
+; EN: LocationName="Teleporter Console"
+LocationName="Teleporterconsole"
+
+[ASCriticalObjectiveVolume3]
+; EN: LocationName="Jump Engine A Control"
+LocationName="Bediening sprongmotor A"
+
+[ASCriticalObjectiveVolume4]
+; EN: LocationName="Jump Engine B Control"
+LocationName="Bediening sprongmotor B"
+
+[ASCriticalObjectiveVolume5]
+; EN: LocationName="Central Computer Console"
+LocationName="Centrale computerconsole"
+
+[DestroyableObjective_SM0]
+; EN: DestructionMessage="Coolant Valve Control Destroyed!"
+DestructionMessage="Bediening koelvloeistofklep vernietigd!"
+; EN: ObjectiveDescription="Destroy Thermal Control Regulator to cool Jumpship engines."
+ObjectiveDescription="Vernietig de thermische regelaar om de motoren van het sprongschip te koelen."
+; EN: Objective_Info_Attacker="Destroy Thermal Control Regulator"
+Objective_Info_Attacker="Vernietig de thermische regelaar"
+; EN: Objective_Info_Defender="Protect Thermal Control Regulator"
+Objective_Info_Defender="Bescherm de thermische regelaar"
+
+[DestroyableObjective_SM1]
+; EN: ObjectiveName="Pressure Valve"
+ObjectiveName="Drukventiel"
+; EN: DestructionMessage="Pressure valve destroyed!"
+DestructionMessage="Drukventiel vernietigd!"
+; EN: ObjectiveDescription="Destroy Hydraulic Pressure Valves to release the Jumpship"
+ObjectiveDescription="Vernietig de hydraulische drukventielen om het sprongschip los te maken"
+; EN: Objective_Info_Attacker="Destroy Hydraulic Valves"
+Objective_Info_Attacker="Vernietig de hydraulische ventielen"
+; EN: Objective_Info_Defender="Protect Hydraulic Valves"
+Objective_Info_Defender="Bescherm de hydraulische ventielen"
+
+[DestroyableObjective_SM2]
+; EN: ObjectiveName="Pressure Valve"
+ObjectiveName="Drukventiel"
+; EN: DestructionMessage="Pressure valve destroyed!"
+DestructionMessage="Drukventiel vernietigd!"
+; EN: ObjectiveDescription="Destroy Hydraulic Pressure Valves to release the Jumpship"
+ObjectiveDescription="Vernietig de hydraulische drukventielen om het sprongschip los te maken"
+; EN: Objective_Info_Attacker="Destroy Hydraulic Valves"
+Objective_Info_Attacker="Vernietig de hydraulische ventielen"
+; EN: Objective_Info_Defender="Protect Hydraulic Valves"
+Objective_Info_Defender="Bescherm de hydraulische ventielen"
+
+[DestroyableObjective_SM3]
+; EN: ObjectiveName="Pressure Valve"
+ObjectiveName="Drukventiel"
+; EN: DestructionMessage="Pressure valve destroyed!"
+DestructionMessage="Drukventiel vernietigd!"
+; EN: ObjectiveDescription="Destroy Hydraulic Pressure Valves to release the Jumpship"
+ObjectiveDescription="Vernietig de hydraulische drukventielen om het sprongschip los te maken"
+; EN: Objective_Info_Attacker="Destroy Hydraulic Valves"
+Objective_Info_Attacker="Vernietig de hydraulische ventielen"
+; EN: Objective_Info_Defender="Protect Hydraulic Valves"
+Objective_Info_Defender="Bescherm de hydraulische ventielen"
+
+[DestroyableObjective_SM4]
+; EN: ObjectiveName="Pressure Valve"
+ObjectiveName="Drukventiel"
+; EN: DestructionMessage="Pressure valve destroyed!"
+DestructionMessage="Drukventiel vernietigd!"
+; EN: ObjectiveDescription="Destroy Hydraulic Pressure Valves to release the Jumpship"
+ObjectiveDescription="Vernietig de hydraulische drukventielen om het sprongschip los te maken"
+; EN: Objective_Info_Attacker="Destroy Hydraulic Valves"
+Objective_Info_Attacker="Vernietig de hydraulische ventielen"
+; EN: Objective_Info_Defender="Protect Hydraulic Valves"
+Objective_Info_Defender="Bescherm de hydraulische ventielen"
+
+[DestroyableObjective_SM5]
+; EN: ObjectiveName="Computer Lock"
+ObjectiveName="Computerslot"
+; EN: DestructionMessage="Computer Lock Destroyed!"
+DestructionMessage="Computerslot vernietigd!"
+; EN: ObjectiveDescription="Destroy the computer Routers to gain navigation control of the Jumpship."
+ObjectiveDescription="Vernietig de computerrouters om de navigatie van het sprongschip over te nemen."
+; EN: Objective_Info_Attacker="Destroy Computer Routers"
+Objective_Info_Attacker="Vernietig de computerrouters"
+; EN: Objective_Info_Defender="Defend Computer Routers"
+Objective_Info_Defender="Verdedig de computerrouters"
+
+[DestroyableObjective_SM6]
+; EN: ObjectiveName="Computer Lock"
+ObjectiveName="Computerslot"
+; EN: DestructionMessage="Computer Lock Destroyed!"
+DestructionMessage="Computerslot vernietigd!"
+; EN: ObjectiveDescription="Destroy the computer Routers to gain navigation control of the Jumpship."
+ObjectiveDescription="Vernietig de computerrouters om de navigatie van het sprongschip over te nemen."
+; EN: Objective_Info_Attacker="Destroy Computer Routers"
+Objective_Info_Attacker="Vernietig de computerrouters"
+; EN: Objective_Info_Defender="Defend Computer Routers"
+Objective_Info_Defender="Verdedig de computerrouters"
+
+[HoldObjective0]
+; EN: DestructionMessage="Engine Activated!"
+DestructionMessage="Motor geactiveerd!"
+; EN: ObjectiveDescription="Hold  the switch to activate the Jump Engine."
+ObjectiveDescription="Houd de schakelaar vast om de sprongmotor te activeren."
+; EN: Objective_Info_Attacker="Activate Jump Engines"
+Objective_Info_Attacker="Activeer de sprongmotoren"
+; EN: Objective_Info_Defender="Defend Jump Engines"
+Objective_Info_Defender="Verdedig de sprongmotoren"
+
+[HoldObjective1]
+; EN: DestructionMessage="Engine Activated!"
+DestructionMessage="Motor geactiveerd!"
+; EN: ObjectiveDescription="Hold  the switch to activate the Jump Engine."
+ObjectiveDescription="Houd de schakelaar vast om de sprongmotor te activeren."
+; EN: Objective_Info_Attacker="Activate Jump Engines"
+Objective_Info_Attacker="Activeer de sprongmotoren"
+; EN: Objective_Info_Defender="Defend Jump Engines"
+Objective_Info_Defender="Verdedig de sprongmotoren"
+
+[HoldObjective2]
+; EN: ObjectiveName="Central Computer Terminal"
+ObjectiveName="Centrale computerterminal"
+; EN: DestructionMessage="Computer Programmed!"
+DestructionMessage="Computer geprogrammeerd!"
+; EN: ObjectiveDescription="Touch and hold computer console to program jump coordinates."
+ObjectiveDescription="Raak de computerconsole aan en houd vast om de sprongcoördinaten te programmeren."
+; EN: Objective_Info_Attacker="Program Jump Coordinates"
+Objective_Info_Attacker="Programmeer de sprongcoördinaten"
+; EN: Objective_Info_Defender="Prevent attackers from programming jump coordinates."
+Objective_Info_Defender="Voorkom dat de aanvallers de sprongcoördinaten programmeren."
+
+[LevelInfo0]
+Title="Jumpship BP2"
+
+[LevelSummary]
+Title="Jumpship BP2"
+; EN: Description="During the height of the Corporation Wars, Liandri scientists created a prototype Warship capable of making its own jumps without the need for a jumpgate.  Shortly before its maiden voyage, Izanagi spies learned of the prototype Jumpship and launched an operation to steal it.  This scenario recreates the historic battle in which Izanagi forces infiltrated the prototype Liandri Jumpship, activated its engines, and made a successful jump to Izanagi space."
+Description="Op het hoogtepunt van de Bedrijfsoorlogen bouwden wetenschappers van Liandri een prototype oorlogsschip dat zelf kon springen, zonder een sprongpoort nodig te hebben.  Kort voor de eerste reis kwamen spionnen van Izanagi achter het bestaan van het prototype en zetten een operatie op touw om het te stelen.  Dit scenario speelt de historische strijd na waarin Izanagi-troepen het prototype-sprongschip van Liandri binnendrongen, de motoren activeerden en met succes naar Izanagi-ruimte sprongen."
+
+[ProximityObjective0]
+; EN: ObjectiveName="Landing Bay"
+ObjectiveName="Landingsdok"
+; EN: DestructionMessage="Attackers have entered the jumpship!"
+DestructionMessage="Aanvallers zijn het sprongschip binnengedrongen!"
+; EN: ObjectiveDescription="Fly into front bay to enter Jumpship."
+ObjectiveDescription="Vlieg het voorste dok in om het sprongschip binnen te gaan."
+; EN: Objective_Info_Attacker="Enter Jumpship"
+Objective_Info_Attacker="Ga het sprongschip binnen"
+; EN: Objective_Info_Defender="Prevent Attackers From Entering Jumpship"
+Objective_Info_Defender="Voorkom dat aanvallers het sprongschip binnengaan"
+
+[SceneSubtitles0]
+; EN: SubTitles=("During the height of the Corporation Wars, Liandri scientists created a prototype warship capable of making its own jumps without the need for a jumpgate.","Shortly before its maiden voyage, Izanagi spies learned of the prototype jumpship and launched an operation to steal it.  Success would give the Izanagi Corporation a significant advantage during the Wars.","This scenario recreates the historic battle in which Izanagi forces infiltrated the prototype Liandri jumpship, activated its engines, and made a successful jump to Izanagi space.","The jumpship is receiving power from the construction dock.  It is moored to the dock via four docking arms. ","Destroy the hydraulic valves controlling each arm to place the jumpship under internal power and release it from the dock.","After the four valves are destroyed, enter the jumpship through the docking bay.",,"Destroy the Thermal Control Regulator to cool the jump engines.  This will allow them to be powered safely.",,"Use this console to activate the ship's internal navigation systems.",,"Use the levers to inject the engine coolant and disable the safety lock on both of the jump engines.",,"The ship's bridge is too heavily defended for a direct attack, so your team will need to access the central computer deep within the ship's core.","Once you have reached the computer, use this console to reroute power from the bridge and enter the new jump coordinates.","Finally, destroy both computer routers.  This will disable all remaining safety protocols, activate the Jumpship, and end the match.")
+SubTitles=("Op het hoogtepunt van de Bedrijfsoorlogen bouwden wetenschappers van Liandri een prototype oorlogsschip dat zelf kon springen, zonder een sprongpoort nodig te hebben.","Kort voor de eerste reis kwamen spionnen van Izanagi achter het bestaan van het prototype-sprongschip en zetten een operatie op touw om het te stelen.  Succes zou Izanagi Corporation een flink voordeel geven in de oorlogen.","Dit scenario speelt de historische strijd na waarin Izanagi-troepen het prototype-sprongschip van Liandri binnendrongen, de motoren activeerden en met succes naar Izanagi-ruimte sprongen.","Het sprongschip krijgt stroom van het bouwdok.  Het ligt aan het dok vast met vier koppelarmen. ","Vernietig de hydraulische ventielen van elke arm om het sprongschip op eigen stroom te zetten en los te maken van het dok.","Ga na het vernietigen van de vier ventielen het sprongschip binnen via het dok.",,"Vernietig de thermische regelaar om de sprongmotoren te koelen.  Dan kunnen ze veilig worden aangezet.",,"Gebruik deze console om de interne navigatiesystemen van het schip te activeren.",,"Gebruik de hendels om koelvloeistof in te spuiten en de veiligheidsvergrendeling van beide sprongmotoren uit te schakelen.",,"De brug van het schip is te zwaar verdedigd voor een directe aanval, dus je team moet de centrale computer diep in de kern van het schip bereiken.","Gebruik bij de computer deze console om de stroom van de brug om te leiden en de nieuwe sprongcoördinaten in te voeren.","Vernietig tot slot beide computerrouters.  Dit schakelt alle overige veiligheidsprotocollen uit, activeert het sprongschip en beëindigt de wedstrijd.")
+
+[TriggeredObjective0]
+; EN: ObjectiveName="Teleporter Room Controls"
+ObjectiveName="Bediening teleporterruimte"
+; EN: DestructionMessage="Teleporters Activated!"
+DestructionMessage="Teleporters geactiveerd!"
+; EN: ObjectiveDescription="Activate the ship's internal navigation systems."
+ObjectiveDescription="Activeer de interne navigatiesystemen van het schip."
+; EN: Objective_Info_Attacker="Activate the Navigation Computer"
+Objective_Info_Attacker="Activeer de navigatiecomputer"
+; EN: Objective_Info_Defender="Defend the Navigation Computer"
+Objective_Info_Defender="Verdedig de navigatiecomputer"
+
+[ZoneInfo0]
+; EN: LocationName="In Space"
+LocationName="In de ruimte"
+
+[ZoneInfo1]
+; EN: LocationName="Landing Bay 1 Hall"
+LocationName="Gang landingsdok 1"
+
+[ZoneInfo10]
+; EN: LocationName="Jump Engine A Hall"
+LocationName="Gang sprongmotor A"
+
+[ZoneInfo11]
+; EN: LocationName="Ship Bridge"
+LocationName="Scheepsbrug"
+
+[ZoneInfo12]
+; EN: LocationName="Landing Bay 1 Hall"
+LocationName="Gang landingsdok 1"
+
+[ZoneInfo13]
+; EN: LocationName="Landing Bay 2 Hall"
+LocationName="Gang landingsdok 2"
+
+[ZoneInfo14]
+; EN: LocationName="Landing Bay 2 Hall"
+LocationName="Gang landingsdok 2"
+
+[ZoneInfo15]
+; EN: LocationName="Coolant Control"
+LocationName="Koelvloeistofregeling"
+
+[ZoneInfo16]
+; EN: LocationName="Teleporter Room"
+LocationName="Teleporterruimte"
+
+[ZoneInfo17]
+; EN: LocationName="Teleporter Room"
+LocationName="Teleporterruimte"
+
+[ZoneInfo18]
+; EN: LocationName="Jump Engine A Hall"
+LocationName="Gang sprongmotor A"
+
+[ZoneInfo19]
+; EN: LocationName="Jump Engine B Hall"
+LocationName="Gang sprongmotor B"
+
+[ZoneInfo2]
+LocationName="Hangar"
+
+[ZoneInfo20]
+; EN: LocationName="In Space"
+LocationName="In de ruimte"
+
+[ZoneInfo22]
+; EN: LocationName="Jump Engine B Hall"
+LocationName="Gang sprongmotor B"
+
+[ZoneInfo24]
+; EN: LocationName="Jump Engine A"
+LocationName="Sprongmotor A"
+
+[ZoneInfo25]
+; EN: LocationName="Jump Engine B"
+LocationName="Sprongmotor B"
+
+[ZoneInfo27]
+LocationName="Hangar"
+
+[ZoneInfo28]
+; EN: LocationName="Central Computer Hall"
+LocationName="Gang centrale computer"
+
+[ZoneInfo29]
+; EN: LocationName="Central Computer Core"
+LocationName="Kern centrale computer"
+
+[ZoneInfo3]
+LocationName="Hangar"
+
+[ZoneInfo30]
+; EN: LocationName="Central Computer Core"
+LocationName="Kern centrale computer"
+
+[ZoneInfo31]
+; EN: LocationName="Central Computer Core"
+LocationName="Kern centrale computer"
+
+[ZoneInfo35]
+; EN: LocationName="Coolant Control"
+LocationName="Koelvloeistofregeling"
+
+[ZoneInfo36]
+; EN: LocationName="Central Computer Core"
+LocationName="Kern centrale computer"
+
+[ZoneInfo37]
+; EN: LocationName="Coolant Control"
+LocationName="Koelvloeistofregeling"
+
+[ZoneInfo4]
+; EN: LocationName="Landing Bay 1"
+LocationName="Landingsdok 1"
+
+[ZoneInfo5]
+LocationName="Hangar"
+
+[ZoneInfo6]
+LocationName="Hangar"
+
+[ZoneInfo7]
+LocationName="Hangar"
+
+[ZoneInfo8]
+; EN: LocationName="Landing Bay 2"
+LocationName="Landingsdok 2"
+
+[ZoneInfo9]
+LocationName="Hangar"
+
