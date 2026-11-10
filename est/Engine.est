@@ -275,8 +275,6 @@ ConnectingURL=%s://%s/%s
 ; EN: CorruptConnect="Incompatible Game Files!"
 CorruptConnect="¡Archivos de juegos incompatibles!"
 
-ReceiveTotalPackages="%i of %i Packages Downloaded"
-ReceiveTotalSize="Total Uncompressed Size %iK, Complete %3.1f%% (%iK)"
 [UpgradeDrivers]
 ; EN: OutdatedDrivers="You are running old graphics card drivers that might not work in conjunction with the game."
 OutdatedDrivers="Tienes una tarjeta gráfica antigua que puede que no funcione con este juego."
