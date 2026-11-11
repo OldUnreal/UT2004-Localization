@@ -1,0 +1,52 @@
+﻿[LevelInfo0]
+Title="Pistola Battle Grounds"
+
+[LevelSummary]
+Title="Pistola Battle Grounds"
+; EN: Description="This twin complex of concrete and metal combines the beauty of nature with the harsh lines of industrial architecture to create a fierce battle arena.  Where is my Pistola?"
+Description="Dit dubbele complex van beton en metaal combineert de schoonheid van de natuur met de harde lijnen van industriële architectuur tot een woeste gevechtsarena.  Waar is mijn Pistola?"
+
+[ZoneInfo0]
+; EN: LocationName="Outside"
+LocationName="Buiten"
+
+[ZoneInfo1]
+; EN: LocationName="Blue Flagroom"
+LocationName="Blauwe vlagkamer"
+
+[ZoneInfo11]
+; EN: LocationName="Red Flagroom"
+LocationName="Rode vlagkamer"
+
+[ZoneInfo12]
+; EN: LocationName="Red Interials A"
+LocationName="Rood interieur A"
+
+[ZoneInfo13]
+; EN: LocationName="Red Interials B"
+LocationName="Rood interieur B"
+
+[ZoneInfo14]
+; EN: LocationName="Red Flak Foyer"
+LocationName="Rode Flak-foyer"
+
+[ZoneInfo15]
+; EN: LocationName="Red Foyer A"
+LocationName="Rode foyer A"
+
+[ZoneInfo2]
+; EN: LocationName="Blue Interials A"
+LocationName="Blauw interieur A"
+
+[ZoneInfo3]
+; EN: LocationName="Blue Interials B"
+LocationName="Blauw interieur B"
+
+[ZoneInfo4]
+; EN: LocationName="Blue Flak Foyer"
+LocationName="Blauwe Flak-foyer"
+
+[ZoneInfo5]
+; EN: LocationName="Blue Foyer A"
+LocationName="Blauwe foyer A"
+

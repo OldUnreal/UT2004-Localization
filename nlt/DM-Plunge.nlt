@@ -1,0 +1,62 @@
+﻿[LevelInfo0]
+Title="Plunge"
+
+[LevelSummary]
+Title="Plunge"
+
+[PhysicsVolume0]
+; EN: LocationName="8 Miles High"
+LocationName="13 kilometer hoog"
+
+[ZoneInfo1]
+; EN: LocationName="Outside"
+LocationName="Buiten"
+
+[ZoneInfo2]
+; EN: LocationName="Green Tower Corridor"
+LocationName="Gang groene toren"
+
+[ZoneInfo4]
+; EN: LocationName="Pink Tower - Bottom"
+LocationName="Roze toren - onderkant"
+
+[ZoneInfo6]
+; EN: LocationName="Green Tower Corridor"
+LocationName="Gang groene toren"
+
+[ZoneInfo7]
+; EN: LocationName="Green Tower Corridor"
+LocationName="Gang groene toren"
+
+[ZoneInfo8]
+; EN: LocationName="Green Tower Corridor"
+LocationName="Gang groene toren"
+
+[ZoneInfo13]
+; EN: LocationName="Yellow Tower Corridor"
+LocationName="Gang gele toren"
+
+[ZoneInfo21]
+; EN: LocationName="Yellow Tower Corridor"
+LocationName="Gang gele toren"
+
+[ZoneInfo22]
+; EN: LocationName="Yellow Tower Corridor"
+LocationName="Gang gele toren"
+
+[ZoneInfo23]
+; EN: LocationName="Yellow Tower Corridor"
+LocationName="Gang gele toren"
+
+[ZoneInfo24]
+; EN: LocationName="Yellow Tower Corridor"
+LocationName="Gang gele toren"
+
+[ZoneInfo25]
+; EN: LocationName="Yellow Tower Boiler"
+LocationName="Ketel gele toren"
+
+[ZoneInfo27]
+; EN: LocationName="Yellow Tower Spawn"
+LocationName="Spawn gele toren"
+

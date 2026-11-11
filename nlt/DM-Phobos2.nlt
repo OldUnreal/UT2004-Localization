@@ -1,0 +1,122 @@
+﻿[LevelInfo0]
+Title="Phobos Moon 2"
+
+[LevelSummary]
+Title="Phobos Moon 2"
+
+[Volume1]
+; EN: LocationName="Link Gun Room"
+LocationName="Link Gun-kamer"
+
+[Volume2]
+; EN: LocationName="Tower"
+LocationName="Toren"
+
+[ZoneInfo0]
+; EN: LocationName="Space"
+LocationName="Ruimte"
+
+[ZoneInfo1]
+; EN: LocationName="Minigun Corridor"
+LocationName="Minigun-gang"
+
+[ZoneInfo10]
+; EN: LocationName="Rocket Launcher Room"
+LocationName="Rocket Launcher-ruimte"
+
+[ZoneInfo11]
+; EN: LocationName="Minigun Corridor"
+LocationName="Minigun-gang"
+
+[ZoneInfo12]
+; EN: LocationName="Bio Rifle Corridor"
+LocationName="Bio Rifle-gang"
+
+[ZoneInfo13]
+; EN: LocationName="Minigun Corridor"
+LocationName="Minigun-gang"
+
+[ZoneInfo14]
+; EN: LocationName="Shock Rifle Corridor"
+LocationName="Shock Rifle-gang"
+
+[ZoneInfo15]
+; EN: LocationName="Central"
+LocationName="Centraal"
+
+[ZoneInfo16]
+; EN: LocationName="Sniper Room"
+LocationName="Sluipschutterskamer"
+
+[ZoneInfo17]
+; EN: LocationName="Super Health Room"
+LocationName="Super Health-kamer"
+
+[ZoneInfo18]
+; EN: LocationName="Sniper Corridor"
+LocationName="Sluipschuttersgang"
+
+[ZoneInfo19]
+; EN: LocationName="Central"
+LocationName="Centraal"
+
+[ZoneInfo2]
+; EN: LocationName="Super Health Room"
+LocationName="Super Health-kamer"
+
+[ZoneInfo20]
+; EN: LocationName="Flak Corridor"
+LocationName="Flak-gang"
+
+[ZoneInfo21]
+; EN: LocationName="Flak Corridor"
+LocationName="Flak-gang"
+
+[ZoneInfo22]
+; EN: LocationName="Flak Corridor"
+LocationName="Flak-gang"
+
+[ZoneInfo23]
+; EN: LocationName="Shock Rifle Corridor"
+LocationName="Shock Rifle-gang"
+
+[ZoneInfo24]
+; EN: LocationName="Central"
+LocationName="Centraal"
+
+[ZoneInfo25]
+; EN: LocationName="Shield Corridor"
+LocationName="Schildgang"
+
+[ZoneInfo26]
+; EN: LocationName="Bio Rifle Corridor"
+LocationName="Bio Rifle-gang"
+
+[ZoneInfo3]
+; EN: LocationName="Super Health Room"
+LocationName="Super Health-kamer"
+
+[ZoneInfo4]
+; EN: LocationName="Super Health Room"
+LocationName="Super Health-kamer"
+
+[ZoneInfo5]
+; EN: LocationName="Bio Rifle Corridor"
+LocationName="Bio Rifle-gang"
+
+[ZoneInfo6]
+; EN: LocationName="Link Gun Room"
+LocationName="Link Gun-kamer"
+
+[ZoneInfo7]
+; EN: LocationName="Central"
+LocationName="Centraal"
+
+[ZoneInfo8]
+; EN: LocationName="Shock Rifle Corridor"
+LocationName="Shock Rifle-gang"
+
+[ZoneInfo9]
+; EN: LocationName="Flak Corridor"
+LocationName="Flak-gang"
+

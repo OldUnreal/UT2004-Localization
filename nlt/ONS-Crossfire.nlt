@@ -1,0 +1,56 @@
+﻿[LevelInfo0]
+Title="Crossfire"
+
+[LevelSummary]
+Title="Crossfire"
+; EN: Description="In 2352, an anomalous volcanic eruption on the outskirts of Jerusalem partially unearthed a city far below the lost city of Ekron. Four years of intensive excavation revealed a civilization that predated all known human history. Purchased by Liandri corporation for the price of excavation, the souls of arena combatants now join the forgotten dead of the unremembered past."
+Description="In 2352 legde een ongewone vulkaanuitbarsting aan de rand van Jeruzalem een deel bloot van een stad diep onder de verloren stad Ekron. Vier jaar intensieve opgravingen brachten een beschaving aan het licht die ouder was dan de hele bekende menselijke geschiedenis. Liandri kocht de stad voor de prijs van de opgraving, en nu voegen de zielen van arenastrijders zich bij de vergeten doden van een vergeten verleden."
+
+[Volume10]
+; EN: LocationName="Central Node (8)"
+LocationName="Centrale node (8)"
+
+[Volume11]
+; EN: LocationName="Red Base"
+LocationName="Rode basis"
+
+[Volume12]
+; EN: LocationName="Blue Base"
+LocationName="Blauwe basis"
+
+[Volume13]
+; EN: LocationName="Middle North Node (7)"
+LocationName="Midden-noordnode (7)"
+
+[Volume14]
+; EN: LocationName="Middle South Node (6)"
+LocationName="Midden-zuidnode (6)"
+
+[Volume15]
+; EN: LocationName="Red Northeast Prime Node (9)"
+LocationName="Rode noordoostelijke hoofdnode (9)"
+
+[Volume16]
+; EN: LocationName="Blue Southwest Prime Node (3)"
+LocationName="Blauwe zuidwestelijke hoofdnode (3)"
+
+[Volume17]
+; EN: LocationName="Blue West Prime Node (2)"
+LocationName="Blauwe westelijke hoofdnode (2)"
+
+[Volume18]
+; EN: LocationName="Red East Prime Node (1)"
+LocationName="Rode oostelijke hoofdnode (1)"
+
+[Volume4]
+; EN: LocationName="West Node (5)"
+LocationName="Westnode (5)"
+
+[Volume7]
+; EN: LocationName="East Node (4)"
+LocationName="Oostnode (4)"
+
+[ZoneInfo0]
+; EN: LocationName="Outside"
+LocationName="Buiten"
+

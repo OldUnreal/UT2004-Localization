@@ -1,0 +1,40 @@
+﻿[LevelInfo0]
+Title="Severance"
+
+[LevelSummary]
+Title="Severance"
+; EN: Description="Eons past, the inhabitants of these forgotten ruins summoned a being of elemental darkness, which they imprisoned and lulled to sleep with the blood of countless sacrifices. In the stillness between battles, one can sometimes hear the voice of this titan, roused from sleep, awaiting your blood."
+Description="Eeuwen geleden riepen de bewoners van deze vergeten ruïnes een wezen van elementaire duisternis op, dat ze opsloten en in slaap susten met het bloed van talloze offers. In de stilte tussen de gevechten kun je soms de stem van deze titaan horen, gewekt uit zijn slaap, wachtend op jouw bloed."
+
+[Volume10]
+; EN: LocationName="Red Base"
+LocationName="Rode basis"
+
+[Volume3]
+; EN: LocationName="Blue Prime Node (4)"
+LocationName="Blauwe hoofdnode (4)"
+
+[Volume4]
+; EN: LocationName="Northwest Node (3)"
+LocationName="Noordwestnode (3)"
+
+[Volume5]
+; EN: LocationName="Center Node (1)"
+LocationName="Middennode (1)"
+
+[Volume6]
+; EN: LocationName="Southeast Node (2)"
+LocationName="Zuidoostnode (2)"
+
+[Volume7]
+; EN: LocationName="Red Prime Node (5)"
+LocationName="Rode hoofdnode (5)"
+
+[Volume9]
+; EN: LocationName="Blue Base"
+LocationName="Blauwe basis"
+
+[ZoneInfo0]
+; EN: LocationName="Outside"
+LocationName="Buiten"
+

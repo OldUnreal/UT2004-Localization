@@ -1,0 +1,20 @@
+﻿[LevelInfo0]
+Title="Roughinery"
+
+[LevelSummary]
+Title="Roughinery"
+; EN: Description="The remnant of an old refinery now serves as a location for your duels. Use its intricate layout to your advantage and don't lose track of your enemy."
+Description="De restanten van een oude raffinaderij dienen nu als locatie voor je duels. Gebruik de ingewikkelde indeling in je voordeel en verlies je vijand niet uit het oog."
+
+[ZoneInfo1]
+; EN: LocationName="Rocket Launcher Area"
+LocationName="Rocket Launcher-zone"
+
+[ZoneInfo2]
+; EN: LocationName="Double Health Area"
+LocationName="Dubbele gezondheidszone"
+
+[ZoneInfo3]
+; EN: LocationName="Link Gun Area"
+LocationName="Link Gun-zone"
+

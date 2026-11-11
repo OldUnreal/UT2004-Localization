@@ -1,0 +1,102 @@
+﻿[LevelInfo0]
+Title="Geothermal"
+
+[LevelSummary]
+Title="Geothermal"
+
+[Volume0]
+; EN: LocationName="Middle Walkway"
+LocationName="Middelste looppad"
+
+[WaterVolume5]
+; EN: LocationName="Blue Water"
+LocationName="Blauw water"
+
+[WaterVolume7]
+; EN: LocationName="Red Water"
+LocationName="Rood water"
+
+[ZoneInfo0]
+; EN: LocationName="RED Flag Room"
+LocationName="RODE vlagkamer"
+
+[ZoneInfo1]
+; EN: LocationName="RED Machine Room"
+LocationName="RODE machinekamer"
+
+[ZoneInfo10]
+; EN: LocationName="BLUE Machine Room"
+LocationName="BLAUWE machinekamer"
+
+[ZoneInfo11]
+; EN: LocationName="BLUE Water Room"
+LocationName="BLAUWE waterkamer"
+
+[ZoneInfo12]
+; EN: LocationName="RED Flag Room"
+LocationName="RODE vlagkamer"
+
+[ZoneInfo13]
+; EN: LocationName="Middle"
+LocationName="Midden"
+
+[ZoneInfo14]
+; EN: LocationName="RED High Entrance"
+LocationName="RODE hoge ingang"
+
+[ZoneInfo15]
+; EN: LocationName="BLUE Low Entrance"
+LocationName="BLAUWE lage ingang"
+
+[ZoneInfo19]
+; EN: LocationName="BLUE High Entrance"
+LocationName="BLAUWE hoge ingang"
+
+[ZoneInfo2]
+; EN: LocationName="RED Water Room"
+LocationName="RODE waterkamer"
+
+[ZoneInfo20]
+; EN: LocationName="BLUE High Entrance"
+LocationName="BLAUWE hoge ingang"
+
+[ZoneInfo23]
+; EN: LocationName="BLUE High Entrance"
+LocationName="BLAUWE hoge ingang"
+
+[ZoneInfo24]
+; EN: LocationName="BLUE Flag Room"
+LocationName="BLAUWE vlagkamer"
+
+[ZoneInfo25]
+; EN: LocationName="BLUE Flag Room"
+LocationName="BLAUWE vlagkamer"
+
+[ZoneInfo26]
+; EN: LocationName="BLUE High Entrance"
+LocationName="BLAUWE hoge ingang"
+
+[ZoneInfo4]
+; EN: LocationName="RED Low Entrance"
+LocationName="RODE lage ingang"
+
+[ZoneInfo5]
+; EN: LocationName="RED High Entrance"
+LocationName="RODE hoge ingang"
+
+[ZoneInfo6]
+; EN: LocationName="RED High Entrance"
+LocationName="RODE hoge ingang"
+
+[ZoneInfo7]
+; EN: LocationName="BLUE Flag Room"
+LocationName="BLAUWE vlagkamer"
+
+[ZoneInfo8]
+; EN: LocationName="RED High Entrance"
+LocationName="RODE hoge ingang"
+
+[ZoneInfo9]
+; EN: LocationName="RED Flag Room"
+LocationName="RODE vlagkamer"
+

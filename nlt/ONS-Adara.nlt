@@ -1,0 +1,79 @@
+﻿[LevelInfo0]
+Title="Adara Canyon"
+
+[LevelSummary]
+Title="Adara Canyon"
+; EN: Description="Seismic tremors and eons of erosion forged this battlefield. Adara Canyon is nature at its most awe-inspiring. But don't let the beauty fool you. Long drops claim lives and the corridor-like nature of the canyon makes AVRiL avoidance somewhat difficult."
+Description="Aardbevingen en eeuwen van erosie hebben dit slagveld gesmeed. Adara Canyon is de natuur op haar meest ontzagwekkende. Maar laat je niet misleiden door de schoonheid. Lange vallen eisen levens, en door de gangachtige vorm van de kloof is het lastig om AVRiL's te ontwijken."
+
+[Volume0]
+; EN: LocationName="Eastern Falls"
+LocationName="Oostelijke watervallen"
+
+[Volume1]
+; EN: LocationName="Western Falls"
+LocationName="Westelijke watervallen"
+
+[Volume10]
+; EN: LocationName="Blue Support Node (5)"
+LocationName="Blauwe ondersteuningsnode (5)"
+
+[Volume11]
+; EN: LocationName="South Node (3)"
+LocationName="Zuidnode (3)"
+
+[Volume13]
+; EN: LocationName="Red Prime Node (1)"
+LocationName="Rode hoofdnode (1)"
+
+[Volume14]
+; EN: LocationName="Red Power Core"
+LocationName="Rode Power Core"
+
+[Volume15]
+; EN: LocationName="Red Support Node (7)"
+LocationName="Rode ondersteuningsnode (7)"
+
+[Volume16]
+; EN: LocationName="North Node (4)"
+LocationName="Noordnode (4)"
+
+[Volume17]
+; EN: LocationName="Center Node (6)"
+LocationName="Middennode (6)"
+
+[Volume2]
+; EN: LocationName="Eastern Base"
+LocationName="Oostelijke basis"
+
+[Volume3]
+; EN: LocationName="Western Base"
+LocationName="Westelijke basis"
+
+[Volume4]
+; EN: LocationName="Northern Bridge Passage"
+LocationName="Noordelijke brugdoorgang"
+
+[Volume5]
+; EN: LocationName="Southern Bridge Passage"
+LocationName="Zuidelijke brugdoorgang"
+
+[Volume6]
+; EN: LocationName="Bridge"
+LocationName="Brug"
+
+[Volume7]
+; EN: LocationName="Central Island"
+LocationName="Centraal eiland"
+
+[Volume8]
+; EN: LocationName="Blue Prime Node (2)"
+LocationName="Blauwe hoofdnode (2)"
+
+[Volume9]
+; EN: LocationName="Blue Power Core"
+LocationName="Blauwe Power Core"
+
+[ZoneInfo0]
+LocationName="Canyon"
+

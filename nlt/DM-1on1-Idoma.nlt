@@ -1,0 +1,24 @@
+﻿[LevelInfo0]
+Title="Idoma"
+
+[LevelSummary]
+Title="Idoma"
+; EN: Description="Small atmospheric map set in a building constructed out of lots of wood and metal."
+Description="Kleine sfeervolle map in een gebouw van veel hout en metaal."
+
+[Volume0]
+; EN: LocationName="Rocket Area"
+LocationName="Raketzone"
+
+[Volume1]
+; EN: LocationName="Shield Area"
+LocationName="Schildzone"
+
+[Volume2]
+; EN: LocationName="Middle"
+LocationName="Midden"
+
+[Volume3]
+; EN: LocationName="Flak Area"
+LocationName="Flak-zone"
+

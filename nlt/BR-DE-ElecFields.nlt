@@ -1,0 +1,132 @@
+﻿[LevelInfo0]
+Title="ElecFields"
+
+[LevelSummary]
+Title="ElecFields"
+; EN: Description="The static towers of the Marakan flow have proven to be one of the most popular venues in the Tournaments since their introduction last season. The true nature of the modern gladiator is revealed as participants butcher their way to victory. Whether competing in CTF or Bombing Run competitions, players must keep one thing in mind at all times as they do battle in the poisonous skies of Purgatory -- It's a long way down."
+Description="De statische torens van de Marakan-stroom zijn sinds hun introductie vorig seizoen een van de populairste locaties van de Tournaments gebleken. De ware aard van de moderne gladiator komt boven terwijl deelnemers zich een weg naar de overwinning slachten. Of ze nu meedoen aan CTF of Bombing Run, spelers moeten tijdens hun gevecht in de giftige luchten van het Vagevuur steeds één ding onthouden -- het is een lange val naar beneden."
+
+[Volume0]
+; EN: LocationName="Blue Front"
+LocationName="Blauwe voorkant"
+
+[Volume1]
+; EN: LocationName="Blue Spawning Area"
+LocationName="Blauwe spawnzone"
+
+[Volume10]
+; EN: LocationName="Red North Base Ramp"
+LocationName="Rode noordelijke basishelling"
+
+[Volume11]
+; EN: LocationName="Red South Base Ramp"
+LocationName="Rode zuidelijke basishelling"
+
+[Volume12]
+; EN: LocationName="Blue South Front Lower Ramp"
+LocationName="Blauwe zuidelijke voorste onderhelling"
+
+[Volume13]
+; EN: LocationName="Red North Front Lower Ramp"
+LocationName="Rode noordelijke voorste onderhelling"
+
+[Volume14]
+; EN: LocationName="Blue South Front Lower Ramp"
+LocationName="Blauwe zuidelijke voorste onderhelling"
+
+[Volume15]
+; EN: LocationName="Blue North Front Lower Ramp"
+LocationName="Blauwe noordelijke voorste onderhelling"
+
+[Volume16]
+; EN: LocationName="Red North Front Lower Ramp"
+LocationName="Rode noordelijke voorste onderhelling"
+
+[Volume17]
+; EN: LocationName="Red South Front Lower Ramp"
+LocationName="Rode zuidelijke voorste onderhelling"
+
+[Volume18]
+; EN: LocationName="Top Middle Area"
+LocationName="Bovenste middengebied"
+
+[Volume19]
+; EN: LocationName="Tower Area"
+LocationName="Torengebied"
+
+[Volume2]
+; EN: LocationName="Lower Middle Area"
+LocationName="Onderste middengebied"
+
+[Volume20]
+; EN: LocationName="Blue Front Upper Ramp"
+LocationName="Blauwe voorste bovenhelling"
+
+[Volume21]
+; EN: LocationName="Blue Front Upper Ramp"
+LocationName="Blauwe voorste bovenhelling"
+
+[Volume22]
+; EN: LocationName="Blue Front Upper Ramp"
+LocationName="Blauwe voorste bovenhelling"
+
+[Volume23]
+; EN: LocationName="Red Front Upper Ramp"
+LocationName="Rode voorste bovenhelling"
+
+[Volume24]
+; EN: LocationName="Red Front Upper Ramp"
+LocationName="Rode voorste bovenhelling"
+
+[Volume25]
+; EN: LocationName="Red Front Upper Ramp"
+LocationName="Rode voorste bovenhelling"
+
+[Volume26]
+; EN: LocationName="Red South Front Lower Ramp"
+LocationName="Rode zuidelijke voorste onderhelling"
+
+[Volume27]
+; EN: LocationName="Blue North Front Lower Ramp"
+LocationName="Blauwe noordelijke voorste onderhelling"
+
+[Volume28]
+; EN: LocationName="Blue Base"
+LocationName="Blauwe basis"
+
+[Volume29]
+; EN: LocationName="Shield Platform"
+LocationName="Schildplatform"
+
+[Volume3]
+; EN: LocationName="Red Spawning Area"
+LocationName="Rode spawnzone"
+
+[Volume4]
+; EN: LocationName="Red Front"
+LocationName="Rode voorkant"
+
+[Volume5]
+; EN: LocationName="Blue South Base Ramp"
+LocationName="Blauwe zuidelijke basishelling"
+
+[Volume6]
+; EN: LocationName="Blue North Base Ramp"
+LocationName="Blauwe noordelijke basishelling"
+
+[Volume7]
+; EN: LocationName="Red Base"
+LocationName="Rode basis"
+
+[Volume8]
+; EN: LocationName="Red Front"
+LocationName="Rode voorkant"
+
+[Volume9]
+; EN: LocationName="Blue Front"
+LocationName="Blauwe voorkant"
+
+[ZoneInfo0]
+; EN: LocationName="Outside"
+LocationName="Buiten"
+

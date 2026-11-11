@@ -1,0 +1,58 @@
+﻿[LevelInfo0]
+Title="Hot Iron Injector"
+
+[LevelSummary]
+Title="Hot Iron Injector"
+; EN: Description="A recent and complex addition to the tournament, Injector is a twisting maze of imposing architecture, duct work, and generators. Watch yourself in the tighter corridors and make sure you keep your eyes peeled when going for the super shield!"
+Description="Injector, een recente en ingewikkelde toevoeging aan het Tournament, is een kronkelend doolhof van imposante architectuur, buizenwerk en generatoren. Pas op in de krappere gangen en houd je ogen goed open als je voor de Super Shield gaat!"
+
+[ZoneInfo0]
+LocationName="Supershield"
+
+[ZoneInfo10]
+LocationName="Double Damage"
+
+[ZoneInfo11]
+; EN: LocationName="Hall O Death"
+LocationName="Hal des doods"
+
+[ZoneInfo12]
+; EN: LocationName="Elbow"
+LocationName="Elleboog"
+
+[ZoneInfo13]
+; EN: LocationName="Small of Elbow"
+LocationName="Binnenkant elleboog"
+
+[ZoneInfo14]
+; EN: LocationName="Link Ammo"
+LocationName="Link-munitie"
+
+[ZoneInfo15]
+LocationName="Toilet"
+
+[ZoneInfo2]
+LocationName="Lightning Gun"
+
+[ZoneInfo3]
+; EN: LocationName="Electric Hall"
+LocationName="Elektrische hal"
+
+[ZoneInfo4]
+; EN: LocationName="Shock and BioRifle"
+LocationName="Shock en BioRifle"
+
+[ZoneInfo5]
+; EN: LocationName="RL and Link"
+LocationName="RL en Link"
+
+[ZoneInfo6]
+; EN: LocationName="Closet"
+LocationName="Kast"
+
+[ZoneInfo8]
+LocationName="Hangar"
+
+[ZoneInfo9]
+LocationName="Double Damage"
+

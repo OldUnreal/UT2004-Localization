@@ -1,0 +1,120 @@
+﻿[LevelInfo0]
+Title="Absolute Zero"
+
+[LevelSummary]
+Title="Absolute Zero"
+; EN: Description="Absolute Zero was initially constructed as a scientific outpost to study glacial drift. Over the years, global warming and massive earth tremors nearly shook the base off of its foundation. The researchers and scientists were hastily evacuated and Liandri quickly purchased the base for the Tournament. The warm reception given to you by your team may help offset the sub-zero temperatures, but don't get too comfortable, your foes have something much colder in store for you..."
+Description="Absolute Zero werd oorspronkelijk gebouwd als wetenschappelijke buitenpost om de verschuiving van gletsjers te bestuderen. In de loop der jaren schudden de opwarming van de aarde en zware aardbevingen de basis bijna van haar fundering. De onderzoekers en wetenschappers werden haastig geëvacueerd en Liandri kocht de basis snel op voor het Tournament. Het warme welkom van je team helpt misschien tegen de temperaturen onder nul, maar maak het je niet te gemakkelijk: je vijanden hebben iets veel kouders voor je in petto..."
+
+[Volume0]
+; EN: LocationName="Red Lower Generator Room"
+LocationName="Rode onderste generatorkamer"
+
+[Volume1]
+; EN: LocationName="Blue Lower Generator Room"
+LocationName="Blauwe onderste generatorkamer"
+
+[Volume10]
+; EN: LocationName="Blue Lower Hall"
+LocationName="Blauwe onderste hal"
+
+[Volume11]
+; EN: LocationName="Red Lower Hall"
+LocationName="Rode onderste hal"
+
+[Volume12]
+; EN: LocationName="Red Flag Room"
+LocationName="Rode vlagkamer"
+
+[Volume13]
+; EN: LocationName="Blue Flag Room"
+LocationName="Blauwe vlagkamer"
+
+[Volume14]
+; EN: LocationName="Blue Upper Hall A-Side"
+LocationName="Blauwe bovenste hal A-kant"
+
+[Volume15]
+; EN: LocationName="Blue Upper Hall B-Side"
+LocationName="Blauwe bovenste hal B-kant"
+
+[Volume16]
+; EN: LocationName="Blue Flag Stairs"
+LocationName="Blauwe vlagtrap"
+
+[Volume17]
+; EN: LocationName="Red Upper Hall A-Side"
+LocationName="Rode bovenste hal A-kant"
+
+[Volume18]
+; EN: LocationName="Red Upper Hall B-Side"
+LocationName="Rode bovenste hal B-kant"
+
+[Volume19]
+; EN: LocationName="Red Flag Stairs"
+LocationName="Rode vlagtrap"
+
+[Volume2]
+; EN: LocationName="Blue Upper Generator Room"
+LocationName="Blauwe bovenste generatorkamer"
+
+[Volume20]
+; EN: LocationName="Red Upper Hall"
+LocationName="Rode bovenste hal"
+
+[Volume21]
+; EN: LocationName="Blue Upper Hall"
+LocationName="Blauwe bovenste hal"
+
+[Volume23]
+; EN: LocationName="Ion Painter Bridge"
+LocationName="Ion Painter-brug"
+
+[Volume24]
+; EN: LocationName="Redeemer Bridge"
+LocationName="Redeemer-brug"
+
+[Volume25]
+; EN: LocationName="Blue Sniper Tower: Redeemer Side"
+LocationName="Blauwe sluipschutterstoren: Redeemer-kant"
+
+[Volume26]
+; EN: LocationName="Blue Sniper Tower: Painter Side"
+LocationName="Blauwe sluipschutterstoren: Painter-kant"
+
+[Volume27]
+; EN: LocationName="Red Sniper Tower: Redeemer Side"
+LocationName="Rode sluipschutterstoren: Redeemer-kant"
+
+[Volume28]
+; EN: LocationName="Red Sniper Tower: Painter Side"
+LocationName="Rode sluipschutterstoren: Painter-kant"
+
+[Volume29]
+; EN: LocationName="Blue Outside"
+LocationName="Blauw buiten"
+
+[Volume3]
+; EN: LocationName="Red Upper Generator Room"
+LocationName="Rode bovenste generatorkamer"
+
+[Volume30]
+; EN: LocationName="Red Outside"
+LocationName="Rood buiten"
+
+[Volume6]
+; EN: LocationName="Red Lower Hall B-Side"
+LocationName="Rode onderste hal B-kant"
+
+[Volume7]
+; EN: LocationName="Red Lower Hall A-Side"
+LocationName="Rode onderste hal A-kant"
+
+[Volume8]
+; EN: LocationName="Blue Lower Hall B-Side"
+LocationName="Blauwe onderste hal B-kant"
+
+[Volume9]
+; EN: LocationName="Blue Lower Hall A-Side"
+LocationName="Blauwe onderste hal A-kant"
+

@@ -1,0 +1,20 @@
+﻿[LevelInfo0]
+Title="The Junkyard"
+; EN: LevelEnterText="Welcome to the Planet of Junk"
+LevelEnterText="Welkom op de Schrootplaneet"
+
+[LevelSummary]
+Title="The Junkyard"
+; EN: Description="Down through eons, the refuse of civilizations has come to rest here.  You and your friends shall only add to the pile."
+Description="Door de eeuwen heen is het afval van beschavingen hier tot rust gekomen.  Jij en je vrienden maken de stapel alleen maar groter."
+; EN: LevelEnterText="Welcome to the Planet of Junk"
+LevelEnterText="Welkom op de Schrootplaneet"
+
+[ZoneInfo0]
+; EN: LocationName="Lost in the Junk"
+LocationName="Verdwaald in het schroot"
+
+[ZoneInfo1]
+; EN: LocationName="Lost in the Junk"
+LocationName="Verdwaald in het schroot"
+

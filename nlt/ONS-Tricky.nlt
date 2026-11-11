@@ -1,0 +1,92 @@
+﻿[LevelInfo0]
+Title="Tricky"
+
+[LevelSummary]
+Title="Tricky"
+; EN: Description="THIS SATURDAY, ONE DAY ONLY, AT THE M-M-MONSTER VALLEY ARENA, WITNESS THE AAAAWESOME SPECTACLE OF ONSLAUGHT TOURNAMENT COMBAT!!!  TWO TEAMS AND 65 TONS OF BALLS TO THE WALL GUN SLINGING VEHICULAR MAYHEM!  BE THERE FOR THE FLAMING HOOPS, THE MONSTER JUMPS, THE HALFPIPE OF BLOOD, AND THE INSANITY OF THE 150 METER TALL TOWER OF DOOM!  BE THERE!!!"
+Description="DEZE ZATERDAG, ÉÉN DAG ALLEEN, IN DE M-M-MONSTER VALLEY ARENA: BELEEF HET GEWEEEELDIGE SPEKTAKEL VAN ONSLAUGHT-TOERNOOIGEVECHTEN!!!  TWEE TEAMS EN 65 TON VOLGAS SCHIETEND VOERTUIGGEWELD!  KOM VOOR DE BRANDENDE HOEPELS, DE MONSTERSPRONGEN, DE HALFPIPE VAN BLOED EN DE WAANZIN VAN DE 150 METER HOGE TOREN DES DOODS!  WEES ERBIJ!!!"
+
+[MessageTrigger1]
+; EN: Message="cleared the Holy Shit Gap!"
+Message="heeft de Holy Shit-sprong gehaald!"
+
+[MessageTrigger10]
+; EN: Message="cleared the Ludicrous Gap!"
+Message="heeft de Ludicrous-sprong gehaald!"
+
+[MessageTrigger11]
+; EN: Message="All Gaps cleared!"
+Message="Alle sprongen gehaald!"
+
+[MessageTrigger12]
+; EN: Message="clears all Gaps!"
+Message="haalt alle sprongen!"
+
+[MessageTrigger2]
+; EN: Message="Holy Shit Gap!"
+Message="Holy Shit-sprong!"
+
+[MessageTrigger3]
+; EN: Message="Ben's sweet Gap"
+Message="Bens zoete sprong"
+
+[MessageTrigger4]
+; EN: Message="Cleared Ben's sweet Gap!"
+Message="Bens zoete sprong gehaald!"
+
+[MessageTrigger5]
+; EN: Message="Unreal Gap!"
+Message="Unreal-sprong!"
+
+[MessageTrigger6]
+; EN: Message="cleared the Unreal Gap!"
+Message="heeft de Unreal-sprong gehaald!"
+
+[MessageTrigger7]
+; EN: Message="M-M-M-Monster Gap!"
+Message="M-M-M-Monstersprong!"
+
+[MessageTrigger8]
+; EN: Message="cleared the M-M-M-Monster Gap!"
+Message="heeft de M-M-M-Monstersprong gehaald!"
+
+[MessageTrigger9]
+; EN: Message="Ludicrous Gap!"
+Message="Ludicrous-sprong!"
+
+[Volume10]
+; EN: LocationName="Red Base"
+LocationName="Rode basis"
+
+[Volume11]
+; EN: LocationName="Blue Base"
+LocationName="Blauwe basis"
+
+[Volume12]
+; EN: LocationName="Tower"
+LocationName="Toren"
+
+[Volume5]
+; EN: LocationName="Red Prime Node (3)"
+LocationName="Rode hoofdnode (3)"
+
+[Volume6]
+; EN: LocationName="Blue Prime Node (2)"
+LocationName="Blauwe hoofdnode (2)"
+
+[Volume7]
+; EN: LocationName="Southwest Node (4)"
+LocationName="Zuidwestnode (4)"
+
+[Volume8]
+; EN: LocationName="Southeast Node (5)"
+LocationName="Zuidoostnode (5)"
+
+[Volume9]
+; EN: LocationName="Center Node (1)"
+LocationName="Middennode (1)"
+
+[ZoneInfo1]
+; EN: LocationName="Outside"
+LocationName="Buiten"
+

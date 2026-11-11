@@ -1,0 +1,30 @@
+﻿[LevelInfo0]
+Title="Sepukku Gorge"
+
+[LevelSummary]
+Title="Sepukku Gorge"
+
+[Volume0]
+; EN: LocationName="Near Point B"
+LocationName="Bij punt B"
+
+[Volume1]
+; EN: LocationName="Near Point A"
+LocationName="Bij punt A"
+
+[Volume2]
+; EN: LocationName="On The Bridges"
+LocationName="Op de bruggen"
+
+[Volume3]
+; EN: LocationName="Red Cave"
+LocationName="Rode grot"
+
+[Volume4]
+; EN: LocationName="Blue Cave"
+LocationName="Blauwe grot"
+
+[ZoneInfo0]
+; EN: LocationName="Outside"
+LocationName="Buiten"
+

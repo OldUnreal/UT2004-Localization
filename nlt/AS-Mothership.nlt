@@ -1,0 +1,489 @@
+﻿[Action_DISPLAYMESSAGE5]
+Message="5..."
+
+[Action_DISPLAYMESSAGE6]
+Message="4..."
+
+[Action_DISPLAYMESSAGE7]
+Message="3..."
+
+[Action_DISPLAYMESSAGE8]
+Message="2..."
+
+[Action_DISPLAYMESSAGE9]
+Message="1..."
+
+[Counter0]
+; EN: CompleteMessage="Core Vents opened!"
+CompleteMessage="Kernventilatie geopend!"
+
+[Counter2]
+; EN: CompleteMessage="Energy Shield deactivated!!!"
+CompleteMessage="Energieschild uitgeschakeld!!!"
+
+[Counter3]
+; EN: CompleteMessage="Doors and lower force field deactivated"
+CompleteMessage="Deuren en onderste krachtveld uitgeschakeld"
+
+[Counter4]
+; EN: CompleteMessage="Core conductors destroyed!!!"
+CompleteMessage="Kerngeleiders vernietigd!!!"
+
+[Counter5]
+; EN: CompleteMessage="Loading bay force field deactivated!"
+CompleteMessage="Krachtveld laaddok uitgeschakeld!"
+
+[Counter6]
+; EN: CompleteMessage="Top force fields deactivated!"
+CompleteMessage="Bovenste krachtvelden uitgeschakeld!"
+
+[DestroyVehicleObjective0]
+; EN: ObjectiveName="Sentinels turrets"
+ObjectiveName="Sentinel-geschutskoepels"
+; EN: DestructionMessage="Sentinel destroyed!"
+DestructionMessage="Sentinel vernietigd!"
+; EN: ObjectiveDescription="Destroy sentinel turrets"
+ObjectiveDescription="Vernietig de sentinel-geschutskoepels"
+; EN: Objective_Info_Attacker="Destroy sentinel"
+Objective_Info_Attacker="Vernietig de sentinel"
+; EN: Objective_Info_Defender="Defend sentinel"
+Objective_Info_Defender="Verdedig de sentinel"
+
+[DestroyVehicleObjective1]
+; EN: ObjectiveName="Sentinels turrets"
+ObjectiveName="Sentinel-geschutskoepels"
+; EN: DestructionMessage="Sentinel destroyed!"
+DestructionMessage="Sentinel vernietigd!"
+; EN: LocationPrefix="lowerhull"
+LocationPrefix="onderromp"
+; EN: ObjectiveDescription="Destroy sentinel turrets"
+ObjectiveDescription="Vernietig de sentinel-geschutskoepels"
+; EN: Objective_Info_Attacker="Destroy sentinel"
+Objective_Info_Attacker="Vernietig de sentinel"
+; EN: Objective_Info_Defender="Defend sentinel"
+Objective_Info_Defender="Verdedig de sentinel"
+
+[DestroyVehicleObjective2]
+; EN: ObjectiveName="Sentinels turrets"
+ObjectiveName="Sentinel-geschutskoepels"
+; EN: DestructionMessage="Sentinel destroyed!"
+DestructionMessage="Sentinel vernietigd!"
+; EN: ObjectiveDescription="Destroy sentinel turrets"
+ObjectiveDescription="Vernietig de sentinel-geschutskoepels"
+; EN: Objective_Info_Attacker="Destroy sentinel"
+Objective_Info_Attacker="Vernietig de sentinel"
+; EN: Objective_Info_Defender="Defend sentinel"
+Objective_Info_Defender="Verdedig de sentinel"
+
+[DestroyableObjective_SM0]
+; EN: ObjectiveName="Energy bypass"
+ObjectiveName="Energie-omleiding"
+; EN: DestructionMessage="Destroyed energy bypass..."
+DestructionMessage="Energie-omleiding vernietigd..."
+; EN: ObjectiveDescription="Destroy laser field bypass"
+ObjectiveDescription="Vernietig de omleiding van het laserveld"
+; EN: Objective_Info_Attacker="Destroy energy bypass"
+Objective_Info_Attacker="Vernietig de energie-omleiding"
+; EN: Objective_Info_Defender="Defend energy bypass"
+Objective_Info_Defender="Verdedig de energie-omleiding"
+
+[DestroyableObjective_SM1]
+; EN: ObjectiveName="Upper shield generator"
+ObjectiveName="Bovenste schildgenerator"
+; EN: DestructionMessage="Shield Generator Destroyed"
+DestructionMessage="Schildgenerator vernietigd"
+; EN: ObjectiveDescription="Destroy shield generators"
+ObjectiveDescription="Vernietig de schildgeneratoren"
+; EN: Objective_Info_Attacker="Destroy upper shield generator "
+Objective_Info_Attacker="Vernietig de bovenste schildgenerator "
+; EN: Objective_Info_Defender="Defend upper shield generator "
+Objective_Info_Defender="Verdedig de bovenste schildgenerator "
+
+[DestroyableObjective_SM2]
+; EN: ObjectiveName="Upper shield generator"
+ObjectiveName="Bovenste schildgenerator"
+; EN: DestructionMessage="Shield Generator Destroyed"
+DestructionMessage="Schildgenerator vernietigd"
+; EN: ObjectiveDescription="Destroy shield generators"
+ObjectiveDescription="Vernietig de schildgeneratoren"
+; EN: Objective_Info_Attacker="Destroy upper shield generator "
+Objective_Info_Attacker="Vernietig de bovenste schildgenerator "
+; EN: Objective_Info_Defender="Defend upper shield generator "
+Objective_Info_Defender="Verdedig de bovenste schildgenerator "
+
+[DestroyableObjective_SM3]
+; EN: ObjectiveName="Lower shield generator"
+ObjectiveName="Onderste schildgenerator"
+; EN: DestructionMessage="Shield Generator Destroyed"
+DestructionMessage="Schildgenerator vernietigd"
+; EN: ObjectiveDescription="Destroy lower shield generator"
+ObjectiveDescription="Vernietig de onderste schildgenerator"
+; EN: Objective_Info_Attacker="Destroy lower shield generator"
+Objective_Info_Attacker="Vernietig de onderste schildgenerator"
+; EN: Objective_Info_Defender="Defend lower shield generator "
+Objective_Info_Defender="Verdedig de onderste schildgenerator "
+
+[DestroyableObjective_SM4]
+; EN: ObjectiveName="Core conductors..."
+ObjectiveName="Kerngeleiders..."
+; EN: DestructionMessage="Conductor destroyed!!!"
+DestructionMessage="Geleider vernietigd!!!"
+; EN: ObjectiveDescription="Destroy core conductor"
+ObjectiveDescription="Vernietig de kerngeleider"
+; EN: Objective_Info_Attacker="Destroy the conductor"
+Objective_Info_Attacker="Vernietig de geleider"
+; EN: Objective_Info_Defender="Defend the conductor"
+Objective_Info_Defender="Verdedig de geleider"
+
+[DestroyableObjective_SM5]
+; EN: ObjectiveName="Energy bypass"
+ObjectiveName="Energie-omleiding"
+; EN: DestructionMessage="Destroyed energy bypass..."
+DestructionMessage="Energie-omleiding vernietigd..."
+; EN: ObjectiveDescription="Destroy laser field bypass"
+ObjectiveDescription="Vernietig de omleiding van het laserveld"
+; EN: Objective_Info_Attacker="Destroy energy bypass"
+Objective_Info_Attacker="Vernietig de energie-omleiding"
+; EN: Objective_Info_Defender="Defend energy bypass"
+Objective_Info_Defender="Verdedig de energie-omleiding"
+
+[DestroyableObjective_SM6]
+; EN: ObjectiveName="Core conductors..."
+ObjectiveName="Kerngeleiders..."
+; EN: DestructionMessage="Conductor destroyed!!!"
+DestructionMessage="Geleider vernietigd!!!"
+; EN: ObjectiveDescription="Destroy core conductor"
+ObjectiveDescription="Vernietig de kerngeleider"
+; EN: Objective_Info_Attacker="Destroy the conductor"
+Objective_Info_Attacker="Vernietig de geleider"
+; EN: Objective_Info_Defender="Defend the conductor"
+Objective_Info_Defender="Verdedig de geleider"
+
+[HoldObjective0]
+; EN: ObjectiveName="Core panels."
+ObjectiveName="Kernpanelen."
+; EN: DestructionMessage="Hatch lock #1 released!"
+DestructionMessage="Luikvergrendeling #1 ontgrendeld!"
+; EN: ObjectiveDescription="Core panels"
+ObjectiveDescription="Kernpanelen"
+; EN: Objective_Info_Attacker="Use panel to unlock core hatch"
+Objective_Info_Attacker="Gebruik het paneel om het kernluik te ontgrendelen"
+; EN: Objective_Info_Defender="Stop any usage of the core panels"
+Objective_Info_Defender="Voorkom elk gebruik van de kernpanelen"
+
+[HoldObjective1]
+; EN: ObjectiveName="Core panels."
+ObjectiveName="Kernpanelen."
+; EN: DestructionMessage="Hatch lock #2 released!"
+DestructionMessage="Luikvergrendeling #2 ontgrendeld!"
+; EN: ObjectiveDescription="Core panels"
+ObjectiveDescription="Kernpanelen"
+; EN: Objective_Info_Attacker="Use panel to unlock core hatch"
+Objective_Info_Attacker="Gebruik het paneel om het kernluik te ontgrendelen"
+; EN: Objective_Info_Defender="Stop any usage of the core panels"
+Objective_Info_Defender="Voorkom elk gebruik van de kernpanelen"
+
+[InfoPod2]
+; EN: POD_Message="Lower Inner Turrets"
+POD_Message="Onderste binnengeschut"
+
+[InfoPod3]
+; EN: POD_Message="Link Cannon"
+POD_Message="Linkkanon"
+
+[InfoPod4]
+; EN: POD_Message="Landing Bay Turrets"
+POD_Message="Geschut landingsdok"
+
+[InfoPod5]
+; EN: POD_Message="Top Inner Turrets"
+POD_Message="Bovenste binnengeschut"
+
+[InfoPod6]
+; EN: POD_Message="Top Outer Turrets"
+POD_Message="Bovenste buitengeschut"
+
+[InfoPod7]
+; EN: POD_Message="Lower Outer Turrets"
+POD_Message="Onderste buitengeschut"
+
+[InfoPod8]
+; EN: POD_Message="Link Cannon"
+POD_Message="Linkkanon"
+
+[LevelInfo0]
+Title="Mothership Assault"
+
+[LevelSummary]
+Title="Mothership Assault"
+; EN: Description="First contact with the Skaarj came during the recovery of the prison transporter Vortex Rikers on Na Pali. Within a year the Skaarj had pushed humanity back to the brink of destruction. This scenario replicates the final battle for Earth, and the stunning victory by humans in the face of almost certain defeat. A Skaarj Mothership orbited the Earth, and rained death upon the planet in preparation for the final landing. In a daring suicide mission, the humans attacked the Skaarj Mothership in small one man fighters, hoping to exploit a flaw in the Mothership defenses their analysis had revealed."
+Description="Het eerste contact met de Skaarj vond plaats tijdens de berging van het gevangenentransport Vortex Rikers op Na Pali. Binnen een jaar hadden de Skaarj de mensheid tot op de rand van de ondergang teruggedrongen. Dit scenario speelt de laatste strijd om de Aarde na, en de verbluffende overwinning van de mensen tegenover een bijna zekere nederlaag. Een moederschip van de Skaarj cirkelde om de Aarde en liet de dood op de planeet neerregenen als voorbereiding op de laatste landing. In een gedurfde zelfmoordmissie vielen de mensen het Skaarj-moederschip aan in kleine eenpersoonsjagers, in de hoop een zwakke plek in de verdediging van het moederschip te benutten die hun analyse had blootgelegd."
+
+[MessageTrigger15]
+; EN: Message="Prepare to attack!!!"
+Message="Maak je klaar voor de aanval!!!"
+
+[MessageTrigger17]
+; EN: Message="Prepare the defense!!!"
+Message="Bereid de verdediging voor!!!"
+
+[ProximityObjective0]
+; EN: ObjectiveName="Landing bay"
+ObjectiveName="Landingsdok"
+; EN: DestructionMessage="Attackers have entered the MotherShip!"
+DestructionMessage="Aanvallers zijn het moederschip binnengedrongen!"
+; EN: ObjectiveDescription="Enter Skaarj ship via landing bay"
+ObjectiveDescription="Ga het Skaarj-schip binnen via het landingsdok"
+; EN: Objective_Info_Attacker="Proceed to landing bay"
+Objective_Info_Attacker="Ga naar het landingsdok"
+; EN: Objective_Info_Defender="Stop the humans from landing "
+Objective_Info_Defender="Voorkom dat de mensen landen "
+
+[SceneSubtitles0]
+; EN: SubTitles=("First contact with the Skaarj came during the recovery of the prison transporter Vortex Rikers on Na Pali.        ","Within a year the Skaarj had pushed humanity back to the brink of destruction.","This scenario replicates the final battle for Earth, and the stunning victory by humans in the face of almost certain defeat.","A Skaarj mother ship orbited the Earth, and rained death upon the planet in preparation for the final landing.","In a daring suicide mission, the humans attacked the Skaarj Mothership in small one man fighters, hoping to exploit a flaw in the mother ship defenses their analysis had revealed.","Take down the generator within the lower section of the Skaarj mother ship to deactivate the top force fields.","Once completed head upwards into the main body of the Skaarj mother ship. ","Destroy the top generators to deactivate the shield for the landing bay.","Proceed and land in the mother ship landing bay.","Once on foot, proceed to the next section","Two energy bypass mechanisms will need to be destroyed to proceed to the cargo hull.","Past the bridge, the core awaits.","Once in the cargo hull three sentinels await.","The destruction of the sentinels is the only way to proceed forward.","The force fields deactivate once the three sentinels have been destroyed.","Passed the bridge and the core awaits.","Trigger the panels to open the hatch locks.","Once the panels have been triggered shoot the two energy core conductors in order to destabilize the core.")
+SubTitles=("Het eerste contact met de Skaarj vond plaats tijdens de berging van het gevangenentransport Vortex Rikers op Na Pali.        ","Binnen een jaar hadden de Skaarj de mensheid tot op de rand van de ondergang teruggedrongen.","Dit scenario speelt de laatste strijd om de Aarde na, en de verbluffende overwinning van de mensen tegenover een bijna zekere nederlaag.","Een moederschip van de Skaarj cirkelde om de Aarde en liet de dood op de planeet neerregenen als voorbereiding op de laatste landing.","In een gedurfde zelfmoordmissie vielen de mensen het Skaarj-moederschip aan in kleine eenpersoonsjagers, in de hoop een zwakke plek in de verdediging van het moederschip te benutten die hun analyse had blootgelegd.","Schakel de generator in het onderste deel van het Skaarj-moederschip uit om de bovenste krachtvelden te deactiveren.","Ga daarna omhoog naar de romp van het Skaarj-moederschip. ","Vernietig de bovenste generatoren om het schild van het landingsdok te deactiveren.","Vlieg verder en land in het landingsdok van het moederschip.","Ga te voet verder naar het volgende deel","Twee energie-omleidingen moeten worden vernietigd om naar het vrachtruim te komen.","Voorbij de brug wacht de kern.","In het vrachtruim wachten drie sentinels.","Alleen door de sentinels te vernietigen kun je verder.","De krachtvelden gaan uit zodra de drie sentinels vernietigd zijn.","Voorbij de brug wacht de kern.","Activeer de panelen om de luikvergrendelingen te openen.","Schiet na het activeren van de panelen op de twee geleiders van de energiekern om de kern te destabiliseren.")
+
+[Trigger_ASMessageTrigger14]
+; EN: Message="Force field down..."
+Message="Krachtveld uit..."
+
+[Trigger_ASMessageTrigger15]
+; EN: Message="Unlock the Core!"
+Message="Ontgrendel de kern!"
+
+[Trigger_ASMessageTrigger3]
+; EN: Message="Core hatches have been released..."
+Message="Kernluiken zijn ontgrendeld..."
+
+[Trigger_ASMessageTrigger4]
+; EN: Message="Top force fields down..."
+Message="Bovenste krachtvelden uit..."
+
+[Trigger_ASMessageTrigger5]
+; EN: Message="Attackers have landed!!!"
+Message="Aanvallers zijn geland!!!"
+
+[Trigger_ASMessageTrigger7]
+; EN: Message="Attackers have entered the core!!!"
+Message="Aanvallers zijn de kern binnengedrongen!!!"
+
+[Trigger_ASMessageTrigger8]
+; EN: Message="Core has been destabilized!"
+Message="Kern is gedestabiliseerd!"
+
+[Trigger_ASMessageTrigger9]
+; EN: Message="Landing bay force field down"
+Message="Krachtveld landingsdok uit"
+
+[ZoneInfo1]
+; EN: LocationName="Gravity engine hallway right"
+LocationName="Gang zwaartekrachtmotor rechts"
+
+[ZoneInfo10]
+; EN: LocationName="Energy generator #2"
+LocationName="Energiegenerator #2"
+
+[ZoneInfo12]
+; EN: LocationName="The core"
+LocationName="De kern"
+
+[ZoneInfo13]
+; EN: LocationName="Right shaft"
+LocationName="Rechterschacht"
+
+[ZoneInfo14]
+; EN: LocationName="Main middle shaft"
+LocationName="Middelste hoofdschacht"
+
+[ZoneInfo16]
+; EN: LocationName="Core exterior"
+LocationName="Buitenkant kern"
+
+[ZoneInfo17]
+; EN: LocationName="Core exterior"
+LocationName="Buitenkant kern"
+
+[ZoneInfo18]
+; EN: LocationName="Inner top shaft"
+LocationName="Bovenste binnenschacht"
+
+[ZoneInfo19]
+; EN: LocationName="Core exterior"
+LocationName="Buitenkant kern"
+
+[ZoneInfo2]
+; EN: LocationName="In space"
+LocationName="In de ruimte"
+
+[ZoneInfo20]
+; EN: LocationName="Lower cross path"
+LocationName="Onderste kruispad"
+
+[ZoneInfo21]
+; EN: LocationName="Defender's bypass spawn"
+LocationName="Omleidingsspawn verdedigers"
+
+[ZoneInfo22]
+; EN: LocationName="Defender's bypass spawn"
+LocationName="Omleidingsspawn verdedigers"
+
+[ZoneInfo23]
+; EN: LocationName="Cargo hull"
+LocationName="Vrachtruim"
+
+[ZoneInfo24]
+; EN: LocationName="Cargo hull"
+LocationName="Vrachtruim"
+
+[ZoneInfo25]
+; EN: LocationName="Cargo hull"
+LocationName="Vrachtruim"
+
+[ZoneInfo26]
+; EN: LocationName="Cargo hull"
+LocationName="Vrachtruim"
+
+[ZoneInfo27]
+; EN: LocationName="Defender's bypass spawn"
+LocationName="Omleidingsspawn verdedigers"
+
+[ZoneInfo28]
+; EN: LocationName="Space craft bay."
+LocationName="Ruimtevaartuigdok."
+
+[ZoneInfo29]
+; EN: LocationName="Cargo hull hallway"
+LocationName="Gang vrachtruim"
+
+[ZoneInfo3]
+; EN: LocationName="Lower section generator shaft"
+LocationName="Generatorschacht onderste deel"
+
+[ZoneInfo30]
+; EN: LocationName="Elevator shaft"
+LocationName="Liftschacht"
+
+[ZoneInfo31]
+; EN: LocationName="Elevator passage "
+LocationName="Liftdoorgang "
+
+[ZoneInfo32]
+; EN: LocationName="Cargo upper bridge left"
+LocationName="Bovenste vrachtbrug links"
+
+[ZoneInfo33]
+; EN: LocationName="Cargo upper bridge right"
+LocationName="Bovenste vrachtbrug rechts"
+
+[ZoneInfo34]
+; EN: LocationName="Elevator passage "
+LocationName="Liftdoorgang "
+
+[ZoneInfo35]
+; EN: LocationName="Energy bypass room"
+LocationName="Ruimte energie-omleiding"
+
+[ZoneInfo36]
+; EN: LocationName="Left hallway"
+LocationName="Linkergang"
+
+[ZoneInfo37]
+; EN: LocationName="Attackers landing bay"
+LocationName="Landingsdok aanvallers"
+
+[ZoneInfo38]
+; EN: LocationName="Right hallway"
+LocationName="Rechtergang"
+
+[ZoneInfo39]
+; EN: LocationName="Top energy bypass entrance"
+LocationName="Ingang bovenste energie-omleiding"
+
+[ZoneInfo4]
+; EN: LocationName="Defender's Landing bay"
+LocationName="Landingsdok verdedigers"
+
+[ZoneInfo40]
+; EN: LocationName="Core entrance"
+LocationName="Ingang kern"
+
+[ZoneInfo41]
+; EN: LocationName="Core exterior"
+LocationName="Buitenkant kern"
+
+[ZoneInfo42]
+; EN: LocationName="Core bridge passage left"
+LocationName="Doorgang kernbrug links"
+
+[ZoneInfo43]
+; EN: LocationName="Gravity engine room #1"
+LocationName="Zwaartekrachtmotorruimte #1"
+
+[ZoneInfo44]
+; EN: LocationName="Gravity engine hallway left"
+LocationName="Gang zwaartekrachtmotor links"
+
+[ZoneInfo45]
+; EN: LocationName="Gravity engine hallway right"
+LocationName="Gang zwaartekrachtmotor rechts"
+
+[ZoneInfo46]
+; EN: LocationName="Gravity engine room #2"
+LocationName="Zwaartekrachtmotorruimte #2"
+
+[ZoneInfo47]
+; EN: LocationName="Core bridge passage right"
+LocationName="Doorgang kernbrug rechts"
+
+[ZoneInfo48]
+; EN: LocationName="Core bridge passage right"
+LocationName="Doorgang kernbrug rechts"
+
+[ZoneInfo49]
+; EN: LocationName="Cargo hull"
+LocationName="Vrachtruim"
+
+[ZoneInfo5]
+; EN: LocationName="Energy generator #1"
+LocationName="Energiegenerator #1"
+
+[ZoneInfo50]
+; EN: LocationName="Cargo hull hallway"
+LocationName="Gang vrachtruim"
+
+[ZoneInfo51]
+; EN: LocationName="Gravity engine hallway right"
+LocationName="Gang zwaartekrachtmotor rechts"
+
+[ZoneInfo52]
+; EN: LocationName="Core bridge passage left"
+LocationName="Doorgang kernbrug links"
+
+[ZoneInfo53]
+; EN: LocationName="Gravity engine hallway right"
+LocationName="Gang zwaartekrachtmotor rechts"
+
+[ZoneInfo54]
+; EN: LocationName="Gravity engine hallway right"
+LocationName="Gang zwaartekrachtmotor rechts"
+
+[ZoneInfo55]
+; EN: LocationName="Cargo hull hallway"
+LocationName="Gang vrachtruim"
+
+[ZoneInfo6]
+; EN: LocationName="Landing bay"
+LocationName="Landingsdok"
+
+[ZoneInfo7]
+; EN: LocationName="landing bay"
+LocationName="landingsdok"
+
+[ZoneInfo8]
+; EN: LocationName="Defender's Landing bay"
+LocationName="Landingsdok verdedigers"
+
+[ZoneInfo9]
+; EN: LocationName="Left shaft"
+LocationName="Linkerschacht"
+

@@ -1,0 +1,28 @@
+﻿[LevelInfo0]
+Title="Rankin"
+
+[LevelSummary]
+Title="Rankin"
+; EN: Description="A medium sized map set in an old industrial building, in the middle of a heavy thunderstorm."
+Description="Een middelgrote map in een oud industrieel gebouw, midden in een zwaar onweer."
+
+[Volume0]
+; EN: LocationName="Factory Area 2"
+LocationName="Fabriekszone 2"
+
+[Volume1]
+; EN: LocationName="Factory Area 1"
+LocationName="Fabriekszone 1"
+
+[Volume2]
+; EN: LocationName="Flak Room"
+LocationName="Flak-kamer"
+
+[Volume3]
+; EN: LocationName="Amp Area"
+LocationName="Amp-zone"
+
+[Volume4]
+; EN: LocationName="Basement"
+LocationName="Kelder"
+

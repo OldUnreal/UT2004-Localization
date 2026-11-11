@@ -1,0 +1,94 @@
+﻿[LevelInfo0]
+Title="Magma"
+
+[LevelSummary]
+Title="Magma"
+
+[Volume0]
+; EN: LocationName="Inside Blue Base"
+LocationName="In de blauwe basis"
+
+[Volume1]
+; EN: LocationName="Inside Red Base"
+LocationName="In de rode basis"
+
+[Volume10]
+; EN: LocationName="Red Walkways"
+LocationName="Rode looppaden"
+
+[Volume11]
+; EN: LocationName="Blue Walkways"
+LocationName="Blauwe looppaden"
+
+[Volume2]
+; EN: LocationName="Upper Red Base"
+LocationName="Bovenste rode basis"
+
+[Volume3]
+; EN: LocationName="Upper Blue Base"
+LocationName="Bovenste blauwe basis"
+
+[Volume4]
+; EN: LocationName="Red Tower"
+LocationName="Rode toren"
+
+[Volume5]
+; EN: LocationName="Blue Tower"
+LocationName="Blauwe toren"
+
+[Volume6]
+; EN: LocationName="Blue Tower Bottom"
+LocationName="Onderkant blauwe toren"
+
+[Volume7]
+; EN: LocationName="Red Tower Bottom"
+LocationName="Onderkant rode toren"
+
+[Volume8]
+; EN: LocationName="Under Red Base"
+LocationName="Onder de rode basis"
+
+[Volume9]
+; EN: LocationName="Under Blue Base"
+LocationName="Onder de blauwe basis"
+
+[WaterVolume0]
+; EN: LocationName="Lava Pit"
+LocationName="Lavaput"
+
+[ZoneInfo0]
+; EN: LocationName="Cave"
+LocationName="Grot"
+
+[ZoneInfo1]
+; EN: LocationName="BlueSide"
+LocationName="Blauwe kant"
+
+[ZoneInfo2]
+; EN: LocationName="Cave"
+LocationName="Grot"
+
+[ZoneInfo3]
+; EN: LocationName="Cave"
+LocationName="Grot"
+
+[ZoneInfo4]
+; EN: LocationName="Cave"
+LocationName="Grot"
+
+[ZoneInfo5]
+; EN: LocationName="Cave"
+LocationName="Grot"
+
+[ZoneInfo6]
+; EN: LocationName="Cave"
+LocationName="Grot"
+
+[ZoneInfo7]
+; EN: LocationName="cave"
+LocationName="grot"
+
+[ZoneInfo8]
+; EN: LocationName="RedSide"
+LocationName="Rode kant"
+

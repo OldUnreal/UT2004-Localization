@@ -1,0 +1,48 @@
+﻿[LevelInfo0]
+Title="Mixer"
+
+[LevelSummary]
+Title="Mixer"
+; EN: Description="Gunsmoke and death aren't the only things you'll smell here."
+Description="Kruitdamp en dood zijn niet de enige dingen die je hier ruikt."
+
+[ZoneInfo0]
+; EN: LocationName="Pipe"
+LocationName="Pijp"
+
+[ZoneInfo1]
+; EN: LocationName="Shield Chamber"
+LocationName="Schildkamer"
+
+[ZoneInfo10]
+LocationName="Minigun"
+
+[ZoneInfo11]
+LocationName="Rocket Launcher"
+
+[ZoneInfo12]
+LocationName="Double Damage"
+
+[ZoneInfo13]
+LocationName="Lift"
+
+[ZoneInfo14]
+LocationName="Lift"
+
+[ZoneInfo3]
+; EN: LocationName="Pipes"
+LocationName="Pijpen"
+
+[ZoneInfo5]
+LocationName="Lightning Gun"
+
+[ZoneInfo6]
+LocationName="Link Gun"
+
+[ZoneInfo7]
+; EN: LocationName="Basement"
+LocationName="Kelder"
+
+[ZoneInfo9]
+LocationName="Shock Rifle"
+

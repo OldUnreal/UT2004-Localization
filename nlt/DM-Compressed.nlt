@@ -1,0 +1,82 @@
+﻿[LevelInfo0]
+Title="Compressed"
+
+[LevelSummary]
+Title="Compressed"
+
+[ZoneInfo0]
+; EN: LocationName="Top North Hall"
+LocationName="Bovenste noordhal"
+
+[ZoneInfo11]
+; EN: LocationName="Flak Hall"
+LocationName="Flak-hal"
+
+[ZoneInfo12]
+; EN: LocationName="Flak Hall"
+LocationName="Flak-hal"
+
+[ZoneInfo13]
+; EN: LocationName="Link Hall"
+LocationName="Link-hal"
+
+[ZoneInfo14]
+; EN: LocationName="Link Hall"
+LocationName="Link-hal"
+
+[ZoneInfo16]
+; EN: LocationName="Lower Shield hall"
+LocationName="Onderste schildhal"
+
+[ZoneInfo17]
+; EN: LocationName="Lower Shield hall"
+LocationName="Onderste schildhal"
+
+[ZoneInfo19]
+; EN: LocationName="Top North Hall"
+LocationName="Bovenste noordhal"
+
+[ZoneInfo2]
+; EN: LocationName="Left Annex"
+LocationName="Linkerbijgebouw"
+
+[ZoneInfo20]
+; EN: LocationName="Flak elevator"
+LocationName="Flak-lift"
+
+[ZoneInfo21]
+; EN: LocationName="Double Damage Corridor"
+LocationName="Double Damage-gang"
+
+[ZoneInfo23]
+; EN: LocationName="Double Damage Corridor"
+LocationName="Double Damage-gang"
+
+[ZoneInfo3]
+; EN: LocationName="Top South Hall"
+LocationName="Bovenste zuidhal"
+
+[ZoneInfo4]
+; EN: LocationName="Top South Hall"
+LocationName="Bovenste zuidhal"
+
+[ZoneInfo5]
+; EN: LocationName="Top South Hall"
+LocationName="Bovenste zuidhal"
+
+[ZoneInfo6]
+; EN: LocationName="Lower Shield hall"
+LocationName="Onderste schildhal"
+
+[ZoneInfo7]
+; EN: LocationName="Top North Hall"
+LocationName="Bovenste noordhal"
+
+[ZoneInfo8]
+; EN: LocationName="Link Elevator"
+LocationName="Link-lift"
+
+[ZoneInfo9]
+; EN: LocationName="Right Annex"
+LocationName="Rechterbijgebouw"
+

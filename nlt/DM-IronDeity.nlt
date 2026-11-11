@@ -1,0 +1,54 @@
+﻿[LevelInfo0]
+Title="Iron Deity"
+
+[LevelSummary]
+Title="Iron Deity"
+; EN: Description="This large and imposing arena plays best with two medium sized teams of combatants. Try to not get caught running through the tight fan room and be sure to control the double damage. Lastly, keep your eyes peeled for the hidden Redeemer!"
+Description="Deze grote, imposante arena speelt het best met twee middelgrote teams. Laat je niet pakken als je door de krappe ventilatorkamer rent en zorg dat je de Double Damage in handen houdt. En houd tot slot je ogen open voor de verborgen Redeemer!"
+
+[ZoneInfo0]
+; EN: LocationName="Near Lightning Gun"
+LocationName="Bij de Lightning Gun"
+
+[ZoneInfo1]
+; EN: LocationName="Lower Ramp"
+LocationName="Onderste helling"
+
+[ZoneInfo10]
+; EN: LocationName="Low FPS room"
+LocationName="Lage-FPS-kamer"
+
+[ZoneInfo11]
+; EN: LocationName="Near DoubleDamage"
+LocationName="Bij de Double Damage"
+
+[ZoneInfo12]
+; EN: LocationName="Closet"
+LocationName="Kast"
+
+[ZoneInfo2]
+; EN: LocationName="Near Link Gun"
+LocationName="Bij de Link Gun"
+
+[ZoneInfo3]
+LocationName="Minigun"
+
+[ZoneInfo4]
+LocationName="Double Damage"
+
+[ZoneInfo5]
+; EN: LocationName="Flak Room"
+LocationName="Flak-kamer"
+
+[ZoneInfo7]
+; EN: LocationName="Bathroom"
+LocationName="Badkamer"
+
+[ZoneInfo8]
+; EN: LocationName="Closet"
+LocationName="Kast"
+
+[ZoneInfo9]
+; EN: LocationName="Near Shock Rifle"
+LocationName="Bij de Shock Rifle"
+

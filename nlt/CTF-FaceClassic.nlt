@@ -1,0 +1,99 @@
+﻿[LevelInfo0]
+Title="Face Classic"
+
+[LevelInfo13]
+Title="Facing Worlds"
+
+[LevelSummary]
+Title="Face Classic"
+; EN: Description="This island-asteroid and its two towers have proven to be a perfect setting for Tournament CTF matches, so face your enemy and let the games begin!"
+Description="Deze eilandasteroïde met haar twee torens is de perfecte plek gebleken voor CTF-wedstrijden in het Tournament, dus kijk je vijand recht in de ogen en laat de spelen beginnen!"
+
+[Volume0]
+; EN: LocationName="Blue Base Lower Sniper Loft"
+LocationName="Blauwe basis onderste sluipschutterszolder"
+
+[Volume1]
+; EN: LocationName="Blue Base Top Sniper Ledge"
+LocationName="Blauwe basis bovenste sluipschuttersrichel"
+
+[Volume2]
+; EN: LocationName="Red Base Top Sniper Ledge"
+LocationName="Rode basis bovenste sluipschuttersrichel"
+
+[Volume3]
+; EN: LocationName="Red Base Lower Sniper Loft"
+LocationName="Rode basis onderste sluipschutterszolder"
+
+[Volume4]
+; EN: LocationName="Central Open Ground"
+LocationName="Centraal open terrein"
+
+[ZoneInfo0]
+; EN: LocationName="Red Base Lower Level"
+LocationName="Rode basis onderste verdieping"
+
+[ZoneInfo1]
+; EN: LocationName="Red Base Top Sniper Ledge"
+LocationName="Rode basis bovenste sluipschuttersrichel"
+
+[ZoneInfo10]
+; EN: LocationName="Blue Side Open Ground"
+LocationName="Open terrein blauwe kant"
+
+[ZoneInfo18]
+; EN: LocationName="Blue Base Lower Level"
+LocationName="Blauwe basis onderste verdieping"
+
+[ZoneInfo19]
+; EN: LocationName="Blue Base Top Sniper Ledge"
+LocationName="Blauwe basis bovenste sluipschuttersrichel"
+
+[ZoneInfo2]
+; EN: LocationName="Red Base Lower Sniper Loft"
+LocationName="Rode basis onderste sluipschutterszolder"
+
+[ZoneInfo20]
+; EN: LocationName="Blue Base Lower Sniper Loft"
+LocationName="Blauwe basis onderste sluipschutterszolder"
+
+[ZoneInfo21]
+; EN: LocationName="Blue Base Redeemer Loft"
+LocationName="Blauwe basis Redeemer-zolder"
+
+[ZoneInfo22]
+; EN: LocationName="Blue Base Entrance"
+LocationName="Ingang blauwe basis"
+
+[ZoneInfo24]
+; EN: LocationName="Blue Base Lower Level"
+LocationName="Blauwe basis onderste verdieping"
+
+[ZoneInfo25]
+; EN: LocationName="Blue Base Lower Level"
+LocationName="Blauwe basis onderste verdieping"
+
+[ZoneInfo3]
+; EN: LocationName="Red Base Redeemer Loft"
+LocationName="Rode basis Redeemer-zolder"
+
+[ZoneInfo4]
+; EN: LocationName="Red Base Entrance"
+LocationName="Ingang rode basis"
+
+[ZoneInfo6]
+; EN: LocationName="Red Base Lower Level"
+LocationName="Rode basis onderste verdieping"
+
+[ZoneInfo7]
+; EN: LocationName="Red Base Lower Level"
+LocationName="Rode basis onderste verdieping"
+
+[ZoneInfo8]
+; EN: LocationName="Red Base Lower Level"
+LocationName="Rode basis onderste verdieping"
+
+[ZoneInfo9]
+; EN: LocationName="Red Side Open Ground"
+LocationName="Open terrein rode kant"
+

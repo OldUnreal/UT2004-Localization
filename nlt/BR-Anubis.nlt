@@ -1,0 +1,157 @@
+﻿[LevelInfo0]
+; EN: Title="Temple Of Anubis"
+Title="Tempel van Anubis"
+
+[LevelInfo6]
+; EN: Title="Temple Of Anubis"
+Title="Tempel van Anubis"
+
+[LevelSummary]
+; EN: Title="Temple Of Anubis"
+Title="Tempel van Anubis"
+
+[ZoneInfo0]
+LocationName="Redeemer"
+
+[ZoneInfo1]
+; EN: LocationName="Super shield sand dune"
+LocationName="Supershield-zandduin"
+
+[ZoneInfo10]
+; EN: LocationName="Blue Respawn"
+LocationName="Blauwe respawn"
+
+[ZoneInfo12]
+; EN: LocationName="Blue Respawn"
+LocationName="Blauwe respawn"
+
+[ZoneInfo13]
+; EN: LocationName="Blue Respawn"
+LocationName="Blauwe respawn"
+
+[ZoneInfo14]
+; EN: LocationName="Blue Top Entrance"
+LocationName="Blauwe bovenste ingang"
+
+[ZoneInfo15]
+; EN: LocationName="Red Base"
+LocationName="Rode basis"
+
+[ZoneInfo16]
+; EN: LocationName="Red Base"
+LocationName="Rode basis"
+
+[ZoneInfo17]
+; EN: LocationName="Red Respawn"
+LocationName="Rode respawn"
+
+[ZoneInfo18]
+; EN: LocationName="Blue Respawn"
+LocationName="Blauwe respawn"
+
+[ZoneInfo19]
+; EN: LocationName="Red Respawn"
+LocationName="Rode respawn"
+
+[ZoneInfo2]
+LocationName="Rocket Launcher"
+
+[ZoneInfo20]
+; EN: LocationName="Red Respawn"
+LocationName="Rode respawn"
+
+[ZoneInfo21]
+; EN: LocationName="Red Respawn"
+LocationName="Rode respawn"
+
+[ZoneInfo22]
+; EN: LocationName="Red Respawn"
+LocationName="Rode respawn"
+
+[ZoneInfo23]
+; EN: LocationName="Blue Respawn"
+LocationName="Blauwe respawn"
+
+[ZoneInfo24]
+; EN: LocationName="Blue Respawn"
+LocationName="Blauwe respawn"
+
+[ZoneInfo25]
+; EN: LocationName="Center"
+LocationName="Midden"
+
+[ZoneInfo26]
+; EN: LocationName="Flak Cannon Room"
+LocationName="Flak Cannon-ruimte"
+
+[ZoneInfo27]
+LocationName="Flak Cannon"
+
+[ZoneInfo28]
+; EN: LocationName="Rocket Launcher Room"
+LocationName="Rocket Launcher-ruimte"
+
+[ZoneInfo29]
+; EN: LocationName="Center"
+LocationName="Midden"
+
+[ZoneInfo3]
+; EN: LocationName="Red Respawn"
+LocationName="Rode respawn"
+
+[ZoneInfo30]
+; EN: LocationName="Red court yard"
+LocationName="Rode binnenplaats"
+
+[ZoneInfo31]
+; EN: LocationName="Center"
+LocationName="Midden"
+
+[ZoneInfo32]
+; EN: LocationName="Red Courtyard"
+LocationName="Rode binnenplaats"
+
+[ZoneInfo33]
+; EN: LocationName="Blue Top Entrance"
+LocationName="Blauwe bovenste ingang"
+
+[ZoneInfo34]
+; EN: LocationName="Blue Top Entrance"
+LocationName="Blauwe bovenste ingang"
+
+[ZoneInfo35]
+; EN: LocationName="Red Top Entrance"
+LocationName="Rode bovenste ingang"
+
+[ZoneInfo36]
+; EN: LocationName="Blue Top Entrance"
+LocationName="Blauwe bovenste ingang"
+
+[ZoneInfo37]
+; EN: LocationName="Red Top Entrance"
+LocationName="Rode bovenste ingang"
+
+[ZoneInfo38]
+; EN: LocationName="Red Top Entrance"
+LocationName="Rode bovenste ingang"
+
+[ZoneInfo39]
+; EN: LocationName="Red Top Entrance"
+LocationName="Rode bovenste ingang"
+
+[ZoneInfo4]
+; EN: LocationName="Blue Courtyard"
+LocationName="Blauwe binnenplaats"
+
+[ZoneInfo5]
+; EN: LocationName="Blue Courtyard"
+LocationName="Blauwe binnenplaats"
+
+[ZoneInfo8]
+; EN: LocationName="Blue Base"
+LocationName="Blauwe basis"
+
+[ZoneInfo9]
+; EN: LocationName="Blue Base"
+LocationName="Blauwe basis"
+

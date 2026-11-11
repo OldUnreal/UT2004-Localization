@@ -1,0 +1,228 @@
+﻿[Action_DISPLAYMESSAGE10]
+Message="2..."
+
+[Action_DISPLAYMESSAGE11]
+Message="1..."
+
+[Action_DISPLAYMESSAGE12]
+; EN: Message="The doors are now open!"
+Message="De deuren zijn nu open!"
+
+[Action_DISPLAYMESSAGE4]
+; EN: Message="The attackers have infiltrated the repair vessel!"
+Message="De aanvallers zijn het reparatievaartuig binnengedrongen!"
+
+[Action_DISPLAYMESSAGE6]
+; EN: Message="The attackers have reached the weapon trailer!"
+Message="De aanvallers hebben de wapenaanhanger bereikt!"
+
+[Action_DISPLAYMESSAGE7]
+Message="5..."
+
+[Action_DISPLAYMESSAGE8]
+Message="4..."
+
+[Action_DISPLAYMESSAGE9]
+Message="3..."
+
+[HoldObjective1]
+; EN: DestructionMessage="The forward weapon cache has been stolen!"
+DestructionMessage="De voorste wapenvoorraad is gestolen!"
+; EN: ObjectiveDescription="Open the panel to advance closer."
+ObjectiveDescription="Open het paneel om verder op te rukken."
+; EN: Objective_Info_Attacker="Open the panel"
+Objective_Info_Attacker="Open het paneel"
+; EN: Objective_Info_Defender="Defend the panel"
+Objective_Info_Defender="Verdedig het paneel"
+
+[HoldObjective2]
+; EN: DestructionMessage="The boarding platform has been extended!"
+DestructionMessage="Het instapplatform is uitgeschoven!"
+; EN: ObjectiveDescription="Extend the boarding platform to continue your advance."
+ObjectiveDescription="Schuif het instapplatform uit om verder op te rukken."
+; EN: Objective_Info_Attacker="Extend the boarding platform"
+Objective_Info_Attacker="Schuif het instapplatform uit"
+; EN: Objective_Info_Defender="Defend the boarding platform"
+Objective_Info_Defender="Verdedig het instapplatform"
+
+[HoldObjective3]
+; EN: DestructionMessage="The N.E.X.U.S. missiles have been secured!"
+DestructionMessage="De N.E.X.U.S.-raketten zijn veiliggesteld!"
+; EN: ObjectiveDescription="Retrieve the N.E.X.U.S. missiles and your mission is complete!"
+ObjectiveDescription="Haal de N.E.X.U.S.-raketten op en je missie is voltooid!"
+; EN: Objective_Info_Attacker="Retrieve the N.E.X.U.S. missiles"
+Objective_Info_Attacker="Haal de N.E.X.U.S.-raketten op"
+; EN: Objective_Info_Defender="Defend the N.E.X.U.S. missiles"
+Objective_Info_Defender="Verdedig de N.E.X.U.S.-raketten"
+
+[HoldObjective4]
+; EN: DestructionMessage="Side doors have been opened!"
+DestructionMessage="Zijdeuren zijn geopend!"
+; EN: ObjectiveDescription="Use the side door switch in order to proceed"
+ObjectiveDescription="Gebruik de schakelaar van de zijdeur om verder te gaan"
+; EN: Objective_Info_Attacker="Open the side doors"
+Objective_Info_Attacker="Open de zijdeuren"
+; EN: Objective_Info_Defender="Defend the side door switch"
+Objective_Info_Defender="Verdedig de schakelaar van de zijdeur"
+
+[HoldObjective5]
+; EN: DestructionMessage="The explosives are in place!"
+DestructionMessage="De explosieven zijn geplaatst!"
+; EN: ObjectiveDescription="Place explosives on the rear door to gain access to the repair vessel."
+ObjectiveDescription="Plaats explosieven op de achterdeur om toegang te krijgen tot het reparatievaartuig."
+; EN: Objective_Info_Attacker="Place explosives on the door"
+Objective_Info_Attacker="Plaats explosieven op de deur"
+; EN: Objective_Info_Defender="Defend the door"
+Objective_Info_Defender="Verdedig de deur"
+
+[HoldObjective6]
+; EN: DestructionMessage="Reinforcements are on the way!"
+DestructionMessage="Versterkingen zijn onderweg!"
+; EN: ObjectiveDescription="Open the rear door of the repair vessel to advance."
+ObjectiveDescription="Open de achterdeur van het reparatievaartuig om verder op te rukken."
+; EN: Objective_Info_Attacker="Open rear door"
+Objective_Info_Attacker="Open de achterdeur"
+; EN: Objective_Info_Defender="Defend rear door"
+Objective_Info_Defender="Verdedig de achterdeur"
+
+[InfoPod0]
+; EN: POD_Message="! ! ! S T A N D    B A C K ! ! !"
+POD_Message="! ! ! A C H T E R U I T ! ! !"
+
+[InfoPod19]
+; EN: POD_Message="DROP DOWN HERE"
+POD_Message="HIER NAAR BENEDEN"
+
+[InfoPod20]
+; EN: POD_Message="DROP DOWN HERE"
+POD_Message="HIER NAAR BENEDEN"
+
+[InfoPod21]
+; EN: POD_Message="DROP DOWN HERE"
+POD_Message="HIER NAAR BENEDEN"
+
+[InfoPod30]
+; EN: POD_Message="! ! ! S T A N D    B A C K ! ! !"
+POD_Message="! ! ! A C H T E R U I T ! ! !"
+
+[LevelInfo0]
+Title="Convoy"
+
+[LevelInfo9]
+Title="Convoy"
+
+[LevelSummary]
+Title="Convoy"
+; EN: Description="This scenario is a recreation of the recovery of the N.E.X.U.S. prototype missiles by the NEG military, after they were stolen by the Hellions. NEG forces pinpointed the location of the cache due to a hidden homing device on these devastating weapons of mass destruction. The exact location of the missiles could only be pinpointed during the short period when they were being transferred from one location to another above ground on Taron, and the military had no choice but to strike at this time."
+Description="Dit scenario speelt de terugwinning na van de prototype-N.E.X.U.S.-raketten door het NEG-leger, nadat ze door de Hellions waren gestolen. NEG-troepen spoorden de voorraad op dankzij een verborgen zender in deze verwoestende massavernietigingswapens. De precieze locatie van de raketten kon alleen worden bepaald tijdens de korte periode dat ze bovengronds op Taron van de ene naar de andere plek werden vervoerd, en het leger had geen andere keus dan op dat moment toe te slaan."
+
+[SceneSubtitles0]
+; EN: SubTitles=("This scenario is a recreation of the recovery of the N.E.X.U.S. prototype missiles by the NEG military, after they were stolen by the Hellions.","NEG forces pinpointed the location of the cache due to a hidden homing device on these devastating weapons of mass destruction.","The exact location of the missiles could only be pinpointed during the short period when they were being transferred from one location to another above ground on Taron, and the military had no choice but to strike at this time.","The attackers must first make their way to the Hellions' boarding platform, manipulate the controls, and extend the platform to allow the advance to continue.",,"At this point, it may be a good idea for the attackers to remove this control panel and convert the trailer circuitry to work for them instead of the Hellions. It will allow for a faster advance and an upgrade in weaponry.",,"The attackers must cross the boarding platform, reach the rear door, and plant explosives on the door to gain access to the inside of the Hellion repair vessel.",,"In order to make a quicker advance, open the rear doors of the Repair Vessel. This will allow the attackers to start much closer to the next objective.",,"One word of caution. There is a gasoline tanker within the repair vessel, watch your fire or it may explode, making progress far more difficult.",,"The attackers need to flip this switch in order to be able to proceed any further. This will allow them to control the side doors to proceed to the final objective.",,"The attackers must make it to the weapon trailer. Once inside, they must hold this switch to retrieve the N.E.X.U.S. missiles.")
+SubTitles=("Dit scenario speelt de terugwinning na van de prototype-N.E.X.U.S.-raketten door het NEG-leger, nadat ze door de Hellions waren gestolen.","NEG-troepen spoorden de voorraad op dankzij een verborgen zender in deze verwoestende massavernietigingswapens.","De precieze locatie van de raketten kon alleen worden bepaald tijdens de korte periode dat ze bovengronds op Taron van de ene naar de andere plek werden vervoerd, en het leger had geen andere keus dan op dat moment toe te slaan.","De aanvallers moeten eerst naar het instapplatform van de Hellions, de bediening gebruiken en het platform uitschuiven zodat de opmars verder kan.",,"Op dit punt kan het slim zijn om dit bedieningspaneel te verwijderen en de elektronica van de aanhanger voor jezelf te laten werken in plaats van voor de Hellions. Dat zorgt voor een snellere opmars en betere wapens.",,"De aanvallers moeten het instapplatform oversteken, de achterdeur bereiken en er explosieven op plaatsen om het reparatievaartuig van de Hellions binnen te komen.",,"Open de achterdeuren van het reparatievaartuig voor een snellere opmars. Dan beginnen de aanvallers veel dichter bij het volgende doel.",,"Een waarschuwing: in het reparatievaartuig staat een benzinetanker. Let op waar je schiet, anders kan hij ontploffen en wordt verder komen veel moeilijker.",,"De aanvallers moeten deze schakelaar omzetten om verder te kunnen. Daarmee bedienen ze de zijdeuren om naar het laatste doel te gaan.",,"De aanvallers moeten de wapenaanhanger bereiken. Eenmaal binnen moeten ze deze schakelaar vasthouden om de N.E.X.U.S.-raketten op te halen.")
+
+[Trigger_ASMessageTrigger0]
+; EN: Message="Air strike inbound! Seek shelter immediately!"
+Message="Luchtaanval op komst! Zoek direct dekking!"
+
+[TriggeredObjective0]
+; EN: DestructionMessage="The N.E.X.U.S. trailer has been opened!"
+DestructionMessage="De N.E.X.U.S.-aanhanger is geopend!"
+; EN: ObjectiveDescription="Reach the N.E.X.U.S. missile trailer and open it"
+ObjectiveDescription="Bereik de N.E.X.U.S.-raketaanhanger en open hem"
+; EN: Objective_Info_Attacker="Reach the N.E.X.U.S. missile trailer"
+Objective_Info_Attacker="Bereik de N.E.X.U.S.-raketaanhanger"
+; EN: Objective_Info_Defender="Defend the N.E.X.U.S. missile trailer"
+Objective_Info_Defender="Verdedig de N.E.X.U.S.-raketaanhanger"
+
+[Volume1]
+; EN: LocationName="Attacker vehicle"
+LocationName="Voertuig aanvallers"
+
+[Volume12]
+; EN: LocationName="Rear sniper tower"
+LocationName="Achterste sluipschuttertoren"
+
+[Volume13]
+; EN: LocationName="Rear sniper tower"
+LocationName="Achterste sluipschuttertoren"
+
+[Volume14]
+; EN: LocationName="Minigun platform"
+LocationName="Minigunplatform"
+
+[Volume15]
+; EN: LocationName="Minigun platform"
+LocationName="Minigunplatform"
+
+[Volume16]
+; EN: LocationName="Forward sniping tower"
+LocationName="Voorste sluipschuttertoren"
+
+[Volume17]
+; EN: LocationName="Forward sniping tower"
+LocationName="Voorste sluipschuttertoren"
+
+[Volume2]
+; EN: LocationName="Cargo trailer"
+LocationName="Vrachtaanhanger"
+
+[Volume3]
+; EN: LocationName="Boarding platform vehicle"
+LocationName="Voertuig instapplatform"
+
+[Volume4]
+; EN: LocationName="Forward weapon cache"
+LocationName="Voorste wapenvoorraad"
+
+[Volume5]
+; EN: LocationName="Pipe trailer"
+LocationName="Pijpenaanhanger"
+
+[Volume6]
+; EN: LocationName="Weapon trailer vehicle"
+LocationName="Voertuig wapenaanhanger"
+
+[Volume7]
+; EN: LocationName="Weapon trailer roof"
+LocationName="Dak wapenaanhanger"
+
+[Volume8]
+; EN: LocationName="Boarding platform"
+LocationName="Instapplatform"
+
+[Volume9]
+; EN: LocationName="Boarding platform"
+LocationName="Instapplatform"
+
+[ZoneInfo1]
+; EN: LocationName="Outside"
+LocationName="Buiten"
+
+[ZoneInfo2]
+; EN: LocationName="Repair vessel bridge"
+LocationName="Brug reparatievaartuig"
+
+[ZoneInfo3]
+; EN: LocationName="Repair vessel upper deck"
+LocationName="Bovendek reparatievaartuig"
+
+[ZoneInfo4]
+; EN: LocationName="Repair vessel upper deck"
+LocationName="Bovendek reparatievaartuig"
+
+[ZoneInfo6]
+; EN: LocationName="Door"
+LocationName="Deur"
+
+[ZoneInfo7]
+; EN: LocationName="Repair vessel"
+LocationName="Reparatievaartuig"
+
+[ZoneInfo8]
+; EN: LocationName="Weapon trailer inside"
+LocationName="Binnen in wapenaanhanger"
+
+[ZoneInfo9]
+; EN: LocationName="Outside"
+LocationName="Buiten"
+

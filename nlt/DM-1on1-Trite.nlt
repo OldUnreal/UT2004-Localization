@@ -1,0 +1,28 @@
+﻿[LevelInfo0]
+Title="Trite"
+
+[LevelSummary]
+Title="Trite"
+; EN: Description="Watch your back and stay alert in this abandoned facility or you may end up as cold as the steel which surrounds you..."
+Description="Let op je rug en blijf alert in deze verlaten faciliteit, anders word je net zo koud als het staal om je heen..."
+
+[ZoneInfo0]
+; EN: LocationName="Flak Area"
+LocationName="Flak-zone"
+
+[ZoneInfo1]
+; EN: LocationName="UDamage Area"
+LocationName="UDamage-zone"
+
+[ZoneInfo2]
+; EN: LocationName="Shield Room"
+LocationName="Schildkamer"
+
+[ZoneInfo3]
+; EN: LocationName="Sniper Rifle Area"
+LocationName="Sniper Rifle-zone"
+
+[ZoneInfo4]
+; EN: LocationName="Shock Rifle Hall"
+LocationName="Shock Rifle-hal"
+

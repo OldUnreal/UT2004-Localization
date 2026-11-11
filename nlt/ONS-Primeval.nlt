@@ -1,0 +1,32 @@
+﻿[LevelInfo0]
+Title="Primeval"
+
+[LevelSummary]
+Title="Primeval"
+; EN: Description="Nestled away in the darkness of the Primeval Forest, this Onslaught arena is a favorite of loggers and treehuggers alike."
+Description="Deze Onslaught-arena, verscholen in het duister van het Oerbos, is favoriet bij zowel houthakkers als boomknuffelaars."
+
+[Volume0]
+; EN: LocationName="Red Base"
+LocationName="Rode basis"
+
+[Volume2]
+; EN: LocationName="Red Side Base (1)"
+LocationName="Rode basis (1)"
+
+[Volume3]
+; EN: LocationName="Center Node (3)"
+LocationName="Middennode (3)"
+
+[Volume4]
+; EN: LocationName="Blue Side Base (2)"
+LocationName="Blauwe basis (2)"
+
+[Volume5]
+; EN: LocationName="Blue Base"
+LocationName="Blauwe basis"
+
+[ZoneInfo0]
+; EN: LocationName="Wandering in the Woods"
+LocationName="Dwalend door het bos"
+

@@ -1,0 +1,56 @@
+﻿[LevelInfo0]
+Title="Albatross"
+
+[LevelSummary]
+Title="Albatross"
+; EN: Description="From the ancient days of the Tournament comes a classic 1-on-1 arena, renovated and redesigned to once again mediate in the fate of bloodshed. Do not be fooled by its ostensible simplicity.  Those who understand subtle design will always dominate in this arena."
+Description="Uit de oude dagen van het Tournament komt een klassieke 1-tegen-1-arena, gerenoveerd en opnieuw ontworpen om opnieuw over het lot van bloedvergieten te beslissen. Laat je niet misleiden door de ogenschijnlijke eenvoud.  Wie subtiel ontwerp begrijpt, zal deze arena altijd domineren."
+
+[Volume1]
+; EN: LocationName="Lower Stream"
+LocationName="Benedenstroom"
+
+[Volume2]
+; EN: LocationName="Small Canyon"
+LocationName="Kleine kloof"
+
+[Volume3]
+; EN: LocationName="Minigun Ruins"
+LocationName="Minigun-ruïnes"
+
+[Volume4]
+; EN: LocationName="Bridge Area"
+LocationName="Brugzone"
+
+[Volume5]
+; EN: LocationName="Lower Courtyard"
+LocationName="Onderste binnenplaats"
+
+[Volume6]
+; EN: LocationName="Shock Rifle Lift"
+LocationName="Shock Rifle-lift"
+
+[Volume7]
+; EN: LocationName="Albatross Statue"
+LocationName="Albatrosbeeld"
+
+[ZoneInfo0]
+; EN: LocationName="Outside"
+LocationName="Buiten"
+
+[ZoneInfo1]
+; EN: LocationName="Rocket Launcher Hall"
+LocationName="Rocket Launcher-hal"
+
+[ZoneInfo2]
+; EN: LocationName="inside"
+LocationName="binnen"
+
+[ZoneInfo3]
+; EN: LocationName="inside"
+LocationName="binnen"
+
+[ZoneInfo4]
+; EN: LocationName="inside"
+LocationName="binnen"
+
